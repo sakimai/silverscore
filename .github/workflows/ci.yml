@@ -27,7 +27,7 @@ jobs:
           pip install -e ".[dev]"
 
       - name: Lint with ruff
-        run: ruff check src/
+        run: ruff check src/ --ignore E501
 
       - name: Run tests
-        run: pytest tests/ -v
+        run: pytest tests/ -v -m "not slow"

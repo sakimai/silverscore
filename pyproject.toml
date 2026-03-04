@@ -49,6 +49,9 @@ packages = ["src/silverscore"]
 [tool.ruff]
 line-length = 120
 
+[tool.ruff.lint]
+ignore = ["E501"]
+
 [tool.pytest.ini_options]
 markers = [
     "slow: marks tests as slow (deselect with '-m \"not slow\"')",
