@@ -7,7 +7,6 @@ then returns the full feature matrix for use with SiLVERScore.
 
 import logging
 import math
-import os
 from typing import Optional, Union
 
 import numpy as np

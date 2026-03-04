@@ -4,7 +4,6 @@ Adapted from OpenAI CLIP (https://github.com/openai/CLIP) and the CiCo/CLCL code
 """
 
 from collections import OrderedDict
-from typing import Tuple, Union
 
 import hashlib
 import os
@@ -12,7 +11,6 @@ import urllib
 import warnings
 
 import torch
-import torch.nn.functional as F
 from torch import nn
 from tqdm import tqdm
 
