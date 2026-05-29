@@ -158,6 +158,18 @@ Data location:
 Run:
 
 ```bash
-cd silverscore/notebooks
-jupyter notebook reproduce_paper_figures.ipynb
+cd silverscore
+python scripts/validate_paper_data.py --data-dir notebooks/paper_data
+bash scripts/run_paper_figures.sh
 ```
+
+## Reproducibility Guide
+
+For step-by-step reproduction workflows, see:
+
+- `REPRODUCE.md`
+
+For reordered experiments, expected intermediate outputs include:
+
+- `ph_test_openai_reorder_results.npy`
+- `csl_test_openai_reorder_results.npy`

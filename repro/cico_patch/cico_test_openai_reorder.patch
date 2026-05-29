@@ -1,0 +1,128 @@
+diff --git a/main_task_retrieval.py b/main_task_retrieval.py
+index 0000000..0000000 100644
+--- a/main_task_retrieval.py
++++ b/main_task_retrieval.py
+@@ -147,7 +147,7 @@ def get_args(description='CLCL on Retrieval Task'):
+     parser.add_argument("--pretrained_clip_name", default="ViT-B/32", type=str, help="Choose a CLIP version")
+ 
+-    parser.add_argument("--dataloader_type", type=str, default="test", choices=["test", "test_neg", "test_openai_neg", "test_nouns", "test_verbs"],
++    parser.add_argument("--dataloader_type", type=str, default="test", choices=["test", "test_neg", "test_openai_neg", "test_nouns", "test_verbs", "test_openai_reorder"],
+                         help="Specify the type of dataloader to use.")
+@@ -870,6 +870,8 @@ def main():
+         test_dataloader, test_length = DATALOADER_DICT[args.datatype]["test_nouns"](args, tokenizer)
+     elif args.dataloader_type == "test_verbs":
+         test_dataloader, test_length = DATALOADER_DICT[args.datatype]["test_verbs"](args, tokenizer)
++    elif args.dataloader_type == "test_openai_reorder":
++        test_dataloader, test_length = DATALOADER_DICT[args.datatype]["test_openai_reorder"](args, tokenizer)
+ 
+     if args.local_rank == 0:
+         logger.info("***** Running test *****")
+diff --git a/dataloaders/dataloader_ph_retrieval.py b/dataloaders/dataloader_ph_retrieval.py
+index 0000000..0000000 100644
+--- a/dataloaders/dataloader_ph_retrieval.py
++++ b/dataloaders/dataloader_ph_retrieval.py
+@@ -42,7 +42,7 @@ class ph_DataLoader(Dataset):
+         assert self.slice_framepos in [0, 1, 2]
+         self.feature_len=feature_len
+         self.subset = subset
+-        assert self.subset in ["train", "dev", "test", "test_neg", "test_openai_neg", "test_nouns", "test_verbs"]
++        assert self.subset in ["train", "dev", "test", "test_neg", "test_openai_neg", "test_nouns", "test_verbs", "test_openai_reorder"]
+         sentance_id_path_dict = {}
+         sentance_id_path_dict["train"] = os.path.join(self.data_path, "train.pkl")
+         # sentance_id_path_dict["dev"] = os.path.join(self.data_path, "dev.txt")
+@@ -50,6 +50,7 @@ class ph_DataLoader(Dataset):
+         sentance_id_path_dict["test_openai_neg"] = os.path.join(self.data_path, "test_openai_neg.pkl")
+         sentance_id_path_dict["test_nouns"] = os.path.join(self.data_path, "test_nouns.pkl")
+         sentance_id_path_dict["test_verbs"] = os.path.join(self.data_path, "test_verbs.pkl")
++        sentance_id_path_dict["test_openai_reorder"] = os.path.join(self.data_path, "test_openai_reorder.pkl")
+         if "test" in self.subset:
+             self.features_path = os.path.join(self.features_path, "test")
+             self.features_path_retrain=os.path.join(args.features_path_retrain, "test")
+diff --git a/dataloaders/dataloader_csl_retrieval.py b/dataloaders/dataloader_csl_retrieval.py
+index 0000000..0000000 100644
+--- a/dataloaders/dataloader_csl_retrieval.py
++++ b/dataloaders/dataloader_csl_retrieval.py
+@@ -43,11 +43,12 @@ class csl_DataLoader(Dataset):
+         assert self.slice_framepos in [0, 1, 2]
+         self.feature_len=feature_len
+         self.subset = subset
+-        assert self.subset in ["train", "dev", "test"]
++        assert self.subset in ["train", "dev", "test", "test_openai_reorder"]
+         sentance_id_path_dict = {}
+         sentance_id_path_dict["train"] = os.path.join(self.data_path, "train.pkl")
+         # sentance_id_path_dict["dev"] = os.path.join(self.data_path, "dev.txt")
+         sentance_id_path_dict["test"] = os.path.join(self.data_path, "test.pkl")
++        sentance_id_path_dict["test_openai_reorder"] = os.path.join(self.data_path, "test_openai_reorder.pkl")
+         if "test" in self.subset:
+             self.features_path = os.path.join(self.features_path, "test")
+             self.features_path_retrain=os.path.join(args.features_path_retrain, "test")
+diff --git a/dataloaders/data_dataloaders.py b/dataloaders/data_dataloaders.py
+index 0000000..0000000 100644
+--- a/dataloaders/data_dataloaders.py
++++ b/dataloaders/data_dataloaders.py
+@@ -220,6 +220,30 @@ def dataloader_ph_test_verbs(args, tokenizer, subset="test_verbs"):
+     print("loaded swap verbs")
+     return dataloader_ph, len(hp_testset)
+ 
++def dataloader_ph_test_openai_reorder(args, tokenizer, subset="test_openai_reorder"):
++    hp_testset = ph_DataLoader(
++        subset=subset,
++        data_path=args.data_path,
++        features_path=args.features_path,
++        max_words=args.max_words,
++        feature_framerate=args.feature_framerate,
++        tokenizer=tokenizer,
++        max_frames=args.max_frames,
++        frame_order=args.eval_frame_order,
++        slice_framepos=args.slice_framepos,
++        feature_len=args.feature_len,
++        args=args
++    )
++    dataloader_ph= DataLoader(
++        hp_testset,
++        batch_size=args.batch_size_val,
++        num_workers=args.num_thread_reader,
++        shuffle=False,
++        drop_last=False,
++    )
++    print("loaded openai reorder")
++    return dataloader_ph, len(hp_testset)
++
++
+ def dataloader_csl_train(args, tokenizer):
+@@ -300,10 +324,34 @@ def dataloader_csl_test(args, tokenizer, subset="test"):
+     )
+     return dataloader, len(testset)
+ 
++def dataloader_csl_test_openai_reorder(args, tokenizer, subset="test_openai_reorder"):
++    testset = csl_DataLoader(
++        subset=subset,
++        data_path=args.data_path,
++        features_path=args.features_path,
++        max_words=args.max_words,
++        feature_framerate=args.feature_framerate,
++        tokenizer=tokenizer,
++        max_frames=args.max_frames,
++        frame_order=args.eval_frame_order,
++        slice_framepos=args.slice_framepos,
++        feature_len=args.feature_len,
++        args=args
++    )
++    dataloader= DataLoader(
++        testset,
++        batch_size=args.batch_size_val,
++        num_workers=args.num_thread_reader,
++        shuffle=False,
++        drop_last=False,
++    )
++    print("loaded openai reorder")
++    return dataloader, len(testset)
++
+ 
+ DATALOADER_DICT = {}
+ 
+ DATALOADER_DICT["h2s"] = {"train":dataloader_h2s_train, "dev":dataloader_h2s_test, "test":dataloader_h2s_test}
+-DATALOADER_DICT["ph"] = {"train":dataloader_ph_train, "dev":dataloader_h2s_test, "test":dataloader_ph_test, "test_neg":dataloader_ph_test_neg, "test_openai_neg":dataloader_ph_test_openai_neg, "test_nouns":dataloader_ph_test_nouns, "test_verbs":dataloader_ph_test_verbs}
+-DATALOADER_DICT["csl"] = {"train":dataloader_csl_train, "dev":dataloader_csl_test, "test":dataloader_csl_test}
++DATALOADER_DICT["ph"] = {"train":dataloader_ph_train, "dev":dataloader_h2s_test, "test":dataloader_ph_test, "test_neg":dataloader_ph_test_neg, "test_openai_neg":dataloader_ph_test_openai_neg, "test_nouns":dataloader_ph_test_nouns, "test_verbs":dataloader_ph_test_verbs, "test_openai_reorder":dataloader_ph_test_openai_reorder}
++DATALOADER_DICT["csl"] = {"train":dataloader_csl_train, "dev":dataloader_csl_test, "test":dataloader_csl_test, "test_openai_reorder":dataloader_csl_test_openai_reorder}
