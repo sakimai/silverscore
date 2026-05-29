@@ -9,7 +9,6 @@ from argparse import Namespace
 
 VARIANT_CONFIGS = {
     "phoenix": {
-        "hub_model_id": "sakimai/silverscore-phoenix",
         "checkpoint_filename": "ph_sota.pth",
         "description": "Phoenix-2014T (German Sign Language)",
         "alpha": 0.9,
@@ -25,7 +24,6 @@ VARIANT_CONFIGS = {
         "max_words": 32,
     },
     "how2sign": {
-        "hub_model_id": "sakimai/silverscore-how2sign",
         "checkpoint_filename": "h2s_sota.pth",
         "description": "How2Sign (American Sign Language)",
         "alpha": 0.8,
@@ -41,7 +39,6 @@ VARIANT_CONFIGS = {
         "max_words": 32,
     },
     "csl": {
-        "hub_model_id": "sakimai/silverscore-csl",
         "checkpoint_filename": "csl_sota.pth",
         "description": "CSL-Daily (Chinese Sign Language)",
         "alpha": 0.8,

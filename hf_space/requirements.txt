@@ -1,0 +1,4 @@
+git+https://github.com/sakimai/silverscore.git
+opencv-python-headless
+pydantic==2.10.6
+torch

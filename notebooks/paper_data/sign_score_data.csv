@@ -1,0 +1,643 @@
+text_ids,same_indices,random_indices,same_scores_i2t,different_scores_i2t
+Rain and snow let go of the Alps in the night in the north and northeast falls here and there. Otherwise this is clear,"(0, 0)","[555, 331]",89.43073844909668,39.5870943069458
+"On Thursday in the northern half in the southern half of the sun, clouds of clouds similar to the weather on Friday","(1, 1)","[641, 226]",66.1664810180664,26.97755002975464
+A strong deep pulls up from the northern sea and from the morning hours there is violent snowfall sometimes also freezing rain,"(2, 2)","[40, 541]",69.81816673278809,50.358388900756836
+"Sunny, a wonderful day with temperatures up to seventeen degrees here in the west is also sunny.","(3, 3)","[298, 499]",82.37020969390869,32.028586864471436
+Germany will be under the influence of high pressure tomorrow that largely sells the clouds,"(4, 4)","[583, 106]",81.51332092285156,35.5095911026001
+On Sunday in the northwest a mixture of sun and clouds with some sometimes thundering showers,"(5, 5)","[341, 343]",81.14851951599121,26.349955558776855
+Local showers or thunderstorms that can be violent,"(6, 6)","[627, 309]",78.87763977050781,22.93325185775757
+In the next few days it will definitely continue for winter with some snow,"(7, 7)","[586, 380]",80.96559810638428,38.37800121307373
+And for the weekend it will even be a bit colder again,"(8, 8)","[330, 362]",64.94493103027344,47.25781059265137
+A quiet autumn mix made of high fog clouds and sun awaits us tomorrow,"(9, 9)","[65, 294]",70.67786598205566,25.06510305404663
+"Later, however, fog or high fog fields spread","(10, 10)","[469, 175]",86.38031482696533,26.722167015075684
+They keep up to be quite tough tomorrow,"(11, 11)","[594, 50]",67.06568717956543,37.071449279785156
+In Germany there are only weak air pressure differences,"(12, 12)","[190, 17]",58.49161911010742,35.12068033218384
+Moist air flows from the Mediterranean in which strong thunderstorms can develop in part,"(13, 13)","[156, 533]",58.195624351501465,31.05527687072754
+very similar temperatures than between six and eleven degrees today,"(14, 14)","[250, 235]",67.25111865997314,33.86796474456787
+In the north half there is still individual violent showers and thunderstorms at the beginning of the night that partially gave up,"(15, 15)","[550, 275]",77.14813423156738,36.50763130187988
+And by evening the snow border can also fall into the lowlands,"(16, 16)","[433, 148]",62.75596237182617,35.33642625808716
+"And now the weather forecast for tomorrow Friday, fifteenth October","(17, 17)","[82, 419]",82.63253211975098,54.51140117645264
+"Tomorrow morning a new low will form over the North Sea, which causes heavy rain from the north","(18, 18)","[103, 420]",70.6648817062378,31.73513889312744
+Tonight it is partly clearly in the south but also fog,"(19, 19)","[521, 446]",69.24569702148438,51.67723083496094
+"In the course of the north and northwest, there are sometimes heavy rain on individual thunderstorms","(20, 20)","[188, 24]",77.92545509338379,55.47064208984375
+Tomorrow the sun shines everywhere again,"(21, 21)","[324, 371]",74.60740852355957,20.920061588287354
+On Saturday it rains in the southeast and on the Baltic Sea there it is sometimes windy otherwise it only rains occasionally the sun shows itself,"(22, 22)","[456, 459]",77.9687271118164,25.024044036865234
+On Thursday it is still changeable to the northwest in the southeastern half,"(23, 23)","[361, 75]",72.8730697631836,50.081703662872314
+"In the west and northwest, the weather calms down again later","(24, 24)","[219, 453]",71.14343070983887,32.46381711959839
+Tomorrow there will be strong shower or thunderstorms in the east and southeast with a mix of sun and clouds,"(25, 25)","[141, 434]",73.00045585632324,37.7557373046875
+Temperatures just around zero degrees in the coldest in the north to minus five degrees,"(26, 26)","[41, 447]",77.53003883361816,50.04049110412598
+The air that flows to us in the coming week is much cooler,"(27, 27)","[508, 159]",69.34218120574951,33.39340782165527
+"On Tuesday it is sometimes friendly, some of them, some rain showers are sometimes also thunderstorms","(28, 28)","[399, 554]",64.70275592803955,45.595876693725586
+On Sunday in the north and in the middle of showing it is stormy in the north,"(29, 29)","[154, 220]",84.96232509613037,25.605355739593506
+Friendly weather in the south,"(30, 30)","[534, 161]",58.31959915161133,40.56054449081421
+Thursday will be really blatant. We expect storms in Germany and large temperature differences six to twenty degrees,"(31, 31)","[615, 333]",76.91844940185547,32.225093364715576
+Also on Saturday it rains or snowed it spreads later in the west and north,"(32, 32)","[186, 39]",76.9683837890625,31.898019790649414
+"In the southwest tomorrow, values for freezing in the east to minus seven degrees","(33, 33)","[556, 254]",72.11834621429443,26.465639114379883
+"In the southern half, night frost must be expected","(34, 34)","[534, 306]",73.12146663665771,45.54732418060303
+On the day six degrees on the Alps and thirteen degrees on the Upper Rhine,"(35, 35)","[248, 167]",85.48549461364746,36.15949249267578
+"And now the weather forecast for tomorrow Thursday, fifteenth October","(36, 36)","[22, 560]",77.29084777832031,46.32192802429199
+Tonight plus four degrees on the Baltic Sea up to minus four degrees in the low mountain ranges,"(37, 37)","[306, 7]",88.84257411956787,42.97654438018799
+And now the weather forecast for tomorrow Tuesday Thirteenth October,"(38, 38)","[33, 70]",85.70636749267578,22.54633378982544
+It is friendly in the west,"(39, 39)","[260, 169]",67.11551475524902,42.3364896774292
+similar weather then on Thursday,"(40, 40)","[102, 282]",61.9921932220459,34.27114486694336
+"On Friday, many clouds bring the rain","(41, 41)","[112, 441]",76.1268424987793,45.319214820861816
+In the east and southeast also snow or snow,"(42, 42)","[449, 222]",79.28375053405762,29.174479484558105
+"On the day in the east a lot of sun in the western half, it rains between Lower Rhine and East Frisia","(43, 43)","[369, 371]",89.61060905456543,36.260432720184326
+"First of all, the thunderstorm is only increased in the west from day to day it also increases to the east","(44, 44)","[161, 138]",78.10897064208984,30.39133644104004
+"Tomorrow morning on the Baltic Sea still strong gusts, otherwise the wind blows weak to moderately from east to southeast","(45, 45)","[571, 516]",85.1264476776123,37.88734245300293
+There even with slight plus degrees but otherwise it remains frosty,"(46, 46)","[505, 581]",74.42975425720215,17.78565740585327
+And the coldest corner will remain the entire southeast,"(47, 47)","[262, 499]",84.0568037033081,47.132230281829834
+And now the weather forecast for tomorrow Sunday the twelfth July,"(48, 48)","[267, 201]",77.17312812805176,37.68979454040527
+At night the temperatures drop to fourteen to seven degrees,"(49, 49)","[209, 402]",85.13734912872314,33.190192222595215
+Tomorrow maximum values between seventeen degrees in the Emsland and twenty -five degrees on the Upper Rhine,"(50, 50)","[549, 334]",78.29030990600586,21.9406156539917
+"Also on Tuesday and Wednesday, the sun sometimes clouds in the southeastern half of the heavy thunderstorms","(51, 51)","[103, 59]",71.57264614105225,37.16714906692505
+And now the weather forecast for tomorrow Tuesday February,"(52, 52)","[110, 158]",83.48208427429199,35.08560276031494
+"The day begins in the east, in a friendly way, later in the northwest, the sun otherwise predominates more often the clouds predominate","(53, 53)","[85, 133]",75.20586013793945,20.66545295715332
+In many places there are showers and thunderstorms that can be violent,"(54, 54)","[297, 485]",74.62979221343994,35.654541015625
+"Especially above the mountain country, swing clouds can form in places during the day and in the southwest it has to be expected with isolated heat weather","(55, 55)","[156, 512]",65.62401866912842,44.8962345123291
+Most of the time the wind blows weakly from western directions,"(56, 56)","[49, 314]",70.66496849060059,35.40167808532715
+Now I wish you a nice evening,"(57, 57)","[127, 571]",68.73039817810059,50.977999210357666
+"In the west and northwest, individual showers fall","(58, 58)","[35, 141]",78.81663703918457,23.68830919265747
+Fresh wind with strong to stormy gusts near showers on the North Sea and on the mountains partially storm gusts,"(59, 59)","[513, 426]",61.380523681640625,13.5340096950531
+And now the weather forecast for tomorrow Saturday Fifth December,"(60, 60)","[494, 304]",82.37423515319824,56.22250843048096
+"After a short weather calming, a new low -skator will reach us from the west tomorrow","(61, 61)","[83, 326]",69.95153427124023,23.213640451431274
+He again provides clouds that bring the rain in the mountains in the mountains,"(62, 62)","[12, 320]",75.04731845855713,31.866904258728027
+"From Sunday it will be mild again, there are many clouds at times rain in the northwest windy","(63, 63)","[166, 403]",78.16113471984863,21.843350410461426
+"On Monday and Tuesday, the sun can also be seen here and there","(64, 64)","[587, 286]",68.02281188964844,25.647562980651855
+Tonight it is usually only cloudy or clearly in the northwest there are sometimes a few denser clouds,"(65, 65)","[257, 51]",79.14362716674805,20.680439949035645
+Tomorrow must be expected with partially strong showers and thunderstorms,"(66, 66)","[219, 617]",84.92940711975098,33.49412775039673
+on Saturday mostly friendly mostly dry and warmer,"(67, 67)","[23, 143]",85.3650312423706,13.577994346618652
+"On Sunday, showers and thunderstorms move up again from the northwest","(68, 68)","[489, 504]",69.72836494445801,27.59438157081604
+on the North Sea and on the mountains heavy gusts of wind,"(69, 69)","[112, 193]",66.83434677124023,47.96733617782593
+Frost -free two to eight degrees under clouds tonight,"(70, 70)","[638, 595]",69.59379577636719,44.097951889038086
+"And now the weather forecast for tomorrow Thursday, April 1st","(71, 71)","[238, 61]",81.26068496704102,42.61124229431152
+The low in Scotland together with cool air will also ensure changeable weather tomorrow,"(72, 72)","[27, 272]",74.78562355041504,42.486900329589844
+"On Friday, the sun is clouds and only individual shower in places the sun shows itself for a long time","(73, 73)","[257, 178]",74.7655897140503,45.404573917388916
+And so a mixture of partially tough fog fields awaits us clouds and sunshine,"(74, 74)","[212, 154]",72.16147136688232,31.053224086761475
+The new week begins changeable and cooler,"(75, 75)","[485, 180]",85.54218482971191,24.154301166534424
+"Tomorrow we already have the thirty degrees in the south of France tomorrow and for us probably in the southwest, the twenty -five degrees","(76, 76)","[461, 466]",82.37413501739502,22.834970235824585
+"Yes, Thursday is almost even more beautiful a little warmer","(77, 77)","[25, 280]",71.46076774597168,33.86639595031738
+Around late afternoon or evening there is probably the first rain showers in the northwest,"(78, 78)","[603, 160]",74.46543598175049,20.69088077545166
+Weak to moderate in the north also a fresh wind from east to southeast on the North Sea and on the mountains it is strong with stormy gusts,"(79, 79)","[155, 435]",73.80032730102539,55.26507329940796
+on Thursday still unsteady but from Friday it will be slowly friendlier from the west,"(80, 80)","[407, 546]",70.69745922088623,32.72305202484131
+weak to moderate on the mountains in gusts even strong wind in the north half from east to northeast otherwise from different directions,"(81, 81)","[95, 277]",72.05377864837646,38.03814697265625
+The wind usually blows weak and comes from different directions,"(82, 82)","[99, 600]",76.3773422241211,29.905277252197266
+"On Monday it is changeable, sometimes the sun, especially in the eastern half, some strong shower and thunderstorms","(83, 83)","[212, 105]",81.90369033813477,41.14811134338379
+Away from the thunderstorms of weak to moderate wind,"(84, 84)","[102, 508]",49.521039962768555,39.83033752441406
+It usually stays dry from the southwest to the middle,"(85, 85)","[61, 297]",74.72056198120117,28.545366287231445
+Tomorrow temperatures of eighteen degrees on the coast to twenty -six in the Breisgau,"(86, 86)","[584, 286]",71.38694763183594,34.728044509887695
+"In addition, a strong wind blows again above all things over Western Pomerania from southeast","(87, 87)","[130, 639]",53.12924337387085,30.00108051300049
+"From Sunday it goes down again, it will be more changeable","(88, 88)","[142, 559]",67.05817699432373,22.40692138671875
+It remains milder among the rain clouds in the east with fifteen sixteen degrees,"(89, 89)","[520, 172]",84.13034343719482,34.544769287109375
+And now the weather forecast for tomorrow Tuesday the twenty -one June,"(90, 90)","[471, 158]",74.3410873413086,21.68724536895752
+On the Saar tonight mild sixteen on the Elbe only eight degrees,"(91, 91)","[181, 298]",60.338510513305664,28.253967761993408
+"On the Hochrhein tomorrow, warm thirty on the North Sea fresh eighteen degrees","(92, 92)","[193, 550]",67.668044090271,48.3016996383667
+"And in this cooler actually more pleasant air there is still stormy wind on Thursday, at least in the north","(93, 93)","[313, 72]",63.452720642089844,28.241180419921875
+Very mild air flows to us,"(94, 94)","[105, 336]",78.29358100891113,21.333065032958984
+"And now the weather forecast for tomorrow Tuesday, nineteenth April","(95, 95)","[320, 475]",91.90278434753418,33.31174039840698
+"Tomorrow in many places, especially in the south and east, some thunderstorms sometimes. Sometimes it rains heavily and storms are still possible","(96, 96)","[69, 17]",76.98847770690918,39.62974548339844
+Tonight it is usually heavily cloudy rains or drizzles something,"(97, 97)","[244, 114]",69.95669460296631,50.32695960998535
+There are more clouds here and there in the northeast,"(98, 98)","[476, 518]",74.42687034606934,51.38935375213623
+"On Friday, the sun often seems to be away from the fog areas","(99, 99)","[255, 168]",82.10549068450928,26.280786752700806
+"In the north and west tomorrow twenty to twenty -three, otherwise fifth twenty -fifth to twenty -nine degrees","(100, 100)","[226, 225]",79.39217758178711,35.8715386390686
+This includes a low pressure area with mild air in your luggage,"(101, 101)","[461, 89]",79.64372539520264,39.093284606933594
+"As I said, the floor is still frozen on the Rhine, the location relaxes with plus degrees","(102, 102)","[470, 142]",71.07611274719238,38.7534236907959
+It usually remains cloudy as in this picture here,"(103, 103)","[409, 604]",56.039493560791016,36.601478576660156
+"And in the west we hardly have snow anymore, but there are also exceptions the low mountain range","(104, 104)","[4, 65]",74.78338050842285,40.04879713058472
+"In addition in the west, however, a little milder with minus four to minus seven degrees","(105, 105)","[9, 400]",83.81767272949219,35.46555805206299
+Hello and good evening dear spectators,"(106, 106)","[99, 400]",81.25218677520752,28.041619777679443
+And tomorrow it will be similar again in the southeastern half of,"(107, 107)","[92, 289]",66.50222969055176,31.28749179840088
+"In the next few days this will no longer be the case, then overall it will be a bit cooler for the weekend, especially for the weekend","(108, 108)","[372, 624]",72.19902229309082,42.512688636779785
+"Under the influence of low pressure, we can expect quite cool shower weather on Sunday","(109, 109)","[471, 72]",59.52992057800293,33.321189880371094
+six degrees this night on the edge of the Alps up to fifteen degrees on the Oder,"(110, 110)","[207, 192]",73.0652904510498,41.99935245513916
+similar weather on Thursday,"(111, 111)","[348, 412]",65.51762771606445,35.02041435241699
+On Friday it is initially friendly in the southwest,"(112, 112)","[6, 3]",75.54576110839844,30.430596351623535
+Otherwise it rains temporarily,"(113, 113)","[612, 468]",71.35349559783936,44.003156661987305
+"In the other parts of the country, it usually gets friendly thanks to a high pressure zone that ranges from the Biscay to the Shetland Islands","(114, 114)","[355, 155]",74.75123691558838,35.447593688964844
+On Tuesday it is usually friendly in the western half otherwise shower or thunderstorms in places,"(115, 115)","[488, 490]",90.57634544372559,26.453951597213745
+The risk of flooding increases again.,"(116, 116)","[521, 178]",52.707855224609375,44.778194427490234
+And the weather in the southeastern Mediterranean is only slowly calming down,"(117, 117)","[304, 414]",69.98023319244385,41.73863220214844
+On the day three degrees on Usedom up to twelve degrees in Emsland,"(118, 118)","[197, 616]",57.29368782043457,33.861342430114746
+"On Friday, partly the sun partly in the extreme south at the beginning still rainy","(119, 119)","[297, 351]",76.58331489562988,34.808353424072266
+The sometimes heavy rain spreads through the middle of the day to the south,"(120, 120)","[458, 30]",45.931264877319336,17.7073495388031
+"On the Elbe single showers in the northwest, however, much friendlier again","(121, 121)","[149, 470]",76.1235179901123,40.611313343048096
+Otherwise individual showers on the North Sea also thunderstorms,"(122, 122)","[352, 87]",32.37565088272095,43.26059627532959
+"At first it rains a bit in the mountain country, there is also snow in the afternoon in the west and northwest","(123, 123)","[247, 431]",67.39980030059814,57.36972427368164
+"And now the weather forecast for tomorrow Wednesday, eighth September","(124, 124)","[171, 183]",84.45237350463867,56.49808883666992
+"Weak to moderate in the north, partly fresh southeast to the east wind, which in the southwest later turns on the southwest on the coasts he blows heavily with stormy gusts","(125, 125)","[554, 43]",74.93310356140137,29.434558868408203
+On Thursday it rains especially in the south and east in some places,"(126, 126)","[20, 148]",68.77764892578125,29.43803358078003
+"On Sunday, especially in the east and south, shower or thunderstorms are otherwise mostly friendly","(127, 127)","[25, 239]",86.62835121154785,37.76838779449463
+In the new week it cools down significantly in changeable weather,"(128, 128)","[215, 421]",82.54883193969727,32.50834083557129
+On the day ten degrees on the North Frisian coast twenty degrees in Lower Bavaria,"(129, 129)","[638, 586]",67.19937515258789,39.67804765701294
+"And then the new clouds are pushing up here in the northwest. In the afternoon, the first splashes of rain on the North Sea and the wind is freshening up from south southwest","(130, 130)","[350, 592]",65.2073335647583,48.11741638183594
+Germany remains under the influence of gravure and in the next few days we mostly expect cloudy weather with a little rain or snow,"(131, 131)","[544, 298]",73.6590690612793,35.273300647735596
+Tonight there are individual snow showers,"(132, 132)","[73, 463]",61.513023376464844,34.60218048095703
+"Local, freezing rain is also the northeast","(133, 133)","[47, 41]",62.15191650390625,17.188148736953735
+"In addition, a weak to moderate wind blows from southeast to south","(134, 134)","[432, 539]",76.55290699005127,19.151075839996338
+"there tomorrow seven degrees northeast of the Elbe, sometimes only minus one degree","(135, 135)","[460, 423]",79.20981693267822,25.140552043914795
+"The cold air remains with us, where the temperatures go back until Friday","(136, 136)","[474, 158]",75.43063831329346,27.10124444961548
+"In the north of weak wind from different directions, otherwise it will blow moderate","(137, 137)","[122, 91]",71.88394165039062,46.29780197143555
+Fresh wind in the altitudes of southern Germany,"(138, 138)","[430, 73]",72.69841957092285,24.82600212097168
+"Even at the beginning of the coming week, little will change","(139, 139)","[202, 164]",64.75376510620117,25.96721649169922
+"And now the weather forecast for tomorrow Monday, eighteenth April","(140, 140)","[511, 545]",85.68451118469238,35.972482204437256
+Otherwise a lot of sun a few loose clouds in the northwest fall in the afternoon individual shower,"(141, 141)","[382, 346]",70.50994491577148,39.2336483001709
+"Tonight there is also on the coasts of showers in the south, but there they gradually let go","(142, 142)","[571, 492]",81.86135292053223,22.533851861953735
+Snow or freezing rain in the northern half of the day in the north half,"(143, 143)","[217, 479]",51.13891410827637,36.09752178192139
+"At the weekend, the strong thaw continued to be accompanied by further rainfall","(144, 144)","[182, 243]",68.45816898345947,32.14315891265869
+And now the weather forecast for tomorrow Saturday the thirty -one October,"(145, 145)","[53, 365]",80.33759307861328,27.515779972076416
+"In the eastern half, the sun often seems to be away from the fog areas","(146, 146)","[0, 604]",79.92415237426758,28.3659930229187
+"towards the west there are increased clouds during the day, but it remains largely dry","(147, 147)","[151, 299]",73.54432678222656,29.085795879364014
+"In the south there are still clouds at the beginning of the night that drop a few drops here and there, otherwise it is usually clear or only cloudy cloudy","(148, 148)","[207, 78]",72.81782817840576,34.015244483947754
+Fog forms especially in the northwest and in Bavaria,"(149, 149)","[238, 604]",71.08148002624512,33.04133701324463
+"After its dissolution, the sun will be spreading tomorrow","(150, 150)","[34, 318]",59.14662742614746,35.57932233810425
+Otherwise the high -pressure zone ensures that from the Atlantic to Scandinavia ranges for friendly weather,"(151, 151)","[556, 243]",77.85825729370117,25.864917755126953
+On the day seven degrees on the Baltic Sea and fifteen degrees on the Rhine,"(152, 152)","[257, 27]",78.21665000915527,39.570087909698486
+"On Saturday a lot of sunshine, especially on the Alps and coasts, it is also cloudy","(153, 153)","[159, 196]",80.07886219024658,41.776062965393066
+Individual showers are possible in the very south,"(154, 154)","[535, 205]",78.06254768371582,33.125277519226074
+"As soon as the fog during the day, the sun shines","(155, 155)","[387, 541]",60.74552917480469,29.309996604919434
+"In the very south, there can be individual shower on the coasts occasionally clouds through clouds","(156, 156)","[411, 521]",63.6806697845459,26.946594715118408
+"In the north, the wind blows weak to moderately from west to southwest otherwise weak wind from different directions","(157, 157)","[180, 410]",77.94465446472168,39.436790466308594
+Including some of them snow,"(158, 158)","[373, 420]",68.61959457397461,24.99387812614441
+"In contrast, it will still be dry in the north","(159, 159)","[449, 602]",63.80314254760742,50.28346395492554
+We have snow and snow in the morning,"(160, 160)","[352, 518]",69.28556442260742,40.57114887237549
+Saturday calms down something,"(161, 161)","[94, 341]",69.2110767364502,42.42498302459717
+And it will be a little colder in the course of Sunday from the east,"(162, 162)","[505, 419]",84.69936847686768,38.41350603103638
+I wish you a nice evening and do it well,"(163, 163)","[308, 408]",55.60263109207153,38.953288078308105
+Sometimes it is also clear,"(164, 164)","[199, 57]",82.52988624572754,11.29843533039093
+"In the south, violent thunderstorms discharged here and there later","(165, 165)","[538, 579]",75.74316883087158,47.77557611465454
+Tonight warm thirteen to eighteen degrees,"(166, 166)","[252, 200]",71.20934009552002,36.37763833999634
+"Especially in the southern mountain country, individual heat wives","(167, 167)","[433, 571]",62.6351318359375,47.58625602722168
+That means further snowfall and light to moderate permanent frost,"(168, 168)","[508, 196]",70.21541213989258,23.177022457122803
+At the weekend the weather is slowly calm down,"(169, 169)","[291, 147]",76.74002075195312,31.14488172531128
+"On Saturday, it is easy to see in the north of the bright spots in the north","(170, 170)","[190, 327]",71.84136390686035,25.14230442047119
+"Tonight, especially in a strip from Baden Württemberg to Saxony, snow showers in places","(171, 171)","[147, 235]",78.9147834777832,39.129263401031494
+Caution because of the roadside road,"(172, 172)","[121, 461]",64.43343734741211,36.644036293029785
+"Tonight it will be pretty icy, above all, in the low mountain ranges","(173, 173)","[183, 598]",71.07404327392578,32.11059808731079
+And in the course of the night or in the morning probably it will only start to snow in the southwest,"(174, 174)","[605, 352]",51.7186336517334,47.013352394104004
+"On Friday, however, it is slowly going down in the east thunderstorm","(175, 175)","[338, 537]",67.04646110534668,33.14791488647461
+And from Saturday Sunday cool autumn weather that is now just part of it,"(176, 176)","[517, 586]",75.56229019165039,40.40818119049072
+I wish you a nice evening and bye,"(177, 177)","[268, 535]",66.42316246032715,32.9258770942688
+The weather will definitely be high above the North Sea tomorrow in the whole country,"(178, 178)","[488, 453]",61.403000831604004,60.394232749938965
+Even at the weekend it provides a lot of sunshine with increasing temperatures,"(179, 179)","[265, 227]",87.10096549987793,45.035873889923096
+On the day sixteen degrees on the Baltic Sea and up to twenty -seven degrees on the Upper Rhine,"(180, 180)","[19, 28]",85.22392654418945,19.850898265838623
+The wind usually blows weakly from different directions,"(181, 181)","[562, 366]",68.49536609649658,25.470773220062256
+He also lives up a little on the lake and comes from west,"(182, 182)","[409, 334]",62.640525817871094,54.394235610961914
+Another deep that is over Spain tomorrow will ensure that it will snow hard on Friday,"(183, 183)","[597, 470]",78.93064498901367,41.97718572616577
+"Especially towards the coast and in the southwest, it can snow a little at night","(184, 184)","[66, 7]",73.47628784179688,29.88558053970337
+I wish you a nice evening and do it well,"(185, 185)","[16, 455]",72.01296997070312,41.0971622467041
+Tonight twelve degrees in Cologne bay one degree in Brandenburg,"(186, 186)","[350, 595]",77.84434509277344,27.91252303123474
+On the day eleven degrees in the Vogtland and twenty -first degrees on the Upper Rhine,"(187, 187)","[305, 538]",80.73023223876953,30.558756828308105
+During the night it rains especially from Schleswig Holstein to the Oder and in the south,"(188, 188)","[631, 187]",55.0773720741272,28.035671710968018
+On the day four degrees in the Sauerland and twelve degrees in Breisgau,"(189, 189)","[213, 2]",88.75185775756836,32.440542221069336
+On the day nineteen degrees on the North Sea and twenty -six degrees in parts of Thuringia and Saxony,"(190, 190)","[131, 317]",58.87240219116211,59.70541191101074
+"And now the weather forecast for tomorrow Wednesday, twenty -seven January","(191, 191)","[552, 102]",86.2234354019165,37.391496658325195
+Tomorrow we can expect quite quiet winter weather in many places and in many places,"(192, 192)","[437, 364]",77.35335922241211,48.64230823516846
+"When it has disappeared, the sun will be shown in the south tomorrow while the clouds continue to spread towards the Danube and get bigger gaps","(193, 193)","[439, 84]",69.28795433044434,29.427112102508545
+"In the southeastern half of Germany, it will remain quite friendly tomorrow under light high pressure influence","(194, 194)","[0, 268]",74.70858573913574,36.28171157836914
+The northeast of Germany is usually on the sunny side thanks to the influence of the high pressure,"(195, 195)","[175, 422]",68.99001026153564,30.337142944335938
+"At night, especially in the northwestern half of the northwest, it must be expected with showers and thunderstorms that can be violent","(196, 196)","[308, 478]",82.91038227081299,26.24290370941162
+Good evening dear spectators,"(197, 197)","[245, 138]",82.30365943908691,38.48027992248535
+"In the next few hours, up to five centimeters of snow can still fall","(198, 198)","[195, 210]",85.20313167572021,43.39419412612915
+"In the east and south on Tuesday, individual showers down to medium layers of snow otherwise partly fog partly clouds or sun","(199, 199)","[495, 158]",74.03559303283691,20.328255653381348
+"On Wednesday, rain moves up from the North Sea, which spreads on Thursday","(200, 200)","[387, 166]",69.49299240112305,31.62518310546875
+towards the southeast a mixture of fog clouds and sun,"(201, 201)","[210, 183]",66.46651458740234,47.9055290222168
+west of the Rhine and in the northeast it usually stays dry,"(202, 202)","[485, 28]",82.51216888427734,46.49505949020386
+"It is partly very cloudy or foggy, partly friendly with sunshine","(203, 203)","[101, 402]",74.9914026260376,35.06235122680664
+It will be much friendlier,"(204, 204)","[257, 413]",71.96220111846924,19.622400045394897
+"Not quite there tonight, we have a little bit of struggle with rain on the coasts","(205, 205)","[312, 316]",45.56747817993164,41.67757606506348
+"In the southern half, the wind blows weakly to moderately towards coasts fresh and strongly gusty","(206, 206)","[616, 473]",67.83371543884277,25.489725589752197
+"On Friday, calm dry weather, especially in the north, is quite friendly, similar to the weather on Saturday, only in the north there is a little snow or freezing drizzle","(207, 207)","[377, 108]",74.7592945098877,56.70113754272461
+Dear viewers good evening,"(208, 208)","[620, 456]",79.95360565185547,64.18619537353516
+A tough weather change since yesterday even with tornados,"(209, 209)","[393, 501]",56.969635009765625,29.971306800842285
+The next bigger rain for us is probably only in sight on Thursday,"(210, 210)","[278, 625]",71.8565845489502,33.7046799659729
+Local stormy gusts on the Baltic Sea tonight,"(211, 211)","[472, 446]",83.42443943023682,33.37720584869385
+Tomorrow weak to moderate on the lake fresh wind from southwest to west,"(212, 212)","[469, 198]",74.14511489868164,32.99424648284912
+I wish you a nice evening,"(213, 213)","[619, 149]",69.34103965759277,31.929739475250244
+A lot of sunshine later form here and there a few spring clouds form here and there again,"(214, 214)","[361, 194]",77.64715766906738,35.65358638763428
+Wednesday and Thursday it remains windy in the north and there is rain there in areas,"(215, 215)","[544, 34]",65.64363861083984,42.07077598571777
+It gets friendlier every day from the south,"(216, 216)","[453, 391]",65.5974760055542,41.12886190414429
+Good evening dear spectators,"(217, 217)","[310, 298]",69.47779846191406,39.3018274307251
+A frosty cold night lies ahead of us,"(218, 218)","[399, 268]",60.84956359863281,42.94822931289673
+"And now the weather forecast for tomorrow Tuesday, twenty -five May","(219, 219)","[404, 343]",85.12443161010742,39.763400077819824
+"And now the weather forecast for tomorrow Thursday, twenty -seven August","(220, 220)","[367, 411]",85.01072406768799,32.95419216156006
+On Saturday it gets much cooler and very windy in the north,"(221, 221)","[174, 421]",74.60224151611328,22.742289543151855
+"As of Sunday, temperatures and sunshine duration will rise again","(222, 222)","[612, 452]",82.58082866668701,32.13409662246704
+"This leads to violent showers and thunderstorms, some of which can be stormy","(223, 223)","[289, 165]",71.02083778381348,23.01629114151001
+"In the east and south, heavy rain and hail must be expected at the beginning of the night","(224, 224)","[382, 351]",73.20266342163086,36.20693016052246
+"In the southeast it is dry tonight, otherwise it rains strongly in the north half","(225, 225)","[629, 118]",74.37240314483643,41.21556615829468
+In the very north and there is snow here and there,"(226, 226)","[40, 337]",64.03108501434326,34.87336826324463
+"At night it is usually clear or only slightly cloudy, especially in the river lowlands in the middle and south, a few fog fields Wabern again","(227, 227)","[15, 62]",72.76627826690674,25.58409357070923
+And now the weather forecast for tomorrow Friday the twenty -eightth August,"(228, 228)","[381, 394]",85.44941902160645,48.36904430389404
+From Scotland a deep moves to Norway,"(229, 229)","[408, 150]",86.90822410583496,40.383968353271484
+"His cold front will also reach Germany, including clouds, tomorrow","(230, 230)","[348, 501]",39.08640193939209,22.914676666259766
+The high above Scandinavia shifted a little to the east,"(231, 231)","[262, 614]",58.89390468597412,32.18127727508545
+"In a strip from Emsland to Lausitz, dense clouds are on the way, otherwise it is partly clearly cloudy","(232, 232)","[327, 538]",71.24169731140137,38.53976058959961
+But during the night it becomes increasingly cloudy,"(233, 233)","[631, 307]",73.23895263671875,26.901400089263916
+The strong Mediterranean deep extends its influence to the north and tomorrow ensures a cloudy sky in almost all of Germany,"(234, 234)","[153, 54]",67.07538032531738,34.684672355651855
+"In the north it will stay dry tomorrow otherwise, otherwise there will be a common rain.","(235, 235)","[242, 60]",81.72438716888428,36.987361907958984
+"In parts of Bavaria and Saxony, in addition to showers and thunderstorms, there are also cloud gaps","(236, 236)","[103, 421]",84.52541255950928,43.811530113220215
+"In the day, especially in the north, rain","(237, 237)","[193, 96]",61.24241638183594,33.870975494384766
+At the weekend it gets a little warmer with shower thunderstorms and occasional sunshine in changeable weather,"(238, 238)","[156, 181]",70.4438419342041,36.024282455444336
+"Tomorrow these rain clouds will spread across the middle towards the west, but above all to Baden Württemberg and Bavaria","(239, 239)","[505, 169]",86.10062217712402,22.99610710144043
+"And now the weather forecast for tomorrow Saturday, April second","(240, 240)","[328, 253]",78.7240047454834,29.652324199676514
+"Northeast of the Elbe, there are still many clouds tonight that initially bring a few drops","(241, 241)","[295, 574]",77.22405052185059,49.46627235412598
+Everywhere changeable and much cooler everywhere,"(242, 242)","[198, 344]",64.44892501831055,48.599937438964844
+But from Tuesday it will slowly become friendlier and warmer,"(243, 243)","[116, 49]",63.17545127868652,25.108174800872803
+This extends to southern Germany,"(244, 244)","[450, 347]",54.270681381225586,19.513203620910645
+"It will ensure a quiet, friendly weather tomorrow","(245, 245)","[191, 13]",42.23690462112427,25.50601601600647
+"On Saturday more clouds than the sun in the southeastern half of the southeast, partly heavy rain towards the northwest, only individual shower","(246, 246)","[245, 594]",77.60620880126953,40.248891830444336
+"The wind blows moderately to fresh with strong to stormy gusts in the mountains in the mountains, sometimes heavy gusts of wind in the southeast only weak wind","(247, 247)","[279, 156]",79.5807933807373,37.81889629364014
+On Monday it rains especially in the north and east and especially in the east it is most likely to be a little sun in the south,"(248, 248)","[443, 448]",66.24619579315186,34.566648960113525
+And now the weather forecast for tomorrow Saturday the twelfth December,"(249, 249)","[114, 22]",75.69257354736328,24.712751865386963
+Sometimes heavy rain pulls eastward tonight,"(250, 250)","[146, 287]",52.66067123413086,57.78969383239746
+"Behind it, it loosens up in the north and the middle partly on the North Sea short thunderstorms","(251, 251)","[510, 333]",74.42209053039551,29.935958862304688
+"The wind already lives on storm gusts in the north at night, there are individual stormy gusts on the mountains","(252, 252)","[478, 480]",76.6404857635498,45.83932018280029
+A deep above the Baltic Sea still brings snow to the north of Germany,"(253, 253)","[140, 116]",59.4287633895874,39.139347076416016
+The sun usually seems at the weekend and it gets even warmer,"(254, 254)","[639, 583]",77.47997093200684,27.882031679153442
+"There are also more clouds on Monday, but it remains warm and also friendly for a long time","(255, 255)","[563, 81]",72.61809730529785,33.003292083740234
+Only a light south wind blows,"(256, 256)","[332, 277]",76.87286758422852,24.996209621429443
+And now the weather forecast for tomorrow Friday the twentieth November,"(257, 257)","[481, 128]",77.62232398986816,46.04859733581543
+"There in the south, the wind usually blows only weakly north to the north of moderate temporarily fresh wind on the coasts strong to stormy gusts","(258, 258)","[143, 459]",77.25650119781494,49.511420249938965
+"In contrast, it remains to be blamed towards the southeast of this is deeply over Hungary","(259, 259)","[403, 337]",73.34948921203613,36.5523419380188
+Cold partially moist air determines the weather in Germany,"(260, 260)","[241, 623]",78.9024133682251,39.45722818374634
+This is gaining strength again and gives us a lot of sunshine at most summer temperatures at the weekend,"(261, 261)","[533, 187]",71.62847518920898,41.79678440093994
+"This also applies to the evening, but during the night of the night, showers and thunderstorms in the southeastern half are becoming less and less common","(262, 262)","[508, 173]",65.64445304870605,23.810498237609863
+Otherwise it is usually only cloudy or clearly in places forms fog,"(263, 263)","[118, 460]",69.17229747772217,34.76431369781494
+Tomorrow the sun shines here and there are sometimes a few thicker clouds appear,"(264, 264)","[578, 470]",74.24049091339111,44.4105224609375
+"And in the south, especially from the Bavarian Forest to the Alps, there are individual showers and thunderstorms in the afternoon","(265, 265)","[537, 547]",82.49000549316406,47.428011417388916
+Corresponding severe weather warnings of the German Weather Service apply,"(266, 266)","[50, 22]",77.26634788513184,18.235530853271484
+They move over us on Monday night,"(267, 267)","[295, 289]",74.40295791625977,40.59560203552246
+It is usually clear in the coming night,"(268, 268)","[43, 284]",53.2591495513916,32.82544755935669
+"On Tuesday, especially towards the east, longer friendly sections next to it, but also showers and thunderstorms","(269, 269)","[291, 466]",82.37914848327637,39.65114450454712
+During the night the clouds in the north and northeast of poets will be the first drops on the Baltic Sea,"(270, 270)","[577, 574]",67.51776695251465,32.88202095031738
+otherwise usually only loose clouds,"(271, 271)","[281, 483]",78.4119815826416,20.077672481536865
+The low also ensures clouds but it falls only a little rain,"(272, 272)","[30, 95]",69.84398174285889,36.0366792678833
+Tomorrow the temperatures of nine degrees on the Baltic Sea to seventeen degrees in the Breisgau,"(273, 273)","[404, 31]",78.07113933563232,25.554306507110596
+The new week is also growing and quite cool,"(274, 274)","[40, 528]",77.11695861816406,46.76867055892944
+The sun in the south seems widespread during the day and west later form in some areas of sweating clouds,"(275, 275)","[446, 163]",75.77575302124023,32.26150608062744
+There is possible frost there and in unfavorable trough locations,"(276, 276)","[284, 495]",62.84664535522461,31.201034545898438
+"In the south of moderate wind to the north, it blows fresh to strongly with individual gusts of wind on the Baltic Sea and hurricane gusts are possible on the mountains","(277, 277)","[519, 627]",80.49064064025879,44.156965255737305
+"However, they do not see the rain clouds that reach Central Europe","(278, 278)","[30, 300]",61.73309516906738,51.884318351745605
+"Because even tomorrow there will be no shower instead a lot of sunshine, most of course are happy about it","(279, 279)","[325, 320]",62.753058433532715,43.31093454360962
+Six degrees of temperatures between minus and plus five degrees tomorrow.,"(280, 280)","[522, 266]",67.03733539581299,15.437963485717773
+And now the weather forecast for tomorrow Thursday,"(281, 281)","[75, 232]",73.11367607116699,26.86079502105713
+"In the east and southeast next to partly tough fog fields, a dry mix of sun and clouds","(282, 282)","[472, 451]",83.22807312011719,36.28761625289917
+"In the east and southeast, individual thorough showers are possible at the beginning of the night","(283, 283)","[481, 78]",59.02949523925781,28.450791358947754
+Stormy gusts still at night on the lake,"(284, 284)","[142, 590]",62.53639793395996,49.33488082885742
+"Since the air pressure differences are large near the low center, it will be stormy in the coastal environment tomorrow","(285, 285)","[259, 129]",63.99023628234863,27.122002601623535
+The high that is moving towards Eastern Europe will definitely be shifting our weather in the coming days,"(286, 286)","[65, 188]",71.19480037689209,44.89805030822754
+"In the lowlands it is sometimes foggy a few kilometers next to it, it is consistently sunny on the mountains","(287, 287)","[210, 78]",80.86096954345703,51.72376728057861
+And now the weather forecast for tomorrow Friday October,"(288, 288)","[56, 347]",81.50189208984375,38.52040767669678
+"Especially in the north, dense clouds are occasionally evident tonight, some rain falls","(289, 289)","[165, 457]",71.21034812927246,42.678329944610596
+Especially in the southern half there is fog or high fog that can hold itself tough again tomorrow,"(290, 290)","[571, 507]",83.62837600708008,19.65860915184021
+Four degrees this night in the Allgäu and on the or thirteen degrees on the North Sea,"(291, 291)","[326, 216]",82.57828521728516,33.752060890197754
+The calm dry and sometimes quite friendly high -pressure weather will accompany us in the next few days,"(292, 292)","[407, 522]",82.95302677154541,35.179823875427246
+On Friday it also snowed in the west in the west and south in deep locations in the west,"(293, 293)","[106, 347]",87.1507797241211,39.41720390319824
+Good evening dear spectators,"(294, 294)","[599, 506]",79.22326850891113,37.09219741821289
+It will be a fairly trip over day in Germany tomorrow,"(295, 295)","[279, 360]",66.46888446807861,13.115346908569336
+The wind from south to west blows weak to moderate,"(296, 296)","[79, 619]",74.86782836914062,29.78032112121582
+There can also be stormy gusts there,"(297, 297)","[338, 260]",77.4240951538086,36.14919185638428
+Tomorrow in the eastern half of ten to thirteen degrees in the west up to seventeen degrees,"(298, 298)","[576, 173]",75.63972854614258,31.857418060302734
+On Saturday it is inconsistent again,"(299, 299)","[194, 11]",73.42630004882812,34.28738355636597
+It is still the friendliest in the northeast and in parts of Bavaria,"(300, 300)","[200, 502]",82.86305809020996,29.37759494781494
+On Sunday from time to time there are also thunderstorms,"(301, 301)","[635, 566]",82.566162109375,31.47015953063965
+In the southeast it is sometimes raining longer,"(302, 302)","[477, 5]",81.41832542419434,24.06885528564453
+"In the following days, deep air pressure ensures changeable weather and falling temperatures","(303, 303)","[626, 482]",71.46606826782227,48.30135250091553
+south of the Main tomorrow spread friendly,"(304, 304)","[428, 328]",71.78757762908936,20.017754554748535
+"Otherwise, many clouds that only bring rain shower and occasional thunderstorms in the middle of the middle of the middle in some places","(305, 305)","[448, 484]",50.07747459411621,37.35499382019043
+"weak more in the north, even moderate on the coast of fresh and temporarily strongly gusty west wind","(306, 306)","[314, 311]",55.02421998977661,26.808974742889404
+There and on the Lower Rhine Ten to Eleven two to nine degrees otherwise,"(307, 307)","[345, 386]",86.8750057220459,26.193439960479736
+"On Sunday in the south after resolution of fog, often sunny otherwise many clouds and some rain in places","(308, 308)","[327, 320]",76.99007987976074,39.845998764038086
+"Across Germany, an air mass boundary is the cooler sea air separates from the southeast of hot air","(309, 309)","[302, 98]",81.29621315002441,41.432003021240234
+Tomorrow is a high -pressure area that gives us common sunny and dry weather,"(310, 310)","[301, 305]",81.30282211303711,46.66868829727173
+"Cool fifteen to sixteen along the Rhine near the Rhine, twenty -three to twenty -six degrees","(311, 311)","[307, 497]",91.55395793914795,43.96358299255371
+It usually stays dry in the northeast,"(312, 312)","[116, 323]",76.56586456298828,22.461929321289062
+On Saturday it only snowed something,"(313, 313)","[318, 263]",63.907283782958984,42.77965068817139
+From time to time the sun can show,"(314, 314)","[486, 393]",69.52191162109375,47.33129692077637
+very windy on Saturday in the north,"(315, 315)","[413, 41]",72.40857982635498,41.64138698577881
+Little changes in the new week too,"(316, 316)","[210, 66]",73.08370208740234,31.94350814819336
+"In the north and northeast of Germany, it will usually remain cloudy with a little rain tomorrow","(317, 317)","[454, 287]",80.60690498352051,34.97938537597656
+There are many clouds in the north and northeast tonight or rains or drizzles something,"(318, 318)","[43, 5]",71.6488094329834,41.82441186904907
+"Tomorrow there are sometimes dense clouds or fog but also sun, especially in the south","(319, 319)","[260, 104]",76.34814262390137,39.384986877441406
+In the north and northeast it usually stays covered there is some rain there,"(320, 320)","[414, 164]",74.12475395202637,36.14957904815674
+In the south values near freezing point,"(321, 321)","[284, 377]",43.16133499145508,31.820247650146484
+Tomorrow temperatures of eight degrees in the northeast to seventeen in the southwest,"(322, 322)","[566, 470]",83.67721557617188,25.599935054779053
+On Tuesday it is mostly friendly in the northeast denser clouds with some rain,"(323, 323)","[188, 371]",74.26227378845215,28.769723892211914
+"And now the weather forecast for tomorrow Tuesday, fourteenth September","(324, 324)","[519, 418]",85.98005867004395,39.33754920959473
+And that won't happen at the weekend,"(325, 325)","[144, 301]",55.3147873878479,31.36866855621338
+Good evening dear spectators,"(326, 326)","[353, 317]",82.65999603271484,48.36622714996338
+the outlook,"(327, 327)","[9, 505]",74.59588623046875,25.73242473602295
+On Wednesday in the northern half of Regenschauer to the south,"(328, 328)","[398, 151]",76.4022159576416,58.801212310791016
+A strong high is established over Germany that will give us plenty of sunshine in the next few days,"(329, 329)","[261, 179]",79.73803329467773,73.09085178375244
+"And now the weather forecast for tomorrow Thursday, March third","(330, 330)","[104, 130]",77.63797187805176,43.87015962600708
+"On the Lower Rhine, fourteen in the east only six degrees in the east tonight","(331, 331)","[31, 345]",82.56743049621582,17.350480556488037
+In the Erzgebirge tomorrow thirteen otherwise fifteen to twenty -two degrees,"(332, 332)","[101, 276]",80.36017036437988,43.571908473968506
+"During the night it snows too easily on the coasts and initially in deep locations, rain is there","(333, 333)","[453, 331]",75.0794620513916,35.23400068283081
+On Sunday there are many clouds of rain or snow in the mountain country snow,"(334, 334)","[292, 76]",74.96592140197754,36.35684680938721
+And now the weather forecast for tomorrow Sunday Fifth December,"(335, 335)","[318, 146]",78.73508644104004,37.75730609893799
+tonight sparkle here and there but mostly high fog -like clouds are kept,"(336, 336)","[605, 623]",71.82455444335938,51.41428089141846
+In the north and west as well as stormy gusts near the showers,"(337, 337)","[585, 150]",81.51685905456543,23.754048347473145
+In the evening heavy gusts of wind on the mountains also hurricane -like gusts,"(338, 338)","[391, 215]",75.51481914520264,36.36931371688843
+Little changes at the temperatures,"(339, 339)","[593, 588]",71.61768054962158,27.920525550842285
+It is quite friendly towards the north and west,"(340, 340)","[557, 290]",72.6205005645752,31.868800163269043
+The wind usually blows moderately in the east and on the lake with strong gusts in the high layers of the eastern half of the wind,"(341, 341)","[558, 559]",80.82797145843506,35.32405948638916
+But they become less common today and withdraw towards the coast,"(342, 342)","[177, 310]",67.06168174743652,24.36894726753235
+In the southern half it is partly cloudy,"(343, 343)","[545, 130]",74.54086494445801,40.51908493041992
+"In the early hours, fog can form occasionally","(344, 344)","[472, 602]",71.48896598815918,41.4116587638855
+Tomorrow the clouds predominate in the northeastern half and there are individual showers,"(345, 345)","[103, 494]",78.81712436676025,40.71408271789551
+"Tonight there is still a few shower or thunderstorms in the south, otherwise it is usually clear or only cloudy cloudy","(346, 346)","[386, 344]",79.04158210754395,39.71622943878174
+"In the eastern half tomorrow, sunny clouds later also local showers or thunderstorms","(347, 347)","[108, 548]",78.94892978668213,49.98615741729736
+"Apart from shower and thunderstorms, the wind blows weak to moderately from northwest to north","(348, 348)","[55, 11]",56.37376689910889,37.15190505981445
+Tomorrow temperatures of fifteen degrees on the North Sea to twenty -four on the Rhine,"(349, 349)","[603, 490]",69.67690849304199,38.75429821014404
+Little changes in this weather on Sunday,"(350, 350)","[77, 76]",79.47627830505371,56.06167030334473
+"And now the weather forecast for tomorrow Saturday, eighteenth July","(351, 351)","[161, 448]",82.59781169891357,45.742565631866455
+"In the cold air flowing behind it, the weather is changeable tomorrow","(352, 352)","[529, 406]",73.20437240600586,32.869213581085205
+In the eastern half and south there are heavy rains tonight and sometimes violent thunderstorms,"(353, 353)","[548, 358]",76.3969554901123,30.36221694946289
+The German Weather Service has published corresponding severe weather warnings,"(354, 354)","[404, 434]",67.13451385498047,40.81118106842041
+mild air comes from the southwest,"(355, 355)","[157, 193]",71.9043025970459,28.67803955078125
+"And now the weather forecast for tomorrow Monday, twenty -eight November","(356, 356)","[317, 319]",79.00885105133057,41.54651498794556
+Tomorrow at the end lever in the south only two on the Lower Rhine up to eleven degrees,"(357, 357)","[180, 160]",77.0963306427002,17.425148487091064
+Little changes on Sunday and Monday on this uncomfortable and quite cool weather,"(358, 358)","[534, 301]",80.47439861297607,48.521244049072266
+Tonight seven to fourteen degrees a day twenty -two degrees in the south and fourteen degrees in Upper Franconia,"(359, 359)","[578, 201]",73.33237266540527,33.85036754608154
+On Saturday it is friendly in the southern half in the north half,"(360, 360)","[472, 228]",78.86542320251465,30.519550323486328
+"In the coming days, the deep over Eastern Europe our weather The cool air will remain with us first","(361, 361)","[256, 417]",75.02489471435547,48.68062353134155
+"On the day from Schleswig Holstein to Western Pomerania and initially in Brandenburg, long -lasting rain","(362, 362)","[215, 593]",61.3674259185791,44.15799331665039
+On Saturday it is still raining a little near the coast,"(363, 363)","[382, 223]",64.84146404266357,31.874381065368652
+"And even in the coastal area, it is also close to the thirty degree","(364, 364)","[207, 336]",55.60835886001587,37.682658195495605
+"Tomorrow again weak in the north, moderate wind from the south to southwest on the North Sea strong gusts","(365, 365)","[193, 191]",65.99379348754883,34.21244525909424
+Tonight values between fourteen degrees on the lake and four degrees on the Alps,"(366, 366)","[623, 458]",77.7532148361206,29.66270160675049
+Yes and so it stays on Wednesday,"(367, 367)","[190, 282]",73.50467300415039,32.219255447387695
+But on Thursday the heat comes back to the south we have cool shower weather in the north,"(368, 368)","[496, 609]",77.33556175231934,25.56702709197998
+"And now the weather forecast for tomorrow Friday, Ninth October","(369, 369)","[286, 597]",81.95465278625488,37.62538385391235
+On the Baltic Sea tonight stormy gusts from west,"(370, 370)","[474, 578]",80.1060791015625,29.239020347595215
+Tomorrow weak to moderate east wind,"(371, 371)","[573, 426]",70.35909366607666,39.8452844619751
+On Saturday a rain area crosses us from west to east,"(372, 372)","[624, 188]",83.05720138549805,33.470685958862305
+"In the east, however, friendly sections","(373, 373)","[32, 64]",56.702138900756836,24.701279640197754
+There are also cloud gaps in the west later,"(374, 374)","[358, 157]",69.60084533691406,37.9727349281311
+"In the low mountain ranges, four in the northwest under clouds up to twelve degrees tonight","(375, 375)","[432, 429]",86.13052940368652,20.335485458374023
+It is usually sunny to the east,"(376, 376)","[555, 318]",86.05645561218262,53.12507104873657
+"Also on Monday, in addition to the sun, sometimes heavy thunderstorms","(377, 377)","[82, 391]",69.76367950439453,31.774028301239014
+Otherwise it might just be a leaflet but not at all.,"(378, 378)","[535, 170]",64.92119216918945,26.633259773254395
+Have a nice evening,"(379, 379)","[197, 510]",67.40831184387207,27.489888191223145
+"Even tomorrow in the middle and in the south, stronger clouds","(380, 380)","[46, 64]",82.03225803375244,35.16966676712036
+A little snow is possible in the eastern mountain lanks and on the edge of the Alps,"(381, 381)","[34, 287]",80.95990371704102,40.23932886123657
+Tomorrow the temperatures of one degree in the Vogtland to nine degrees on the Upper Rhine range,"(382, 382)","[571, 377]",86.58316993713379,31.210801124572754
+"In the southeastern half of Germany, it remains the longest friendly under the light high pressure influence, but there can also be a lot of cracking there later","(383, 383)","[117, 586]",68.53664207458496,37.123937129974365
+"In the northwestern half the sun, the sun and again and again, partly strong in the afternoon","(384, 384)","[143, 536]",61.9976806640625,40.894100189208984
+Thursday and Friday does little change in this weather,"(385, 385)","[496, 304]",78.16774368286133,41.907878398895264
+The sultry heat in which something else and the thunderstorms can be stormy locally,"(386, 386)","[379, 155]",70.59285736083984,52.11443042755127
+And that with deep ophelia that drives the cold air with strong showers towards Central Europe,"(387, 387)","[625, 314]",56.375749588012695,34.939531326293945
+In the Alps it will even snow,"(388, 388)","[436, 592]",88.23141193389893,37.83241128921509
+Even relatively cool but then it looks like a few sunnier and also significantly warmer days,"(389, 389)","[518, 543]",84.45065784454346,50.87677192687988
+Now I wish you a nice evening,"(390, 390)","[344, 274]",74.92925834655762,53.48277282714844
+"And now the weather forecast for tomorrow Thursday, nineteenth November","(391, 391)","[562, 375]",80.35393524169922,25.351130962371826
+The temperatures on the edge of the Alps climb up to ten degrees,"(392, 392)","[320, 436]",85.4650468826294,46.20410490036011
+The water masses that come together can cause floods,"(393, 393)","[495, 573]",71.51255798339844,14.01488184928894
+"During the day it is usually very cloudy in the southeast, especially on the Alps, it has to be expected with rain","(394, 394)","[181, 636]",85.41537952423096,54.08850431442261
+Tonight eight to two degrees where it is clear for a long time.,"(395, 395)","[174, 337]",84.3781795501709,34.349971771240234
+Where it is clear tonight.,"(396, 396)","[211, 146]",50.54536247253418,42.664567947387695
+Wednesday and Thursday changeable here and there is some rain or snow that is increasingly also possible in the lowlands,"(397, 397)","[69, 261]",76.24533653259277,25.166417121887207
+"Between the deep near Scotland and the high over southern Europe, mild air flows to our Germany tomorrow","(398, 398)","[529, 228]",73.20935249328613,37.53267478942871
+In some places the highest temperatures of the week are expected,"(399, 399)","[371, 575]",58.305259704589844,39.48557662963867
+After that it only gets a little cooler,"(400, 400)","[617, 637]",63.02931308746338,43.43926525115967
+"Stormy gusts must be expected in the northwest in the north tonight, especially in the north of the day","(401, 401)","[223, 452]",71.96836948394775,41.81014585494995
+heavy gusts of wind on the North Sea,"(402, 402)","[552, 185]",51.83188056945801,42.78858947753906
+Hurricane -like gusts are possible on the mountains,"(403, 403)","[74, 76]",66.97990417480469,23.97025489807129
+tonight eleven degrees in the north and a degree on the Alps,"(404, 404)","[526, 128]",80.79463958740234,39.25015068054199
+"On the day ten degrees in the middle in higher locations, sixteen degrees in the south","(405, 405)","[352, 59]",82.70101165771484,30.87608051300049
+"On Thursday, especially in the northwest half here and there, gusts of storm","(406, 406)","[263, 61]",74.85079193115234,30.114657878875732
+Thunderstorms on the North Sea,"(407, 407)","[519, 100]",67.93836402893066,54.75905704498291
+Friendly sections in the south and east,"(408, 408)","[295, 299]",50.2324481010437,42.2923264503479
+"In the western half, the rain in Schauer goes into the mountains of snow showers","(409, 409)","[70, 201]",78.7505874633789,44.80392265319824
+"Tonight there are dense clouds in the north, especially north of a line of Emsland Uckermark, it is sking","(410, 410)","[452, 211]",43.69412422180176,34.46219062805176
+In the west and northwest largely dry here and there cloud gaps locally forms fog locally,"(411, 411)","[101, 500]",71.75037384033203,33.4043493270874
+"Tomorrow in the southeastern half of further, sometimes strong rainfall up to medium layers of snow","(412, 412)","[175, 374]",72.65785121917725,25.595412254333496
+"In the northwest half, partly friendly partly cloudy and mostly dry","(413, 413)","[568, 413]",69.69887161254883,16.148330211639404
+weak to moderate wind from north to west,"(414, 414)","[271, 625]",66.5245532989502,39.02223491668701
+On Wednesday a mixture of sun clouds and fog fields in the northwest here and there it is dry otherwise it will be dry,"(415, 415)","[180, 143]",91.3773250579834,40.16652011871338
+The starry sky in the west of that is deceptive because tomorrow it will rain again,"(416, 416)","[434, 84]",77.8118543624878,34.305357933044434
+"In the west, however, the clouds are increasing later and it begins to rain","(417, 417)","[523, 240]",79.66618251800537,36.89083766937256
+In the beginning there is also snow in the mountains,"(418, 418)","[456, 99]",73.9120922088623,30.350674629211426
+Otherwise the rain area will move east,"(419, 419)","[134, 242]",60.15605640411377,28.059574127197266
+On Monday the sun shines towards the coast and Alps it is cloudy but it only rains occasionally,"(420, 420)","[221, 45]",85.41738224029541,41.51758575439453
+Now I wish you a nice evening,"(421, 421)","[276, 596]",77.887864112854,43.71959209442139
+"A moderately blows in the north, sometimes fresh on the coast, even strong wind from southwest to west","(422, 422)","[578, 10]",66.32070350646973,20.05509853363037
+Stormy gusts are also possible in the north,"(423, 423)","[448, 531]",60.75771903991699,28.53391742706299
+there tomorrow to twenty -two degrees,"(424, 424)","[93, 261]",72.43128395080566,49.487688064575195
+Only cool sixteen degrees on the North Sea,"(425, 425)","[34, 316]",61.80144119262695,38.38989067077637
+still cloudy on Sunday in the north and especially near the coast,"(426, 426)","[361, 641]",83.44245719909668,28.466983318328857
+otherwise a lot of sunshine,"(427, 427)","[190, 16]",67.5610122680664,36.82595634460449
+"On Tuesday in the evening from the west, partly strong shower and thunderstorms move up again","(428, 428)","[476, 370]",74.62722206115723,39.59671068191528
+The dry heat over Russia with thirty -five to forty degrees,"(429, 429)","[139, 105]",69.78684425354004,48.99693584442139
+This remains the case this week so that the fires will continue to smolder,"(430, 430)","[509, 435]",56.6676721572876,33.972025871276855
+With us it gets really fresh tonight in the southeast because there are ten eleven degrees about,"(431, 431)","[42, 73]",77.86400508880615,31.025022506713867
+And now the weather forecast for tomorrow Thursday the seventeenth,"(432, 432)","[632, 595]",83.119873046875,32.58132314682007
+also many clouds and individual flakes during the day,"(433, 433)","[586, 373]",59.185733795166016,58.773234367370605
+In the north and in the far west it sometimes snaps stronger and it can get smooth,"(434, 434)","[335, 232]",74.02239513397217,19.748430967330933
+In the middle it also loosens up,"(435, 435)","[417, 413]",75.57309150695801,50.29998302459717
+The temperatures are except now in the rain where it remains a bit cooler,"(436, 436)","[556, 467]",77.08673095703125,28.887173175811768
+"Together with the humid air, it ensures sometimes violent thunderstorms","(437, 437)","[219, 588]",76.36059951782227,36.39683437347412
+The German Weather Service has published corresponding severe weather warnings,"(438, 438)","[428, 361]",60.959686279296875,24.381606101989746
+"Tomorrow morning of all the heavy rain, some thunderstorms are still hanging in Brandenburg heavy rain in Western Pomerania and on the Baltic Sea","(439, 439)","[490, 217]",72.39997482299805,21.294108867645264
+And so warm at twenty degrees it won't be in the next few days,"(440, 440)","[469, 533]",69.85926246643066,32.362189292907715
+Because in the south we have the humid warm storm air but it is still sunny in the south,"(441, 441)","[61, 120]",79.53602600097656,47.896947383880615
+The thunderstorms only arrive there in the evening,"(442, 442)","[178, 116]",69.30704689025879,35.6760368347168
+"And now the weather forecast for tomorrow Thursday, April","(443, 443)","[255, 401]",78.46714973449707,29.53244161605835
+And so good evening ladies and gentlemen,"(444, 444)","[540, 12]",70.69755935668945,24.628220558166504
+"About south of Spree and everyone, on the other hand, the sun seems radiant and it will do that tomorrow in southern Germany","(445, 445)","[571, 186]",60.49304008483887,42.30270051956177
+And we also contact this high,"(446, 446)","[424, 227]",72.39841270446777,19.042006254196167
+but only on the weekend,"(447, 447)","[391, 347]",68.42339515686035,36.4330267906189
+That night there is still some rain in the Bavarian Forest,"(448, 448)","[588, 247]",66.48632144927979,32.06057691574097
+Otherwise the stars often sparkle or fog forms,"(449, 449)","[14, 600]",78.0687026977539,26.95287322998047
+The temperatures drop to values between thirteen and five degrees,"(450, 450)","[597, 554]",73.94202613830566,66.7747859954834
+Tomorrow we will expect values of seventeen degrees on the coast,"(451, 451)","[280, 473]",73.12326240539551,30.988659858703613
+The new week then starts mixed,"(452, 452)","[269, 481]",68.9649429321289,23.382230758666992
+That's it for a nice evening today,"(453, 453)","[152, 47]",74.61075973510742,31.021284103393555
+"And now the weather forecast for tomorrow Sunday, nineteenth December","(454, 454)","[577, 322]",87.7558536529541,28.33779811859131
+In the south there are also rain that can freeze,"(455, 455)","[494, 277]",67.97115516662598,34.2408504486084
+initially weak to moderate wind that comes from the east of eastern direction from the south,"(456, 456)","[572, 341]",60.21661186218262,40.29399299621582
+Corresponding warnings of the German Weather Service apply,"(457, 457)","[604, 511]",64.80950736999512,32.81226634979248
+On the coast tomorrow cool nine degrees in Breisgau up to eighteen degrees,"(458, 458)","[523, 207]",75.63988876342773,16.181039571762085
+"On Wednesday, new clouds with rain or showers from local are also spreading from the northwest","(459, 459)","[462, 137]",78.74238967895508,50.377060890197754
+"Even in the following days, little changes in this changeable weather","(460, 460)","[492, 139]",72.04364490509033,53.85449028015137
+Summer temperatures are rather the exception,"(461, 461)","[384, 491]",58.5317268371582,35.72007656097412
+"On Sunday in the north and on the Alps, the sun is cloudy and from time to time it is quite friendly","(462, 462)","[402, 636]",74.79375457763672,50.01524353027344
+During the day it is mostly cloudy or foggy cloudy,"(463, 463)","[428, 518]",69.06766891479492,27.522822856903076
+Cross on Sunday and then an Atlantic deep run -down it becomes milder,"(464, 464)","[243, 362]",83.01458358764648,43.40867042541504
+"On Tuesday in the southern half, further showers occasionally occasionally thunderstorms in the north half","(465, 465)","[100, 531]",82.42420291900635,26.18030047416687
+Thunderstorms locally with hail heavy rain and gusts of gusts pull eastwards in the north at night,"(466, 466)","[560, 313]",66.20679569244385,20.527212142944336
+From the west it provides rain and smoothness,"(467, 467)","[91, 27]",69.8014907836914,38.995585441589355
+During the week the week it continues inconsistently and very mildly,"(468, 468)","[479, 526]",59.490840911865234,55.22106695175171
+The wind blows weak to moderately on the sea too,"(469, 469)","[43, 214]",61.119436264038086,40.806915283203125
+Tonight twelve degrees in the Bay of Cologne and a degree in the Bavarian Forest,"(470, 470)","[412, 579]",76.39521980285645,52.53803825378418
+a day between twenty and twenty -eight degrees on the Baltic Sea values below,"(471, 471)","[564, 203]",74.88748836517334,44.650267601013184
+"Sometimes that can go very quickly so whether it is nice, of course you decide ladies and gentlemen","(472, 472)","[176, 599]",61.5993537902832,18.778223514556885
+And so good evening,"(473, 473)","[117, 405]",76.3223009109497,37.42838001251221
+Sometimes it is a little warmer a little colder and this weather distribution will change little in the next few days,"(474, 474)","[230, 516]",80.61161136627197,35.585267066955566
+And now the weather forecast for tomorrow Saturday the twenty -one November,"(475, 475)","[402, 555]",83.99754333496094,25.10349678993225
+A weak deep runner brings some rain to the northwest of Germany tonight here and there,"(476, 476)","[419, 450]",65.43163776397705,35.96311950683594
+"Otherwise, it usually stays dry under high pressure and partly friendly during the day","(477, 477)","[267, 280]",82.43818855285645,34.09655809402466
+Fog forms especially in river valleys,"(478, 478)","[563, 615]",72.7379264831543,36.14320707321167
+"Tomorrow he will hold up in some regions tough, even denser clouds are still there, but it remains largely dry","(479, 479)","[373, 510]",77.23851013183594,36.827752113342285
+In the afternoon it will be friendlier,"(480, 480)","[165, 149]",83.04915714263916,27.24297332763672
+Sometimes it gets very windy and also a little cooler,"(481, 481)","[78, 209]",77.76834869384766,30.44310998916626
+But it still remains quite mild for the season,"(482, 482)","[195, 570]",74.32648086547852,48.99093437194824
+Dear viewers good evening,"(483, 483)","[110, 249]",80.04115104675293,38.172142028808594
+"To the east, the sun is more common","(484, 484)","[379, 547]",83.18510818481445,35.839959144592285
+"On Wednesday, especially from the afternoon, showers and thunderstorms","(485, 485)","[619, 352]",88.61467170715332,31.131640434265137
+similar weather on Thursday,"(486, 486)","[502, 185]",79.12651062011719,34.669304847717285
+And tomorrow morning or until the afternoon probably even still seems to be in the eastern half,"(487, 487)","[21, 638]",69.42441940307617,28.12461566925049
+Then there are a few cloud fields,"(488, 488)","[382, 359]",69.94962501525879,37.01249933242798
+And on Wednesday this shower and thunderstorm over the east and over the south,"(489, 489)","[127, 266]",80.5106143951416,31.45817995071411
+"On Thursday it is in the middle of the friendliest in the north of rain or pattern shower in the south, it is raining at times","(490, 490)","[419, 633]",78.26998901367188,37.10586929321289
+"In contrast, there were five centimeters of fresh snow in the west and the traffic was already on the highways","(491, 491)","[130, 319]",73.86130332946777,44.64925956726074
+But good news,"(492, 492)","[226, 108]",62.56761360168457,36.5307993888855
+It often seems the sun,"(493, 493)","[240, 521]",52.10143280029297,40.5235710144043
+The clouds of a deep near Scotland reach us from the west tomorrow,"(494, 494)","[314, 423]",77.95002174377441,57.4960823059082
+"For parts of southern Bavaria, warnings of the German Weather Service apply because there are thunderstorms out here and there as well as in the south","(495, 495)","[547, 459]",82.29300498962402,24.099116325378418
+And now the weather forecast for tomorrow Friday the twenty -four July,"(496, 496)","[160, 230]",72.00785636901855,48.43319797515869
+The moped warm air is replaced by cooler sea air,"(497, 497)","[276, 63]",62.62838935852051,41.34886693954468
+This goes hand in hand with sometimes storm -like thunderstorms,"(498, 498)","[561, 15]",55.55766010284424,41.848801612854004
+"In Saxony, too, it will continue to rain heavily","(499, 499)","[259, 459]",71.06665325164795,26.85448980331421
+Especially in the east of Germany it can rain or snow a little,"(500, 500)","[350, 268]",72.06928634643555,43.76628875732422
+"Tonight, individual thunderstorms are possible in the south, otherwise only here and since rain is formed in places in places","(501, 501)","[366, 31]",69.32396984100342,38.94451951980591
+Later it is usually dry,"(502, 502)","[397, 77]",77.86596775054932,44.30330038070679
+Good evening dear spectators,"(503, 503)","[196, 220]",81.9743595123291,21.065335273742676
+The weather in Europe has a lot to offer,"(504, 504)","[21, 508]",55.641066551208496,35.53740215301514
+The storm front tonight over the east and initially also individual storm -like thunderstorms,"(505, 505)","[605, 580]",67.78328704833984,44.393425941467285
+Either on the teletext or on the Internet,"(506, 506)","[153, 596]",54.70210313796997,37.78801441192627
+With the slightly cooler air up to twenty -four degrees in the north half,"(507, 507)","[195, 377]",53.76314640045166,32.72270488739014
+in the south or in the middle also up to twenty -seven degrees,"(508, 508)","[54, 166]",85.29181861877441,14.566147804260254
+The weather in parts of Europe will definitely be determined by an extensive low pressure area in the next two days,"(509, 509)","[515, 83]",79.2829761505127,33.735979080200195
+"On the Baltic Sea coast, minus two on the edge of the Alps up to minus fifteen degrees","(510, 510)","[610, 341]",78.50361919403076,23.306012392044067
+On Friday the weather calms down again,"(511, 511)","[583, 558]",64.13794994354248,29.98523235321045
+In the rest of the areas a lot of sun and only a few loose clouds,"(512, 512)","[20, 343]",85.40377044677734,35.73697280883789
+"During the day, dense clouds stay from the southeast of which a few snowflakes fall","(513, 513)","[53, 137]",60.0426025390625,38.55406665802002
+And it is usually snowing up from Saarland to Berlin in the afternoon.,"(514, 514)","[266, 520]",61.479671478271484,41.444580078125
+"And now the weather forecast for tomorrow Wednesday, nineteenth January","(515, 515)","[20, 261]",86.8509464263916,29.435997486114502
+The sun can rarely prevail against the clouds,"(516, 516)","[602, 434]",65.86320972442627,38.046024322509766
+"There is also a lot of clouds or fog in the south, but rain rarely falls there","(517, 517)","[230, 93]",77.4493293762207,37.870790004730225
+In the direction of Lake Constance it can snow into the lowlands,"(518, 518)","[561, 117]",62.32290172576904,35.03204011917114
+"In the far southeast and between the North Sea and the Moselle, it is usually dry","(519, 519)","[425, 249]",57.190561294555664,48.45104217529297
+"But first you still have to be expected with rains and thunderstorms that can be stormy, especially in the south and east","(520, 520)","[338, 204]",70.45758056640625,31.38666296005249
+The German Weather Service has issued corresponding warnings,"(521, 521)","[386, 165]",61.41286754608154,51.542701721191406
+Tonight temperatures of ten degrees in the Eifel up to eighteen in Lusatia,"(522, 522)","[488, 122]",81.4534330368042,39.09155559539795
+The sun can also be seen towards the southwest and northeast,"(523, 523)","[302, 398]",57.11650085449219,37.823015213012695
+And now the weather forecast for tomorrow Thursday the thirty -one March,"(524, 524)","[33, 591]",87.38816833496094,30.172486305236816
+On the day twelve degrees on the Baltic Sea and up to twenty degrees in Lower Bavaria,"(525, 525)","[552, 17]",87.10850238800049,37.154595375061035
+"Even on Monday there are more clouds than the sun, sometimes it rains longer and thunderstorms are also strong","(526, 526)","[251, 359]",82.39259338378906,20.57050585746765
+In between it is friendlier,"(527, 527)","[327, 214]",77.07187080383301,40.113054275512695
+"Apart from the thunderstorms, the wind blows weak to moderately on the coast","(528, 528)","[547, 613]",79.91807079315186,43.65828227996826
+Little changes on Saturday and Sunday,"(529, 529)","[141, 478]",79.0612621307373,34.093597412109375
+It can still snow slightly in the next few hours in Saxony or on the edge of the Alps and in Bavaria,"(530, 530)","[202, 66]",87.7283763885498,26.55408239364624
+It stays cold again on Saturday until maximum temperatures minus ten degrees,"(531, 531)","[272, 107]",86.2319803237915,30.2714204788208
+The showers and thunderstorms in the north sound on the night on the Alps.,"(532, 532)","[331, 185]",58.5795783996582,24.785240173339844
+"And now the weather forecast for tomorrow Friday, twenty -five June","(533, 533)","[307, 292]",82.32551574707031,41.41584777832031
+On Monday it is usually very cloudy here and there it rains,"(534, 534)","[433, 300]",63.27319049835205,49.30816459655762
+"In the mountainous country, sometimes snow on the Alps, rain or snow for a long time","(535, 535)","[600, 392]",71.8682804107666,43.025824546813965
+On Tuesday changeable weather,"(536, 536)","[14, 636]",71.33263397216797,48.38383436203003
+"Especially in the southwest half, fog towards the northeast also forms cloud gaps","(537, 537)","[235, 465]",68.42571830749512,28.616909980773926
+There will still be slight snowfall on the edge of the Alps tomorrow,"(538, 538)","[92, 227]",57.179025650024414,31.35898208618164
+The wind usually blows weakly from east to northeast,"(539, 539)","[600, 300]",70.20154666900635,45.58633041381836
+Tomorrow the temperatures of twenty -two degrees on the Baltic Sea to thirty -two degrees on the Upper Rhine range,"(540, 540)","[542, 39]",84.68339347839355,46.96372175216675
+Good evening dear spectators,"(541, 541)","[240, 32]",80.1231689453125,39.196274280548096
+mostly friendly and mostly dry on Saturday,"(542, 542)","[103, 279]",64.97311592102051,31.632376194000244
+Dense clouds and territories are only available in the northwest,"(543, 543)","[510, 72]",60.999006271362305,28.565423488616943
+There are also a few snowflakes,"(544, 544)","[175, 102]",63.88583469390869,36.1579270362854
+During the day it is usually very cloudy or foggy cloudy,"(545, 545)","[207, 500]",77.19194030761719,41.34930086135864
+tonight eleven degrees in Lower Bavaria and up to one degree in the northern low mountain ranges,"(546, 546)","[354, 244]",85.83560943603516,44.86941146850586
+Germany lies between one deep in Ireland and a Mediterranean high,"(547, 547)","[332, 47]",60.48835372924805,28.47089195251465
+"This steers the high air in the southeast of the deep, which is only moderately warm sea air in the northwest","(548, 548)","[375, 401]",72.1679801940918,49.594746589660645
+At the air mass border there are partially heavy and steady rainfall,"(549, 549)","[581, 454]",61.90508842468262,32.64496946334839
+And they are spreading from Rhineland Palatinate and Baden Württemberg to Thuringia tonight,"(550, 550)","[529, 231]",64.20260429382324,37.37653970718384
+On Friday it is very cloudy near the coasts and partly in the very south,"(551, 551)","[541, 27]",77.55702209472656,35.47971725463867
+Otherwise it's quite friendly,"(552, 552)","[641, 572]",80.7802734375,29.35292148590088
+Otherwise it will mostly become friendly,"(553, 553)","[28, 11]",66.28178405761719,39.76562309265137
+"The thunderstorms can be stormy, especially in the south","(554, 554)","[404, 214]",68.24668884277344,25.831520795822144
+Tonight spread from northwest rains to the middle,"(555, 555)","[424, 24]",72.6679515838623,32.1275577545166
+And now the weather forecast for tomorrow Thursday the twenty -sixth November,"(556, 556)","[416, 322]",85.54291915893555,26.4273521900177
+A little less mild air flows from the Atlantic to us,"(557, 557)","[291, 361]",83.00240707397461,38.40972423553467
+On Friday changeable shower weather,"(558, 558)","[558, 46]",74.77500915527344,37.104023456573486
+Short thunderstorms are possible in the northwest,"(559, 559)","[120, 242]",60.95804405212402,23.41307759284973
+"Tomorrow due to this weather conditions of the north, it will be favored with a relatively large amount of sun mainly on the North Sea","(560, 560)","[36, 566]",71.55643081665039,20.203947067260742
+"In the southwest it is at first it is still friendly, otherwise it rains from time to time every now and then","(561, 561)","[341, 400]",60.40542793273926,27.041369915008545
+On and from Friday it ensures that it snows more with us,"(562, 562)","[514, 95]",68.55887222290039,37.91637182235718
+Also at the weekend it snows at times,"(563, 563)","[321, 563]",80.09215354919434,28.00869846343994
+It remains windy,"(564, 564)","[564, 444]",76.12134838104248,51.52883291244507
+Very windy weather on Tuesday rain snow and porridge showers,"(565, 565)","[87, 183]",79.01581382751465,38.36191272735596
+In the south it rains or snows longer,"(566, 566)","[591, 297]",74.91398429870605,43.914236068725586
+And now the weather forecast for tomorrow Saturday the twenty -sixth January,"(567, 567)","[213, 157]",82.77069282531738,39.87112617492676
+And now the weather forecast for tomorrow Monday the twenty -four January two thousand elf,"(568, 568)","[633, 354]",82.37434196472168,40.49895763397217
+Dear viewers good evening,"(569, 569)","[520, 505]",80.8771915435791,62.158979415893555
+"Northeast of the Elbe tomorrow, local minus one on the Upper Rhine to plus eight degrees","(570, 570)","[534, 549]",80.39362239837646,59.315476417541504
+It is most likely to seem here in the eastern half and also on the edge of the Alps and then later in the southwest,"(571, 571)","[618, 21]",77.47924327850342,20.984819412231445
+"And especially in the northwest, the sun can come out with a fresh north to the northeast wind","(572, 572)","[150, 463]",67.89866352081299,36.32792091369629
+Saturday also falls snow,"(573, 573)","[182, 410]",52.6574068069458,24.333317279815674
+Sometimes a bit of snow in the northwest,"(574, 574)","[551, 505]",51.34347152709961,32.500423431396484
+"Deep air pressure ensures rainfall, which are sometimes long -lasting and productive","(575, 575)","[535, 473]",70.51225471496582,39.000765800476074
+"Yes, the rain in the west moves on that night. As I said","(576, 576)","[555, 194]",61.81022644042969,42.99321365356445
+And now the weather forecast for tomorrow Wednesday the twelfth January,"(577, 577)","[92, 532]",84.73542404174805,20.049851417541504
+"At night, snow or freezing rain is possible in the northeast in Eastern Bavaria and in the mountain country","(578, 578)","[174, 13]",71.99315643310547,46.51782035827637
+In the south the day is partly friendly,"(579, 579)","[311, 532]",77.05499458312988,22.30516004562378
+Later there are also clouds with a little rain,"(580, 580)","[301, 398]",77.18960380554199,37.970261573791504
+The wind blows weak to moderately from south to southwest,"(581, 581)","[105, 586]",59.510687828063965,32.53527069091797
+There are more clouds than the sun in the north and the east drops are only occasionally,"(582, 582)","[228, 155]",66.21172904968262,33.415714740753174
+And now the weather forecast for tomorrow Wednesday the thirtieth March,"(583, 583)","[568, 589]",81.7905101776123,37.02900505065918
+On the North Sea fifteen on the Hochrhein tomorrow up to twenty -three degrees,"(584, 584)","[109, 575]",83.618896484375,57.77884578704834
+"In the north and in the middle, the night is usually clearly raining in the south","(585, 585)","[441, 471]",83.49977493286133,31.794252395629883
+The rain moves towards Main during night,"(586, 586)","[616, 364]",43.61207628250122,38.41650676727295
+Tonight there is also Showers on the North Sea short thunderstorms,"(587, 587)","[541, 341]",79.33325099945068,28.45833158493042
+"In the southwestern half tomorrow, partly clouds, partly long time sunshine","(588, 588)","[465, 273]",65.71329307556152,37.949763774871826
+The North Germans already know it today but it will now also meet the southern Germans,"(589, 589)","[23, 615]",65.23902320861816,22.590406894683838
+The linch and focal point is this low pressure area above the North Atlantic It will ultimately send us the rain to northern Germany but then more and more in the middle tonight,"(590, 590)","[188, 150]",65.48155212402344,39.73774194717407
+And there is a new low that will reach us tomorrow evening then on the North Sea partly with heavy gusts of wind,"(591, 591)","[98, 256]",56.73240661621094,27.0426983833313
+The nights will be very warm at the moment,"(592, 592)","[517, 416]",69.80888748168945,31.123198986053467
+Sometimes not under twenty degrees in some cities,"(593, 593)","[151, 629]",59.143877029418945,45.670878410339355
+Atlantic deep runners bring us about rainfalls and sometimes stormy winds throughout the week,"(594, 594)","[379, 72]",70.37691116333008,34.41895866394043
+"During the day, clouds dense but also gaps on the northwest sides of the mountains can rain or snow for a long time","(595, 595)","[431, 385]",75.58913993835449,33.476487159729004
+In the evening partly down to deeper locations,"(596, 596)","[510, 125]",58.87124061584473,48.08567667007446
+There are also isolated porridge showers or short thunderstorms,"(597, 597)","[264, 155]",70.22025203704834,44.18263339996338
+On Sunday the wind puts on the northwest clouds and some rain,"(598, 598)","[368, 163]",81.0251522064209,31.53124237060547
+on Monday mostly dry with a mixture of sun and clouds,"(599, 599)","[470, 224]",81.85091876983643,43.408830642700195
+Hello and good evening,"(600, 600)","[328, 222]",81.72536849975586,25.653354167938232
+Rainy days with us in Germany and therefore the location on some rivers in the east still tense,"(601, 601)","[333, 122]",79.49914932250977,18.156880855560303
+On the Rhine there will be at least fifteen to a maximum of seventeen degrees,"(602, 602)","[21, 250]",73.84792518615723,33.91071605682373
+"On Sunday, the weather is sometimes inconsistent, sometimes heavy rainfalls, sometimes thunderstorms","(603, 603)","[17, 235]",84.03755760192871,29.853346824645996
+They bring strong shower and thunderstorms,"(604, 604)","[470, 357]",73.05355453491211,45.333938121795654
+The air that flows to us in the coming days is then colder,"(605, 605)","[458, 368]",67.65502643585205,28.25252914428711
+It remains changeable,"(606, 606)","[409, 142]",63.0089054107666,25.831696033477783
+During the day it is friendly in the west otherwise sun and denser clouds alternately here and there are individual shower,"(607, 607)","[350, 114]",80.25118923187256,32.11792469024658
+Thunderstorms are possible in the east and southeast,"(608, 608)","[590, 593]",87.97867584228516,13.173856258392334
+On Sunday it will be more inconsistent with individual showers and thunderstorms that can be local violent,"(609, 609)","[7, 291]",78.88877487182617,25.718884706497192
+The new week starts changeable and a little cooler,"(610, 610)","[375, 581]",78.65651321411133,23.26361656188965
+From the west we reach a new Atlantic low with sometimes heavy rains and violent thunderstorms,"(611, 611)","[139, 263]",68.10075759887695,33.45724439620972
+In the south it will remain quite friendly and warm under the influence of high pressure tomorrow,"(612, 612)","[294, 570]",84.81790924072266,27.651283740997314
+Tonight spreads from the west rain from which can be partly productive,"(613, 613)","[35, 239]",66.21681594848633,45.339555740356445
+Tomorrow summer hot thirty degrees in the Emsland cool sixteen degrees,"(614, 614)","[42, 151]",69.75796508789062,29.782413959503174
+"And now the weather forecast for tomorrow Tuesday, January fifth","(615, 615)","[331, 290]",76.46975421905518,25.243802070617676
+"In the north of moderate wind on the coasts, it sometimes blows fresh","(616, 616)","[382, 572]",80.84151649475098,21.430697441101074
+weak wind in the south,"(617, 617)","[524, 470]",62.62312889099121,41.55257987976074
+Tonight minus two degrees on the North Sea and up to minus twenty degrees in individual alpine valleys,"(618, 618)","[455, 272]",68.52513313293457,46.25850534439087
+So the temperatures in the west again between about eighteen and twenty -three degrees in the east are only twelve to seventeen degrees,"(619, 619)","[302, 120]",88.04301643371582,44.150075912475586
+The northwest wind blows weakly to moderately in the northeastern half of the eastern lowlands of the eastern low mountain range,"(620, 620)","[476, 607]",52.03687858581543,29.994454860687256
+In the further course the rain spreads east then it becomes friendly in the west,"(621, 621)","[176, 291]",69.9304256439209,30.599732398986816
+Fresh wind in the west and northwest,"(622, 622)","[445, 639]",61.499711990356445,29.807991981506348
+And the weather there is at least there in the morning sunshine,"(623, 623)","[340, 200]",61.08322715759277,34.92366981506348
+In the afternoon there are strong thunderstorms here in Bavaria,"(624, 624)","[561, 357]",62.79664421081543,23.525997400283813
+"And now the weather forecast for tomorrow Monday, twelfth April","(625, 625)","[495, 434]",80.26302528381348,31.72766876220703
+The snow border drops to six hundred to three hundred meters,"(626, 626)","[146, 613]",69.70427227020264,33.074849128723145
+And that will change that on Wednesday at minus nine to minus one degree,"(627, 627)","[413, 224]",69.10250282287598,29.66750144958496
+So tomorrow we have maximum temperatures in Central Europe from eighteen to twenty -six degrees,"(628, 628)","[427, 149]",80.22564792633057,46.391295433044434
+So east over Eastern Europe still warm with around twenty -five degrees,"(629, 629)","[277, 525]",82.57915306091309,39.571499824523926
+"And now the weather forecast for tomorrow Monday, twenty -five January","(630, 630)","[35, 568]",87.95525741577148,33.82137489318848
+There will be windy there on Tuesday there are individual showers,"(631, 631)","[25, 364]",62.957722663879395,35.45333480834961
+In the south and southwest in areas otherwise risen quite friendly,"(632, 632)","[639, 411]",71.21956062316895,35.768388748168945
+In the course of the weekend it becomes more and more dry cold but it remains,"(633, 633)","[140, 348]",78.5609769821167,25.587000846862793
+And now the weather forecast for tomorrow Saturday the twelfth September,"(634, 634)","[347, 51]",85.59973621368408,36.31091785430908
+Relatively cool air flows to us in Germany,"(635, 635)","[502, 320]",72.5751724243164,35.198222160339355
+"Initially, deep exporters only reach us in a weakened form","(636, 636)","[108, 330]",64.7967300415039,30.743741035461426
+Otherwise a change from sun and clouds,"(637, 637)","[460, 22]",82.54192924499512,19.792041778564453
+The wind blows weakly to moderately on the North Sea and in the mountain country also a fresh wind,"(638, 638)","[437, 10]",78.61972999572754,41.07636737823486
+The values are between fourteen and seven degrees tonight,"(639, 639)","[435, 489]",83.90873622894287,39.7427453994751
+"On Sunday, especially in the southeastern half, the sun usually prevails again","(640, 640)","[323, 316]",68.77696800231934,25.074023485183716
+Tonight nineteen to fifteen degrees in the southeast to twelve degrees,"(641, 641)","[8, 600]",80.47148132324219,40.93851041793823

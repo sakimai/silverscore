@@ -13,3 +13,5 @@ build/
 *.pth.tar
 *.pkl
 .env
+.ipynb_checkpoints/
+notebooks/figures/

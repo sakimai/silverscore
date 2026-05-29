@@ -1,0 +1,1177 @@
+text_ids,video_ids,same_indices,random_indices,same_scores_i2t,different_scores_i2t
+He is four years old.,S000020_P0004_T00,"(0, 0)","[887, 137]",80.48476600646973,45.81488037109375
+What day today?,S000040_P0008_T00,"(1, 1)","[241, 189]",70.26960563659668,33.429229736328125
+Today I want to eat noodles.,S000054_P0008_T00,"(2, 2)","[862, 721]",89.9697494506836,47.485239028930664
+When did you and Xiao Zhang know?,S000153_P0000_T00,"(3, 3)","[983, 161]",79.10655689239502,21.179967403411865
+"I want to go to the supermarket to buy a chair, do you go?",S000185_P0004_T00,"(4, 4)","[295, 792]",81.14472770690918,26.52628803253174
+"I want to go to the supermarket to buy a chair, do you go?",S000185_P0008_T00,"(5, 5)","[635, 993]",81.14472770690918,27.619348764419556
+What do they do in the afternoon?,S000195_P0004_T00,"(6, 6)","[33, 243]",77.45565128326416,42.51773548126221
+When do they want to buy chairs?,S000196_P0008_T00,"(7, 7)","[437, 1000]",84.1512451171875,40.165672302246094
+I get up at 6 o'clock a day.,S000201_P0000_T00,"(8, 8)","[32, 72]",76.59175968170166,52.98716735839844
+He is tired of coming back every day.,S000213_P0004_T00,"(9, 9)","[349, 999]",84.58714962005615,47.95711898803711
+He is tired of coming back every day.,S000213_P0008_T00,"(10, 10)","[350, 348]",84.58714962005615,51.255452156066895
+Is this watch you?,S000218_P0004_T00,"(11, 11)","[437, 866]",70.51447772979736,36.687939167022705
+Is this watch you?,S000218_P0008_T00,"(12, 12)","[270, 1125]",70.51447772979736,32.37584114074707
+How much does this watch buy?,S000220_P0000_T00,"(13, 13)","[1117, 705]",73.88224506378174,41.32346248626709
+Do you see my cup?,S000224_P0000_T00,"(14, 14)","[996, 281]",77.74482345581055,52.170172691345215
+Do you see my cup?,S000224_P0008_T00,"(15, 15)","[464, 1002]",77.74482345581055,51.39834928512573
+"There are a few cups here, which one is yours?",S000225_P0004_T00,"(16, 16)","[584, 145]",57.74092102050781,24.783748149871826
+"The room on the left is my father and mother, and their room is large.",S000230_P0000_T00,"(17, 17)","[1055, 1127]",77.5212869644165,38.74878406524658
+"The room on the left is my father and mother, and their room is large.",S000230_P0008_T00,"(18, 18)","[796, 408]",77.5212869644165,36.59395503997803
+Who sent WeChat.,S000236_P0000_T00,"(19, 19)","[790, 179]",73.53755760192871,37.284361362457275
+Who sent WeChat.,S000236_P0008_T00,"(20, 20)","[847, 1031]",73.53755760192871,39.64032983779907
+When did he start playing football?,S000249_P0000_T00,"(21, 21)","[1085, 984]",79.76470947265625,31.63206911087036
+When did he start playing football?,S000249_P0008_T00,"(22, 22)","[1026, 784]",79.76470947265625,47.69852161407471
+Did you buy Apple?,S000255_P0000_T00,"(23, 23)","[1008, 202]",73.03355407714844,47.00105905532837
+Did you buy Apple?,S000255_P0008_T00,"(24, 24)","[537, 321]",73.03355407714844,35.64373970031738
+How about we went to a restaurant at night?,S000257_P0000_T00,"(25, 25)","[1108, 1107]",86.00669479370117,62.29429626464844
+"Look at me, how about this dress?",S000262_P0004_T00,"(26, 26)","[984, 612]",73.4710807800293,36.37367630004883
+The weather is a bit cold today.,S000274_P0000_T00,"(27, 27)","[808, 68]",83.0640640258789,30.122251510620117
+I was a little tired yesterday.,S000275_P0004_T00,"(28, 28)","[136, 381]",80.11515808105469,24.8963041305542
+I swim every day this month.,S000291_P0000_T00,"(29, 29)","[235, 813]",77.75677299499512,53.37357139587402
+I swim every day this month.,S000291_P0004_T00,"(30, 30)","[656, 770]",77.75677299499512,44.75744962692261
+"No, he went to see his classmate.",S000295_P0000_T00,"(31, 31)","[1063, 173]",76.32479095458984,35.63165998458862
+"No, he went to see his classmate.",S000295_P0008_T00,"(32, 32)","[13, 51]",76.32479095458984,30.86657428741455
+"Yes, there is a restaurant not far from here, and it will arrive for a few minutes.",S000313_P0004_T00,"(33, 33)","[978, 506]",77.14425563812256,46.49582052230835
+"Yes, there is a restaurant not far from here, and it will arrive for a few minutes.",S000313_P0008_T00,"(34, 34)","[141, 256]",77.14425563812256,36.244417667388916
+The company is far away from home. Why don't she take a taxi?,S000317_P0004_T00,"(35, 35)","[955, 1121]",79.62063407897949,45.89947509765625
+The company is far away from home. Why don't she take a taxi?,S000317_P0008_T00,"(36, 36)","[278, 210]",79.62063407897949,47.4433388710022
+How about this red clothes? this is new.,S000331_P0004_T00,"(37, 37)","[886, 872]",76.87499713897705,48.1549506187439
+How about this red clothes? this is new.,S000331_P0008_T00,"(38, 38)","[487, 111]",76.87499713897705,37.33764362335205
+Is the girl who watched the mobile phone on the left? Is your girlfriend?,S000362_P0000_T00,"(39, 39)","[1174, 187]",74.95497989654541,33.414743423461914
+Is the girl who watched the mobile phone on the left? Is your girlfriend?,S000362_P0004_T00,"(40, 40)","[246, 472]",74.95497989654541,35.51283550262451
+You get up earlier than me.,S000373_P0000_T00,"(41, 41)","[1142, 806]",66.44718170166016,47.774948596954346
+You get up earlier than me.,S000373_P0008_T00,"(42, 42)","[248, 960]",66.44718170166016,47.47330617904663
+"It's snowing, it's really cold today.",S000379_P0004_T00,"(43, 43)","[1160, 807]",83.2452564239502,47.34010887145996
+"It's snowing, it's really cold today.",S000379_P0008_T00,"(44, 44)","[762, 559]",83.2452564239502,35.52184772491455
+I don't know that boy.,S000388_P0000_T00,"(45, 45)","[169, 46]",63.7671537399292,39.426856994628906
+Time is so fast that the New Year is coming.,S000414_P0004_T00,"(46, 46)","[617, 476]",77.09115695953369,36.92678642272949
+Time is so fast that the New Year is coming.,S000414_P0008_T00,"(47, 47)","[782, 344]",77.09115695953369,34.178682804107666
+That can't go online all the time.,S000433_P0000_T00,"(48, 48)","[839, 118]",69.71147537231445,41.04634666442871
+That can't go online all the time.,S000433_P0004_T00,"(49, 49)","[478, 1151]",69.71147537231445,45.514469623565674
+"Fruit, bread, and tea are ready. What else do we bring?",S000438_P0004_T00,"(50, 50)","[1046, 555]",84.4471263885498,48.88836193084717
+"Fruit, bread, and tea are ready. What else do we bring?",S000438_P0008_T00,"(51, 51)","[535, 398]",84.4471263885498,36.946279525756836
+I was ready yesterday afternoon.,S000440_P0000_T00,"(52, 52)","[1081, 288]",63.351009368896484,40.09866809844971
+I was ready yesterday afternoon.,S000440_P0004_T00,"(53, 53)","[739, 970]",63.351009368896484,54.36458206176758
+"You see, I am so fat, what should I do?",S000452_P0004_T00,"(54, 54)","[521, 535]",75.57621574401855,46.16934108734131
+"You see, I am so fat, what should I do?",S000452_P0008_T00,"(55, 55)","[193, 778]",75.57621574401855,28.67477512359619
+But you are not thin at all. What exercise did you do?,S000455_P0000_T00,"(56, 56)","[386, 734]",65.43703842163086,38.02056312561035
+But you are not thin at all. What exercise did you do?,S000455_P0008_T00,"(57, 57)","[524, 431]",65.43703842163086,36.9405517578125
+"On a cloudy day, it is cloudy on the TV, what's wrong? What happens tomorrow?",S000460_P0000_T00,"(58, 58)","[414, 815]",69.72033405303955,36.9522008895874
+"On a cloudy day, it is cloudy on the TV, what's wrong? What happens tomorrow?",S000460_P0004_T00,"(59, 59)","[119, 518]",69.72033405303955,38.36466312408447
+"I don't go to climb the mountain, I have something to do.",S000464_P0000_T00,"(60, 60)","[619, 24]",79.03118801116943,36.39565944671631
+"I don't go to climb the mountain, I have something to do.",S000464_P0004_T00,"(61, 61)","[856, 140]",79.03118801116943,35.39860725402832
+I remember you already have two such pants.,S000466_P0000_T00,"(62, 62)","[93, 1057]",81.94174194335938,28.067411422729492
+I remember you already have two such pants.,S000466_P0008_T00,"(63, 63)","[657, 471]",81.94174194335938,26.80191683769226
+How about this pants?,S000468_P0000_T00,"(64, 64)","[642, 49]",91.17180633544922,50.403379917144775
+How about this pants?,S000468_P0008_T00,"(65, 65)","[457, 657]",91.17180633544922,42.103647232055664
+"There are a lot of drinks on the table, what do you drink?",S000475_P0008_T00,"(66, 66)","[377, 219]",79.18424224853516,47.95271301269531
+"Do you go to the room to find, did you just put it on the table just now?",S000496_P0000_T00,"(67, 67)","[300, 811]",77.89333152770996,40.9496488571167
+The school is too big and tired.,S000502_P0000_T00,"(68, 68)","[144, 1126]",83.66650772094727,33.830787658691406
+What happened to I drink coffee?,S000504_P0004_T00,"(69, 69)","[581, 75]",77.30722332000732,39.67549419403076
+What happened to I drink coffee?,S000504_P0008_T00,"(70, 70)","[391, 367]",77.30722332000732,29.42864418029785
+Then why don't you go now?,S000550_P0004_T00,"(71, 71)","[14, 531]",77.82335662841797,27.709123849868774
+Then why don't you go now?,S000550_P0008_T00,"(72, 72)","[616, 326]",77.82335662841797,27.58651089668274
+Do you want to take a few days off?,S000560_P0008_T00,"(73, 73)","[467, 637]",57.502824783325195,38.47820711135864
+"Xiao Zhang, is that girl from your company? Do you know her?",S000561_P0000_T00,"(74, 74)","[779, 918]",82.95155143737793,44.160653591156006
+"Xiao Zhang, is that girl from your company? Do you know her?",S000561_P0004_T00,"(75, 75)","[674, 53]",82.95155143737793,35.20317888259888
+"No need to go to the hospital. I asked you, how long did you not exercise?",S000568_P0008_T00,"(76, 76)","[1171, 348]",75.51971244812012,51.67648983001709
+Say why you choose to work in our company.,S000573_P0000_T00,"(77, 77)","[1016, 1104]",79.67681694030762,49.44173240661621
+"As long as I agree, I believe my wife will agree.",S000576_P0004_T00,"(78, 78)","[240, 635]",74.29304218292236,40.616143226623535
+"As long as I agree, I believe my wife will agree.",S000576_P0008_T00,"(79, 79)","[146, 730]",74.29304218292236,39.52550411224365
+"No, thank you for giving me this opportunity, I will work hard.",S000578_P0000_T00,"(80, 80)","[200, 226]",56.208889961242676,36.26072311401367
+"No, thank you for giving me this opportunity, I will work hard.",S000578_P0008_T00,"(81, 81)","[256, 58]",56.208889961242676,39.19499588012695
+"Put the tea and cups first, and then take out the watermelon in the refrigerator.",S000598_P0000_T00,"(82, 82)","[238, 879]",68.46407699584961,30.894038200378418
+"Put the tea and cups first, and then take out the watermelon in the refrigerator.",S000598_P0004_T00,"(83, 83)","[107, 947]",68.46407699584961,38.65456962585449
+I wore a small dress and gave it to my brother.,S000603_P0008_T00,"(84, 84)","[522, 428]",79.69261169433594,40.2791862487793
+Tomorrow Shanghai will be snowing.,S000616_P0008_T00,"(85, 85)","[1117, 999]",70.14183902740479,47.701956272125244
+Eat more fruits after lunch.,S000620_P0000_T00,"(86, 86)","[468, 188]",68.46358299255371,36.63350200653076
+I eat bread and milk for breakfast.,S000625_P0004_T00,"(87, 87)","[14, 408]",79.74595737457275,35.45237350463867
+I eat bread and milk for breakfast.,S000625_P0008_T00,"(88, 88)","[501, 453]",79.74595737457275,38.46876764297485
+"What do you eat, I treat.",S000637_P0000_T00,"(89, 89)","[1034, 543]",66.36547756195068,53.04730224609375
+"What do you eat, I treat.",S000637_P0008_T00,"(90, 90)","[59, 325]",66.36547756195068,35.57037687301636
+"I want to try this dress, where is it?",S000638_P0004_T00,"(91, 91)","[443, 227]",76.90539169311523,37.73812007904053
+"I want to try this dress, where is it?",S000638_P0008_T00,"(92, 92)","[210, 272]",76.90539169311523,44.51123237609863
+The weather forecast will be snowing tomorrow and wear more clothes.,S000656_P0004_T00,"(93, 93)","[350, 461]",88.36140823364258,56.472373962402344
+The weather forecast will be snowing tomorrow and wear more clothes.,S000656_P0008_T00,"(94, 94)","[449, 578]",88.36140823364258,23.28292441368103
+The supermarket is next to the hospital.,S000669_P0000_T00,"(95, 95)","[857, 860]",67.70914649963379,40.921630859375
+I booked a birthday cake for you.,S000673_P0000_T00,"(96, 96)","[102, 736]",70.22975826263428,30.04775047302246
+I booked a birthday cake for you.,S000673_P0008_T00,"(97, 97)","[964, 527]",70.22975826263428,45.43491172790527
+"I like winter, and it is so beautiful.",S000690_P0000_T00,"(98, 98)","[1128, 631]",66.40167999267578,42.49637317657471
+"I like winter, and it is so beautiful.",S000690_P0008_T00,"(99, 99)","[1158, 763]",66.40167999267578,35.47209358215332
+The summer in Shanghai is too hot to buy air conditioners.,S000695_P0004_T00,"(100, 100)","[95, 222]",81.81191921234131,40.93601703643799
+The summer in Shanghai is too hot to buy air conditioners.,S000695_P0008_T00,"(101, 101)","[831, 961]",81.81191921234131,34.189457416534424
+We take the bus back to school.,S000708_P0000_T00,"(102, 102)","[57, 190]",86.8521614074707,31.37256383895874
+We take the bus back to school.,S000708_P0004_T00,"(103, 103)","[286, 1101]",86.8521614074707,46.417744636535645
+Our flight is delayed and now lives in the hotel.,S000718_P0000_T00,"(104, 104)","[232, 833]",70.06163024902344,31.128369331359863
+Our flight is delayed and now lives in the hotel.,S000718_P0004_T00,"(105, 105)","[686, 252]",70.06163024902344,28.005187034606934
+"After running, I want to drink drinks.",S000724_P0000_T00,"(106, 106)","[230, 142]",69.71367168426514,45.264841079711914
+"After running, I want to drink drinks.",S000724_P0004_T00,"(107, 107)","[220, 231]",69.71367168426514,41.78226137161255
+Do you have time at night? I want to run with you.,S000783_P0000_T00,"(108, 108)","[401, 309]",84.3203010559082,44.342597007751465
+"The bus platform is too far, let's take a taxi home.",S000786_P0000_T00,"(109, 109)","[61, 1069]",78.21241760253906,38.61978578567505
+His daughter wrote my homework very late every night.,S000788_P0004_T00,"(110, 110)","[762, 369]",78.08977127075195,50.450560569763184
+His daughter wrote my homework very late every night.,S000788_P0008_T00,"(111, 111)","[221, 346]",78.08977127075195,43.17421245574951
+I wish you a happy birthday and more beautiful.,S000791_P0000_T00,"(112, 112)","[1009, 546]",75.57417964935303,33.72592544555664
+Where is a delicious restaurant near the school?,S000809_P0000_T00,"(113, 113)","[1090, 385]",82.2790060043335,61.18975830078125
+Where is a delicious restaurant near the school?,S000809_P0004_T00,"(114, 114)","[590, 980]",82.2790060043335,41.10618782043457
+Today's dinner is noodles and dumplings.,S000823_P0000_T00,"(115, 115)","[19, 789]",82.92564964294434,37.72286605834961
+Today's dinner is noodles and dumplings.,S000823_P0008_T00,"(116, 116)","[657, 468]",82.92564964294434,33.78529930114746
+The mobile phone cannot choose the position near the window.,S000849_P0000_T00,"(117, 117)","[60, 338]",78.89380836486816,40.47172403335571
+The mobile phone cannot choose the position near the window.,S000849_P0004_T00,"(118, 118)","[796, 314]",78.89380836486816,45.16646766662598
+Where can I pick up the suitcase?,S000852_P0000_T00,"(119, 119)","[1001, 873]",64.20381927490234,33.585097789764404
+Where can I pick up the suitcase?,S000852_P0008_T00,"(120, 120)","[1053, 16]",64.20381927490234,36.761996269226074
+"There are many subways in Shanghai, I don't know which subway take.",S000860_P0004_T00,"(121, 121)","[859, 1113]",80.57563591003418,41.268911838531494
+"There are many subways in Shanghai, I don't know which subway take.",S000860_P0008_T00,"(122, 122)","[468, 465]",80.57563591003418,37.758968353271484
+"The airport is far away from my house, and I take a taxi to the airport.",S000874_P0004_T00,"(123, 123)","[669, 795]",80.20498657226562,28.49796199798584
+"The airport is far away from my house, and I take a taxi to the airport.",S000874_P0008_T00,"(124, 124)","[933, 169]",80.20498657226562,35.52212142944336
+"From Hefei to Beijing, it is recommended to take the high -speed rail, and the seats are comfortable.",S000877_P0004_T00,"(125, 125)","[121, 414]",76.29887580871582,40.85480356216431
+"From Hefei to Beijing, it is recommended to take the high -speed rail, and the seats are comfortable.",S000877_P0008_T00,"(126, 126)","[899, 887]",76.29887580871582,41.24488925933838
+There are many delicious restaurants nearby.,S000903_P0000_T00,"(127, 127)","[80, 841]",76.98396492004395,25.526151657104492
+"The waiter, hold a tissue paper, sprinkle the drink.",S000912_P0008_T00,"(128, 128)","[798, 908]",67.3209867477417,47.605502128601074
+"I like to drink milk tea, I like it sweet.",S000914_P0008_T00,"(129, 129)","[608, 591]",83.46118927001953,33.51531982421875
+"Today the fruit is very fresh, buy a watermelon home.",S000931_P0008_T00,"(130, 130)","[943, 424]",91.85487937927246,29.76395559310913
+"Drink less, eat more vegetables, and then go home.",S000934_P0008_T00,"(131, 131)","[465, 402]",80.82972717285156,42.47409629821777
+My wife likes to drink acid recently. Do you have a son?,S000937_P0008_T00,"(132, 132)","[282, 1146]",86.48392868041992,42.28787708282471
+I was uncomfortable with noodles.,S000945_P0008_T00,"(133, 133)","[1023, 9]",85.14676856994629,31.221559047698975
+I drove to the high -speed rail station to pick up my son.,S000962_P0000_T00,"(134, 134)","[110, 603]",82.66716575622559,43.21040153503418
+Where are you going to travel with your wife this year?,S000963_P0008_T00,"(135, 135)","[599, 388]",78.20819854736328,43.49663972854614
+"You like this skirt, I can take one for you.",S000966_P0008_T00,"(136, 136)","[684, 97]",79.29042625427246,45.493247509002686
+"This pants are discounted, and I buy one for my son.",S000968_P0008_T00,"(137, 137)","[1134, 716]",79.00487899780273,40.9074649810791
+"I took a pair of pants, where can I check out?",S000969_P0008_T00,"(138, 138)","[621, 1098]",68.26730346679688,38.720762729644775
+Who is your boyfriend on the right? very beautiful.,S000988_P0000_T00,"(139, 139)","[889, 50]",87.62357425689697,49.993367195129395
+"My brother likes to play football, and his body is very good.",S000998_P0000_T00,"(140, 140)","[709, 565]",72.77699279785156,32.01077938079834
+How much does it cost to listen to your school?,S001026_P0000_T00,"(141, 141)","[512, 373]",69.76421356201172,41.5909218788147
+I want to find deaf friends to learn sign language.,S001027_P0000_T00,"(142, 142)","[238, 751]",74.8746509552002,29.327513694763184
+Mobile phones can learn sign language.,S001030_P0008_T00,"(143, 143)","[163, 960]",77.18985748291016,48.41846799850464
+"I have a friend to work in a bank, and he knows how to loan.",S001035_P0000_T00,"(144, 144)","[848, 786]",89.3570384979248,40.43123912811279
+"Mom, classmate bought a new watch, I want to buy it too.",S001051_P0000_T00,"(145, 145)","[717, 1111]",77.39339351654053,51.178250789642334
+Grandpa is old and likes to climb mountains.,S001064_P0008_T00,"(146, 146)","[272, 895]",88.34108066558838,47.33845663070679
+"Introduce, he is my table tennis teacher.",S001072_P0008_T00,"(147, 147)","[4, 568]",78.45463943481445,36.74787712097168
+Drink a cup of coffee when you are tired.,S001073_P0000_T00,"(148, 148)","[794, 885]",72.25198078155518,17.423300981521606
+"Go home from school at night, there are many bus people.",S001081_P0000_T00,"(149, 149)","[831, 763]",76.25998306274414,51.67518472671509
+"The cake is too sweet, eating too much is not good for your body.",S001090_P0000_T00,"(150, 150)","[221, 841]",79.88666152954102,37.838215827941895
+Police check your ID card.,S001091_P0000_T00,"(151, 151)","[371, 141]",68.71940994262695,40.909157276153564
+"The son is getting thinner and thinner, let him eat more at school.",S001095_P0008_T00,"(152, 152)","[910, 400]",81.89370346069336,23.73366904258728
+"The weather is good today, Dad and Grandpa will go out to run.",S001126_P0008_T00,"(153, 153)","[1054, 434]",90.05983829498291,34.727603912353516
+Her sister is a teacher and usually drives to school.,S001142_P0000_T00,"(154, 154)","[278, 727]",86.26827621459961,35.00116157531738
+"My passport forgot to bring it, I need to go home.",S001143_P0000_T00,"(155, 155)","[188, 713]",85.46753025054932,36.234811305999756
+My grandpa is very old and is not suitable for flying.,S001147_P0000_T00,"(156, 156)","[903, 913]",69.05069923400879,31.43778896331787
+You can't take a single ticket to take a car twice.,S001164_P0000_T00,"(157, 157)","[295, 673]",64.83371353149414,30.93726682662964
+"Driver, I got off at the traffic light intersection in front.",S001173_P0000_T00,"(158, 158)","[995, 875]",66.76337051391602,44.125452518463135
+"Because the weather was not good, the aircraft was canceled.",S001178_P0008_T00,"(159, 159)","[133, 68]",66.12227439880371,33.44515800476074
+I didn't buy a train sleeper ticket.,S001186_P0000_T00,"(160, 160)","[638, 639]",78.16543388366699,46.3961386680603
+I have breakfast and lunch at home and lunch at school.,S001221_P0008_T00,"(161, 161)","[140, 184]",75.50786972045898,30.57411766052246
+How is your company's lunch?,S001222_P0004_T00,"(162, 162)","[603, 976]",66.47365760803223,28.376427173614502
+How is your company's lunch?,S001222_P0008_T00,"(163, 163)","[1100, 22]",66.47365760803223,41.77854633331299
+"Today's vegetables are so salty, I want to drink drinks.",S001227_P0000_T00,"(164, 164)","[777, 622]",80.40720748901367,44.15281295776367
+"Today's vegetables are so salty, I want to drink drinks.",S001227_P0004_T00,"(165, 165)","[780, 275]",80.40720748901367,26.81269645690918
+"This dish is too spicy, I need to drink some water.",S001232_P0000_T00,"(166, 166)","[209, 686]",85.13286972045898,31.36862850189209
+"This dish is too spicy, I need to drink some water.",S001232_P0004_T00,"(167, 167)","[1072, 763]",85.13286972045898,45.63414192199707
+"Today is my sister's birthday, I will make fish.",S001236_P0004_T00,"(168, 168)","[764, 446]",75.96037673950195,32.64509963989258
+"Today is my sister's birthday, I will make fish.",S001236_P0008_T00,"(169, 169)","[48, 498]",75.96037673950195,44.99375343322754
+"Waiting, where is the bathroom.",S001246_P0000_T00,"(170, 170)","[688, 483]",74.05459213256836,53.91903781890869
+"Waiting, where is the bathroom.",S001246_P0008_T00,"(171, 171)","[900, 1040]",74.05459213256836,28.39306640625
+"My wife had a cold, and I took her to the hospital.",S001252_P0000_T00,"(172, 172)","[553, 677]",87.12342262268066,44.44691848754883
+"You go to the supermarket to buy an umbrella, I am waiting for you at the cashier.",S001260_P0000_T00,"(173, 173)","[539, 758]",83.27535057067871,44.2119665145874
+"You go to the supermarket to buy an umbrella, I am waiting for you at the cashier.",S001260_P0004_T00,"(174, 174)","[1018, 462]",83.27535057067871,61.47717475891113
+I have to go to the supermarket to buy some juice home after get off work.,S001266_P0002_T00,"(175, 175)","[487, 884]",79.81795501708984,34.91105937957764
+"The fruit of this store is cheap, I want to buy some bananas.",S001268_P0000_T00,"(176, 176)","[199, 734]",81.4154748916626,37.57814311981201
+"The fruit of this store is cheap, I want to buy some bananas.",S001268_P0008_T00,"(177, 177)","[189, 998]",81.4154748916626,38.917088985443115
+"Don't eat too much chocolate, bad for your body.",S001292_P0004_T00,"(178, 178)","[1109, 666]",79.96490097045898,41.96834373474121
+"Don't eat too much chocolate, bad for your body.",S001292_P0008_T00,"(179, 179)","[365, 491]",79.96490097045898,47.525864124298096
+"Parents have a birthday, you should get up early for breakfast.",S001298_P0004_T00,"(180, 180)","[368, 303]",87.02868747711182,46.17523908615112
+"The weather is too cold, let's play basketball.",S001308_P0000_T00,"(181, 181)","[1091, 957]",90.11192893981934,46.44764518737793
+"The weather is too cold, let's play basketball.",S001308_P0004_T00,"(182, 182)","[1050, 937]",90.11192893981934,33.320412158966064
+"My grandfather can sign a sign language, and there are many deaf friends.",S001315_P0004_T00,"(183, 183)","[518, 555]",78.78515434265137,28.39110040664673
+"The patient could not be discharged after the operation, and the nurse would take care of him.",S001324_P0000_T00,"(184, 184)","[879, 595]",68.83332443237305,33.014994621276855
+"The patient could not be discharged after the operation, and the nurse would take care of him.",S001324_P0004_T00,"(185, 185)","[426, 164]",68.83332443237305,39.88435077667236
+I went to climb the mountain today and went home for dinner at night.,S001349_P0000_T00,"(186, 186)","[811, 905]",82.41597175598145,43.047367095947266
+"I have two clothes, one is red and the other is yellow.",S001354_P0000_T00,"(187, 187)","[1075, 468]",76.57686614990234,43.37631320953369
+"I have two clothes, one is red and the other is yellow.",S001354_P0004_T00,"(188, 188)","[698, 775]",76.57686614990234,38.9909725189209
+The boy wearing black shoes is my boyfriend.,S001356_P0000_T00,"(189, 189)","[495, 11]",84.12137794494629,41.310264587402344
+The boy wearing black shoes is my boyfriend.,S001356_P0008_T00,"(190, 190)","[47, 349]",84.12137794494629,48.524314880371094
+"My daughter has no mobile phone, and I can only call her friends.",S001357_P0000_T00,"(191, 191)","[594, 274]",86.08968734741211,38.64997673034668
+"My daughter has no mobile phone, and I can only call her friends.",S001357_P0008_T00,"(192, 192)","[880, 975]",86.08968734741211,46.13734769821167
+"Go home to eat more vegetables, eat less meat, and don't get fat.",S001369_P0000_T00,"(193, 193)","[1038, 554]",74.22035026550293,41.71547079086304
+"Go home to eat more vegetables, eat less meat, and don't get fat.",S001369_P0004_T00,"(194, 194)","[723, 329]",74.22035026550293,39.66541385650635
+"Take the exam tomorrow, bring a pen, do not bring your mobile phone.",S001372_P0000_T00,"(195, 195)","[953, 347]",78.49660301208496,40.005208015441895
+"Take the exam tomorrow, bring a pen, do not bring your mobile phone.",S001372_P0008_T00,"(196, 196)","[879, 435]",78.49660301208496,38.70327568054199
+"Where to eat at noon, or go to a restaurant at school?",S001377_P0000_T00,"(197, 197)","[272, 635]",85.2351016998291,41.37196493148804
+"Where to eat at noon, or go to a restaurant at school?",S001377_P0008_T00,"(198, 198)","[713, 355]",85.2351016998291,28.416885375976562
+Milk can drink with coffee.,S001401_P0008_T00,"(199, 199)","[398, 941]",78.66758155822754,31.035913944244385
+"My boss is satisfied with me, and I am very happy.",S001403_P0004_T00,"(200, 200)","[234, 915]",82.45360946655273,41.34304904937744
+"My boss is satisfied with me, and I am very happy.",S001403_P0008_T00,"(201, 201)","[352, 870]",82.45360946655273,27.22353196144104
+"You can't drink at work hours, and the boss can't.",S001409_P0000_T00,"(202, 202)","[609, 1129]",85.3562126159668,37.58912134170532
+"You can't drink at work hours, and the boss can't.",S001409_P0008_T00,"(203, 203)","[822, 649]",85.3562126159668,46.856472969055176
+"Tomorrow is the Spring Festival, wearing new clothes.",S001414_P0008_T00,"(204, 204)","[690, 74]",90.8715591430664,40.222883224487305
+"I don't want to buy this dress, I don't want to buy it.",S001415_P0000_T00,"(205, 205)","[484, 997]",68.6168041229248,57.19780445098877
+"I don't want to buy this dress, I don't want to buy it.",S001415_P0004_T00,"(206, 206)","[855, 148]",68.6168041229248,44.83953094482422
+I am very happy after the exam is after the exam.,S001417_P0004_T00,"(207, 207)","[303, 1000]",71.10630702972412,42.77023124694824
+I am very happy after the exam is after the exam.,S001417_P0008_T00,"(208, 208)","[888, 325]",71.10630702972412,43.03251361846924
+"You are my client, I should invite you to dinner.",S001423_P0000_T00,"(209, 209)","[393, 117]",78.23678398132324,47.762701988220215
+"You are my client, I should invite you to dinner.",S001423_P0004_T00,"(210, 210)","[1141, 227]",78.23678398132324,40.07270622253418
+Dancing is a sport that is good for your health.,S001425_P0000_T00,"(211, 211)","[192, 298]",79.18708610534668,40.16339588165283
+Dancing is a sport that is good for your health.,S001425_P0008_T00,"(212, 212)","[806, 620]",79.18708610534668,43.03358173370361
+The boss sent an email to let me book a flight back to the company.,S001430_P0008_T00,"(213, 213)","[820, 580]",77.44601821899414,37.209516525268555
+"My son was on a business trip, and you had something to call him.",S001432_P0004_T00,"(214, 214)","[681, 566]",73.34309387207031,40.861292362213135
+"There are dogs at the intersection, I am a little scared.",S001447_P0004_T00,"(215, 215)","[1135, 305]",62.009843826293945,46.72058868408203
+"There are dogs at the intersection, I am a little scared.",S001447_P0008_T00,"(216, 216)","[713, 502]",62.009843826293945,38.81345176696777
+I eat a lot of fruits in the afternoon and don't want to eat dinner.,S001456_P0000_T00,"(217, 217)","[556, 192]",83.88327503204346,30.1886248588562
+"I didn't see the boss's email, when did he send it?",S001489_P0004_T00,"(218, 218)","[350, 212]",82.81672191619873,32.605939865112305
+"I didn't see the boss's email, when did he send it?",S001489_P0008_T00,"(219, 219)","[520, 96]",82.81672191619873,45.98496770858765
+It was my daughter wearing a blue skirt.,S001507_P0004_T00,"(220, 220)","[57, 541]",62.67172145843506,33.59789848327637
+It was my daughter wearing a blue skirt.,S001507_P0008_T00,"(221, 221)","[1061, 913]",62.67172145843506,39.830801486968994
+Today is a cloudy day and it may rain.,S001509_P0004_T00,"(222, 222)","[196, 1019]",80.08649921417236,21.727551698684692
+Don't watch TV at home and go out to play football.,S001515_P0004_T00,"(223, 223)","[460, 689]",86.32307052612305,46.12408638000488
+Don't watch TV at home and go out to play football.,S001515_P0008_T00,"(224, 224)","[690, 839]",86.32307052612305,31.794906616210938
+"There is a dress on the chair, who is it?",S001517_P0000_T00,"(225, 225)","[554, 55]",77.0511360168457,40.7010383605957
+"There is a dress on the chair, who is it?",S001517_P0004_T00,"(226, 226)","[240, 234]",77.0511360168457,52.46286964416504
+"Hefei has a low temperature, and you must go to school in a bicycle.",S001568_P0004_T00,"(227, 227)","[776, 51]",68.11373519897461,47.01443386077881
+"Hefei has a low temperature, and you must go to school in a bicycle.",S001568_P0008_T00,"(228, 228)","[745, 695]",68.11373519897461,31.787209510803223
+My husband is in the United States and he likes Chinese food.,S001574_P0004_T00,"(229, 229)","[994, 5]",82.70326805114746,41.710540771484375
+My husband is in the United States and he likes Chinese food.,S001574_P0008_T00,"(230, 230)","[319, 1124]",82.70326805114746,56.11500263214111
+The waiter said that the black hat is very suitable for me.,S001610_P0004_T00,"(231, 231)","[770, 1143]",51.85176420211792,46.377129554748535
+The waiter said that the black hat is very suitable for me.,S001610_P0005_T00,"(232, 232)","[91, 605]",51.85176420211792,28.197371006011963
+I will go to the supermarket to buy bread for grandpa tomorrow.,S001625_P0005_T00,"(233, 233)","[519, 501]",87.87829303741455,30.873563766479492
+Many organs of the human body may be cancerous.,S001641_P0000_T00,"(234, 234)","[968, 241]",68.78937149047852,32.041748046875
+Many organs of the human body may be cancerous.,S001641_P0004_T00,"(235, 235)","[729, 229]",68.78937149047852,44.77392864227295
+Surgical treatment is a more effective method for treating cataracts.,S001656_P0004_T00,"(236, 236)","[111, 1100]",53.48033618927002,35.667598724365234
+Surgical treatment is a more effective method for treating cataracts.,S001656_P0005_T00,"(237, 237)","[782, 67]",53.48033618927002,34.29728031158447
+"Because I was very busy during the day, I was mostly done in bed most of the time when I was going to bed at night.",S001667_P0000_T00,"(238, 238)","[747, 700]",59.35952949523926,42.548914432525635
+"Because I was very busy during the day, I was mostly done in bed most of the time when I was going to bed at night.",S001667_P0005_T00,"(239, 239)","[972, 836]",59.35952949523926,49.48330545425415
+"An old man was slowly passing through the zebra crossing, but the driver waiting impatiently pressed the speaker.",S001685_P0000_T00,"(240, 240)","[908, 402]",73.1724624633789,34.04104280471802
+Zebra crossing is a living line for pedestrians.,S001687_P0000_T00,"(241, 241)","[795, 676]",64.86199855804443,43.429081439971924
+Zebra crossing is a living line for pedestrians.,S001687_P0005_T00,"(242, 242)","[466, 831]",64.86199855804443,36.9656925201416
+Many laptops are currently built -in Bluetooth function.,S001702_P0000_T00,"(243, 243)","[61, 534]",72.81054496765137,28.76969051361084
+Many laptops are currently built -in Bluetooth function.,S001702_P0004_T00,"(244, 244)","[115, 268]",72.81054496765137,46.76930475234985
+The teacher finally introduced the design principle and implementation process of developing the Bluetooth data terminal.,S001705_P0004_T00,"(245, 245)","[890, 199]",58.80828857421875,33.886306285858154
+The teacher finally introduced the design principle and implementation process of developing the Bluetooth data terminal.,S001705_P0005_T00,"(246, 246)","[920, 103]",58.80828857421875,53.18119716644287
+The company is gradually improving the confidentiality and security of Bluetooth.,S001711_P0000_T00,"(247, 247)","[716, 775]",65.23013114929199,32.31419086456299
+The company is gradually improving the confidentiality and security of Bluetooth.,S001711_P0005_T00,"(248, 248)","[1158, 593]",65.23013114929199,42.18876266479492
+Close some of the unnecessary procedures can help us save traffic.,S001717_P0000_T00,"(249, 249)","[699, 987]",75.17555236816406,47.443535804748535
+Close some of the unnecessary procedures can help us save traffic.,S001717_P0005_T00,"(250, 250)","[1139, 889]",75.17555236816406,45.67504405975342
+"The doctor measured my body temperature and pulse, and checked my body.",S001735_P0004_T00,"(251, 251)","[733, 118]",87.42054557800293,37.903390884399414
+"The doctor measured my body temperature and pulse, and checked my body.",S001735_P0005_T00,"(252, 252)","[583, 80]",87.42054557800293,38.315035820007324
+"A copy of the legal person identity of the Shanghai company, 6 resumes, and photos.",S001743_P0000_T00,"(253, 253)","[141, 711]",73.80010032653809,37.73471546173096
+"A copy of the legal person identity of the Shanghai company, 6 resumes, and photos.",S001743_P0004_T00,"(254, 254)","[476, 626]",73.80010032653809,40.575735092163086
+Everyone will encounter moving things in life.,S001747_P0000_T00,"(255, 255)","[899, 337]",73.46907806396484,36.297786712646484
+Everyone will encounter moving things in life.,S001747_P0004_T00,"(256, 256)","[658, 406]",73.46907806396484,50.29445219039917
+Isn't it a role model for our stubborn and hard -working athletes?,S001754_P0000_T00,"(257, 257)","[569, 185]",74.0168342590332,46.8476676940918
+Isn't it a role model for our stubborn and hard -working athletes?,S001754_P0004_T00,"(258, 258)","[168, 250]",74.0168342590332,48.54901838302612
+Don't be a bad example for your brother!,S001759_P0005_T00,"(259, 259)","[1023, 481]",62.42690944671631,18.01275873184204
+Doing this is the most secure.,S001769_P0004_T00,"(260, 260)","[13, 243]",83.89051818847656,34.32252788543701
+Doing this is the most secure.,S001769_P0005_T00,"(261, 261)","[516, 524]",83.89051818847656,40.84699630737305
+"He saw the bandaged son on the bed, and felt anxious.",S001788_P0000_T00,"(262, 262)","[837, 584]",67.10578155517578,46.025299072265625
+"He saw the bandaged son on the bed, and felt anxious.",S001788_P0005_T00,"(263, 263)","[734, 708]",67.10578155517578,42.74886894226074
+"His laptop has a virus in his computer, and he can't open it at all.",S001798_P0000_T00,"(264, 264)","[96, 901]",63.26279640197754,35.44043731689453
+"His laptop has a virus in his computer, and he can't open it at all.",S001798_P0005_T00,"(265, 265)","[914, 1096]",63.26279640197754,31.926498413085938
+He has always had high standards for himself.,S001808_P0000_T00,"(266, 266)","[630, 220]",72.84040546417236,30.17834758758545
+"Your pronunciation is not standard enough, you need to practice more.",S001813_P0000_T00,"(267, 267)","[784, 247]",56.70603084564209,61.475799560546875
+"Your pronunciation is not standard enough, you need to practice more.",S001813_P0005_T00,"(268, 268)","[708, 828]",56.70603084564209,46.04913806915283
+Each product made by Master Wang is above the standard line.,S001815_P0000_T00,"(269, 269)","[875, 1129]",68.86633586883545,43.90734672546387
+He is very suitable for my mate selection criteria.,S001822_P0000_T00,"(270, 270)","[1013, 80]",73.46525955200195,49.454402923583984
+He is very suitable for my mate selection criteria.,S001822_P0004_T00,"(271, 271)","[163, 1042]",73.46525955200195,34.016319274902344
+"The wound has not been cured, don't be infected.",S001841_P0004_T00,"(272, 272)","[1016, 271]",75.16265487670898,57.161014556884766
+"The wound has not been cured, don't be infected.",S001841_P0005_T00,"(273, 273)","[872, 646]",75.16265487670898,40.21631097793579
+The motherland shows the scene of Vientiane updates everywhere.,S001851_P0005_T00,"(274, 274)","[1115, 838]",76.17742443084717,43.72819709777832
+Cultural exchanges are a bridge to communicate with each other.,S001874_P0000_T00,"(275, 275)","[219, 506]",74.69261074066162,30.24665355682373
+Cultural exchanges are a bridge to communicate with each other.,S001874_P0004_T00,"(276, 276)","[648, 554]",74.69261074066162,34.680166244506836
+Let me take a good rest. The weather changes impermanence. It is estimated that it will rain.,S001882_P0004_T00,"(277, 277)","[56, 112]",81.2258710861206,32.90132713317871
+Let me take a good rest. The weather changes impermanence. It is estimated that it will rain.,S001882_P0005_T00,"(278, 278)","[329, 79]",81.2258710861206,40.83867835998535
+The plot arrangement of the drama and script is not fixed.,S001891_P0000_T00,"(279, 279)","[1174, 255]",58.9057674407959,22.98620367050171
+The plot arrangement of the drama and script is not fixed.,S001891_P0004_T00,"(280, 280)","[604, 159]",58.9057674407959,45.494425773620605
+"We have not had a fixed classroom in class. Today, here will become there tomorrow.",S001894_P0000_T00,"(281, 281)","[798, 960]",82.20869064331055,41.03076219558716
+"We have not had a fixed classroom in class. Today, here will become there tomorrow.",S001894_P0004_T00,"(282, 282)","[813, 436]",82.20869064331055,36.490060806274414
+"I picked up a bus card, and this card had been lost by others.",S001900_P0004_T00,"(283, 283)","[125, 802]",61.11238670349121,54.707603931427
+"I picked up a bus card, and this card had been lost by others.",S001900_P0005_T00,"(284, 284)","[491, 885]",61.11238670349121,30.860355854034424
+"Please fill in this loss application form one by one, we will check carefully.",S001902_P0000_T00,"(285, 285)","[147, 317]",75.73610591888428,38.027719497680664
+"Please fill in this loss application form one by one, we will check carefully.",S001902_P0005_T00,"(286, 286)","[978, 886]",75.73610591888428,38.71232461929321
+"I like to listen to thrilling stories, but sometimes the more they listen to.",S001923_P0004_T00,"(287, 287)","[1038, 122]",68.84525394439697,48.22346353530884
+"I like to listen to thrilling stories, but sometimes the more they listen to.",S001923_P0005_T00,"(288, 288)","[186, 734]",68.84525394439697,40.88926696777344
+"I walked into the office with a disturbing mood, afraid of being blamed by the boss.",S001927_P0000_T00,"(289, 289)","[708, 347]",71.48375225067139,55.25412845611572
+"I walked into the office with a disturbing mood, afraid of being blamed by the boss.",S001927_P0005_T00,"(290, 290)","[576, 162]",71.48375225067139,42.02620887756348
+"During this time, I have to focus on preparing the final exam.",S001954_P0000_T00,"(291, 291)","[1162, 331]",73.82952690124512,37.808722496032715
+"During this time, I have to focus on preparing the final exam.",S001954_P0004_T00,"(292, 292)","[766, 78]",73.82952690124512,41.166422843933105
+"Under the disparate situation of the Chinese People's Liberation Army, it adopted the tactics such as concentrated forces to destroy the war, and finally won the victory of the war.",S001960_P0004_T00,"(293, 293)","[162, 1005]",62.676347732543945,39.342896461486816
+"Under the disparate situation of the Chinese People's Liberation Army, it adopted the tactics such as concentrated forces to destroy the war, and finally won the victory of the war.",S001960_P0005_T00,"(294, 294)","[688, 176]",62.676347732543945,39.08080768585205
+"The reform of government agencies must not only streamlined extra personnel, but also reduce overlap institutions.",S001965_P0000_T00,"(295, 295)","[756, 904]",72.03887844085693,31.887685775756836
+"The reform of government agencies must not only streamlined extra personnel, but also reduce overlap institutions.",S001965_P0005_T00,"(296, 296)","[185, 527]",72.03887844085693,26.890355110168457
+my country's imports have decreased this year.,S001969_P0000_T00,"(297, 297)","[1157, 754]",69.69066047668457,37.72580337524414
+"The living conditions at home are good, and grandma still maintains a good habit of diligence and thrift.",S001975_P0000_T00,"(298, 298)","[436, 846]",86.67717742919922,35.75375556945801
+"The living conditions at home are good, and grandma still maintains a good habit of diligence and thrift.",S001975_P0004_T00,"(299, 299)","[171, 1173]",86.67717742919922,36.130796909332275
+"Water resources are precious, we must save water.",S001978_P0000_T00,"(300, 300)","[702, 1170]",89.3630199432373,37.81209707260132
+"Water resources are precious, we must save water.",S001978_P0005_T00,"(301, 301)","[765, 1081]",89.3630199432373,37.469529151916504
+His mother was frugal and grew up to raise them.,S001981_P0000_T00,"(302, 302)","[358, 802]",62.168739318847656,40.328246116638184
+"Shunfeng ship should have a smooth sailing, but the wind is too large and the boat can't help this toss.",S001996_P0004_T00,"(303, 303)","[207, 983]",66.14008522033691,41.10131788253784
+"Shunfeng ship should have a smooth sailing, but the wind is too large and the boat can't help this toss.",S001996_P0005_T00,"(304, 304)","[935, 615]",66.14008522033691,39.23739671707153
+"Words must be believed, and it is necessary to make actions. It is the basic criterion for our school teachers and students.",S002001_P0007_T00,"(305, 305)","[1065, 482]",78.25117683410645,49.327871322631836
+The army does not have strict discipline and order prohibition.,S002004_P0000_T00,"(306, 306)","[131, 535]",64.38037872314453,43.16670227050781
+The army does not have strict discipline and order prohibition.,S002004_P0005_T00,"(307, 307)","[312, 551]",64.38037872314453,40.27331829071045
+Public places are prohibited from smoking.,S002007_P0000_T00,"(308, 308)","[23, 974]",59.23860549926758,45.68827533721924
+Public places are prohibited from smoking.,S002007_P0007_T00,"(309, 309)","[180, 1102]",59.23860549926758,32.56587886810303
+We cannot reject others' good -looking criticism.,S002009_P0000_T00,"(310, 310)","[379, 110]",65.90631484985352,44.87250232696533
+We cannot reject others' good -looking criticism.,S002009_P0005_T00,"(311, 311)","[634, 849]",65.90631484985352,32.147324562072754
+"She really loves another person, otherwise she will not refuse you.",S002018_P0005_T00,"(312, 312)","[1132, 943]",68.97416877746582,50.86486577987671
+"The rainy season is coming, and the flood prevention work begins.",S002025_P0000_T00,"(313, 313)","[829, 414]",85.97697448730469,41.70720624923706
+"The rainy season is coming, and the flood prevention work begins.",S002025_P0005_T00,"(314, 314)","[406, 863]",85.97697448730469,37.582151889801025
+"After graduating, he joined the army and started his military career.",S002026_P0000_T00,"(315, 315)","[184, 636]",71.90296745300293,34.03583908081055
+"After graduating, he joined the army and started his military career.",S002026_P0005_T00,"(316, 316)","[835, 98]",71.90296745300293,26.700729608535767
+"Although they divorce, they still feel the mood, and it seems that there is a possibility of remarriage.",S002043_P0000_T00,"(317, 317)","[1010, 844]",63.120737075805664,27.9351704120636
+"Although they divorce, they still feel the mood, and it seems that there is a possibility of remarriage.",S002043_P0007_T00,"(318, 318)","[166, 100]",63.120737075805664,45.402063846588135
+"If people do not understand each other, how can they learn to respect each other silently?",S002053_P0005_T00,"(319, 319)","[340, 703]",86.73165130615234,45.8240327835083
+"If people do not understand each other, how can they learn to respect each other silently?",S002053_P0007_T00,"(320, 320)","[95, 1080]",86.73165130615234,32.81030035018921
+"Tolerance makes us understand each other, trust each other, and love each other.",S002062_P0000_T00,"(321, 321)","[270, 566]",65.61255645751953,37.926799297332764
+"Tolerance makes us understand each other, trust each other, and love each other.",S002062_P0007_T00,"(322, 322)","[757, 606]",65.61255645751953,32.78034973144531
+"They have divorced, but they still keep in touch.",S002063_P0000_T00,"(323, 323)","[917, 60]",67.44871997833252,46.687103271484375
+Pay attention to the connection between the following and above.,S002067_P0000_T00,"(324, 324)","[837, 297]",70.99971580505371,38.479629039764404
+Pay attention to the connection between the following and above.,S002067_P0007_T00,"(325, 325)","[401, 602]",70.99971580505371,38.22763395309448
+"He studied thirsty, from classical works to popular novels.",S002085_P0005_T00,"(326, 326)","[771, 617]",57.97274208068848,40.06613731384277
+"He studied thirsty, from classical works to popular novels.",S002085_P0007_T00,"(327, 327)","[751, 629]",57.97274208068848,40.67269325256348
+Bring extraordinary popular information to readers' home life.,S002086_P0005_T00,"(328, 328)","[816, 338]",53.14088582992554,36.15343761444092
+Bring extraordinary popular information to readers' home life.,S002086_P0007_T00,"(329, 329)","[522, 1148]",53.14088582992554,46.163493156433105
+"As soon as he heard the news of his admission, his emotions suddenly became excited.",S002092_P0000_T00,"(330, 330)","[46, 1074]",72.25280857086182,38.524463176727295
+"As soon as he heard the news of his admission, his emotions suddenly became excited.",S002092_P0007_T00,"(331, 331)","[353, 1174]",72.25280857086182,28.36859655380249
+It is not difficult to imagine how exciting my brother was when he received an admission notice from Tsinghua University.,S002093_P0005_T00,"(332, 332)","[830, 339]",63.471739768981934,46.4282922744751
+It is not difficult to imagine how exciting my brother was when he received an admission notice from Tsinghua University.,S002093_P0007_T00,"(333, 333)","[407, 482]",63.471739768981934,33.03198432922363
+Criminals have not succeeded with their attempts to escape.,S002118_P0000_T00,"(334, 334)","[269, 459]",74.24029731750488,39.367950439453125
+Criminals have not succeeded with their attempts to escape.,S002118_P0005_T00,"(335, 335)","[856, 148]",74.24029731750488,44.83953094482422
+He did not make a stupid work for half an hour by hand.,S002122_P0005_T00,"(336, 336)","[385, 478]",59.45395088195801,58.51356220245361
+He did not make a stupid work for half an hour by hand.,S002122_P0007_T00,"(337, 337)","[255, 1]",59.45395088195801,33.02821588516235
+"As soon as the mother went home, she did it without rest.",S002128_P0000_T00,"(338, 338)","[317, 959]",80.13193416595459,44.82132625579834
+"As soon as the mother went home, she did it without rest.",S002128_P0005_T00,"(339, 339)","[847, 1076]",80.13193416595459,41.638115882873535
+"She likes to imitate the singer singing, and it is very good.",S002132_P0005_T00,"(340, 340)","[58, 642]",72.58095359802246,39.922632694244385
+"She likes to imitate the singer singing, and it is very good.",S002132_P0007_T00,"(341, 341)","[237, 1154]",72.58095359802246,57.86442852020264
+Children always like to imitate adults' actions.,S002133_P0000_T00,"(342, 342)","[1161, 578]",84.04572868347168,24.916121006011963
+Children always like to imitate adults' actions.,S002133_P0005_T00,"(343, 343)","[998, 962]",84.04572868347168,34.47242450714111
+"If you don't study hard, you will be at a disadvantage in competition.",S002143_P0000_T00,"(344, 344)","[335, 48]",71.51767826080322,40.07029628753662
+"If you don't study hard, you will be at a disadvantage in competition.",S002143_P0007_T00,"(345, 345)","[601, 251]",71.51767826080322,44.6777982711792
+"My brother got the manager's emphasis on the manager, and his work was harder.",S002149_P0000_T00,"(346, 346)","[602, 431]",69.49642372131348,35.04678678512573
+"My brother got the manager's emphasis on the manager, and his work was harder.",S002149_P0005_T00,"(347, 347)","[513, 759]",69.49642372131348,43.57007598876953
+"In artificially, this project is what everyone strives to come.",S002150_P0000_T00,"(348, 348)","[598, 853]",59.95293426513672,45.454044342041016
+"In artificially, this project is what everyone strives to come.",S002150_P0005_T00,"(349, 349)","[443, 616]",59.95293426513672,37.55116319656372
+"Due to the tacit understanding, they won the championship in the men's table tennis doubles.",S002162_P0000_T00,"(350, 350)","[145, 157]",65.47040367126465,25.865571975708008
+"Due to the tacit understanding, they won the championship in the men's table tennis doubles.",S002162_P0007_T00,"(351, 351)","[570, 475]",65.47040367126465,30.47994327545166
+The cadres in our class are very interested and can cooperate with each other at work.,S002164_P0000_T00,"(352, 352)","[643, 136]",75.17618656158447,34.68537998199463
+The cadres in our class are very interested and can cooperate with each other at work.,S002164_P0007_T00,"(353, 353)","[1022, 964]",75.17618656158447,31.915596961975098
+"In life, my mother and dad are well cooperated, and our family is always filled with a warm and harmonious atmosphere.",S002167_P0000_T00,"(354, 354)","[883, 762]",75.21375751495361,46.53340816497803
+"In life, my mother and dad are well cooperated, and our family is always filled with a warm and harmonious atmosphere.",S002167_P0007_T00,"(355, 355)","[680, 520]",75.21375751495361,37.88138771057129
+Senior students should not bully young students.,S002176_P0000_T00,"(356, 356)","[1106, 927]",76.19833278656006,37.07959032058716
+Senior students should not bully young students.,S002176_P0005_T00,"(357, 357)","[467, 607]",76.19833278656006,36.45350456237793
+The content of the declaration should be concise and signed by the applicant or its entrusted agent.,S002198_P0000_T00,"(358, 358)","[51, 403]",67.39179611206055,39.15717792510986
+The content of the declaration should be concise and signed by the applicant or its entrusted agent.,S002198_P0005_T00,"(359, 359)","[159, 491]",67.39179611206055,41.103163719177246
+He took the test paper home and asked his father to sign it on it.,S002199_P0005_T00,"(360, 360)","[1078, 122]",73.28645706176758,41.67873764038086
+He took the test paper home and asked his father to sign it on it.,S002199_P0007_T00,"(361, 361)","[314, 1173]",73.28645706176758,21.626003980636597
+"We have always emphasized self -reliance, but we do not exclude foreign aid.",S002202_P0005_T00,"(362, 362)","[238, 957]",69.84158515930176,39.58314895629883
+"We have always emphasized self -reliance, but we do not exclude foreign aid.",S002202_P0007_T00,"(363, 363)","[345, 198]",69.84158515930176,34.26739311218262
+It emphasizes both the market and the organization of operations is almost invincible.,S002208_P0000_T00,"(364, 364)","[1038, 60]",76.24270629882812,37.900310039520264
+It emphasizes both the market and the organization of operations is almost invincible.,S002208_P0005_T00,"(365, 365)","[1149, 862]",76.24270629882812,39.506234645843506
+Everyone should work together and should understand each other. We must emphasize consistency and require the same difference.,S002210_P0005_T00,"(366, 366)","[252, 895]",73.56531524658203,34.8263578414917
+Everyone should work together and should understand each other. We must emphasize consistency and require the same difference.,S002210_P0007_T00,"(367, 367)","[821, 360]",73.56531524658203,37.55289554595947
+"Parents should take a look, if your child is sick, whether the company allows you to take a paid for leave.",S002217_P0000_T00,"(368, 368)","[906, 678]",83.07013893127441,41.89738082885742
+"Parents should take a look, if your child is sick, whether the company allows you to take a paid for leave.",S002217_P0005_T00,"(369, 369)","[125, 909]",83.07013893127441,38.648681640625
+The young man lacked vitality and gave people a feeling of twilight.,S002228_P0000_T00,"(370, 370)","[154, 535]",69.7575044631958,35.335201263427734
+The young man lacked vitality and gave people a feeling of twilight.,S002228_P0005_T00,"(371, 371)","[357, 1001]",69.7575044631958,31.61628770828247
+"When you are happy, friends will know us. We will know our friends when they are in trouble.",S002239_P0005_T00,"(372, 372)","[7, 374]",83.38813018798828,53.94331073760986
+The most difficult thing in life is to know yourself.,S002240_P0000_T00,"(373, 373)","[752, 776]",81.48560333251953,38.8974289894104
+The most difficult thing in life is to know yourself.,S002240_P0005_T00,"(374, 374)","[350, 162]",81.48560333251953,35.7273063659668
+It is very important to correctly understand self and improve yourself in adversity.,S002245_P0000_T00,"(375, 375)","[433, 898]",65.73971557617188,46.56716060638428
+It is very important to correctly understand self and improve yourself in adversity.,S002245_P0007_T00,"(376, 376)","[14, 616]",65.73971557617188,28.17303466796875
+"We must not only summarize experience from success, but also learn lessons from failure.",S002256_P0005_T00,"(377, 377)","[151, 669]",81.62320327758789,43.703450202941895
+"We must not only summarize experience from success, but also learn lessons from failure.",S002256_P0007_T00,"(378, 378)","[162, 350]",81.62320327758789,43.106807708740234
+The most failed to be a teacher is to make students always feel indifferent in the classroom.,S002261_P0007_T00,"(379, 379)","[1133, 1000]",72.75668525695801,42.08010196685791
+"After several failures, the experiment was finally successful. Everyone was ecstatic and rushed to tell each other.",S002264_P0000_T00,"(380, 380)","[918, 175]",63.038679122924805,44.44906139373779
+"After several failures, the experiment was finally successful. Everyone was ecstatic and rushed to tell each other.",S002264_P0007_T00,"(381, 381)","[960, 634]",63.038679122924805,39.25318145751953
+Analyze the hidden dangers of accidents in clinical applications of infusion pumps and countermeasures.,S002269_P0000_T00,"(382, 382)","[75, 944]",69.10790348052979,36.69820976257324
+Analyze the hidden dangers of accidents in clinical applications of infusion pumps and countermeasures.,S002269_P0005_T00,"(383, 383)","[728, 992]",69.10790348052979,36.30300045013428
+"Some children are afraid of infusion, and they kept crying.",S002274_P0005_T00,"(384, 384)","[209, 918]",75.31411361694336,38.00648736953735
+"Some children are afraid of infusion, and they kept crying.",S002274_P0007_T00,"(385, 385)","[693, 628]",75.31411361694336,47.106051445007324
+The purpose of developing production is to improve the people's lives.,S002295_P0005_T00,"(386, 386)","[982, 832]",79.85280895233154,51.070377826690674
+"Through the dictionary, we can preview strange words in advance.",S002299_P0000_T00,"(387, 387)","[422, 186]",65.14151763916016,39.8644905090332
+Today the factory completed the production plan this year in advance.,S002303_P0005_T00,"(388, 388)","[210, 828]",82.00110244750977,25.214313745498657
+"In order to complete the construction in advance, people fought day and night.",S002307_P0005_T00,"(389, 389)","[1120, 392]",75.2403736114502,38.53146266937256
+"In order to complete the construction in advance, people fought day and night.",S002307_P0007_T00,"(390, 390)","[615, 616]",75.2403736114502,30.16992950439453
+I like the old -fashioned black and white movie.,S002316_P0005_T00,"(391, 391)","[664, 1043]",74.1475715637207,28.912918090820312
+I like the old -fashioned black and white movie.,S002316_P0007_T00,"(392, 392)","[229, 70]",74.1475715637207,30.244056701660156
+"In order to go home earlier, I bought a ticket.",S002330_P0000_T00,"(393, 393)","[1062, 518]",63.053218841552734,36.075605392456055
+"I am not convenient to answer the phone now, can I use SMS?",S002339_P0000_T00,"(394, 394)","[1029, 1090]",68.30908012390137,41.82849407196045
+"I am not convenient to answer the phone now, can I use SMS?",S002339_P0007_T00,"(395, 395)","[58, 394]",68.30908012390137,41.041640281677246
+Don't let me introduce the object every day.,S002347_P0000_T00,"(396, 396)","[805, 1001]",71.6345567703247,40.521254539489746
+Scan this QR code to receive cash red envelopes.,S002370_P0000_T00,"(397, 397)","[568, 94]",80.07379531860352,42.67153739929199
+Scan this QR code to receive cash red envelopes.,S002370_P0005_T00,"(398, 398)","[972, 714]",80.07379531860352,47.509151458740234
+The QR code can also become a variety of patterns.,S002376_P0005_T00,"(399, 399)","[597, 358]",68.61247825622559,38.69758129119873
+The QR code can also become a variety of patterns.,S002376_P0007_T00,"(400, 400)","[136, 129]",68.61247825622559,58.90226936340332
+The QR code is really a great invention!,S002380_P0007_T00,"(401, 401)","[886, 362]",67.98053455352783,47.39658546447754
+Laws will also exist loopholes.,S002390_P0000_T00,"(402, 402)","[995, 827]",66.99193382263184,29.685011863708496
+We will contact you by text message.,S002397_P0005_T00,"(403, 403)","[960, 606]",73.96746063232422,38.869107246398926
+We will contact you by text message.,S002397_P0007_T00,"(404, 404)","[328, 363]",73.96746063232422,43.186302185058594
+I told him the good news by writing.,S002403_P0007_T00,"(405, 405)","[440, 941]",69.65810966491699,40.989659786224365
+We will use spot checks for inspection.,S002410_P0000_T00,"(406, 406)","[227, 666]",74.2463788986206,41.60448360443115
+We will use spot checks for inspection.,S002410_P0007_T00,"(407, 407)","[292, 901]",74.2463788986206,49.02294445037842
+The car turning direction is returned.,S002420_P0005_T00,"(408, 408)","[596, 653]",61.463876724243164,47.94704532623291
+You have to grasp the direction of your life.,S002421_P0005_T00,"(409, 409)","[267, 481]",59.05830097198486,33.99406909942627
+The teacher took a get out of class ten minutes in advance.,S002430_P0005_T00,"(410, 410)","[436, 834]",52.7391242980957,33.52482604980469
+The teacher took a get out of class ten minutes in advance.,S002430_P0007_T00,"(411, 411)","[152, 1082]",52.7391242980957,43.45992660522461
+I will work until the last minute of life.,S002432_P0005_T00,"(412, 412)","[706, 7]",68.84174919128418,40.198076248168945
+I will work until the last minute of life.,S002432_P0007_T00,"(413, 413)","[275, 413]",68.84174919128418,28.31717014312744
+He could only calm down for a few minutes.,S002439_P0005_T00,"(414, 414)","[165, 1005]",70.46906280517578,39.47251224517822
+"Within two minutes, I need to know all the information about him.",S002441_P0007_T00,"(415, 415)","[392, 373]",68.84019374847412,41.937678813934326
+The shelf life of Babao porridge will not exceed one month.,S002443_P0007_T00,"(416, 416)","[499, 558]",62.795769691467285,29.675158500671387
+"After listening to his speech, there was a confused expression on everyone's faces.",S002449_P0000_T00,"(417, 417)","[978, 491]",63.189857482910156,49.536213874816895
+"After listening to his speech, there was a confused expression on everyone's faces.",S002449_P0005_T00,"(418, 418)","[298, 333]",63.189857482910156,55.9165735244751
+"At this time, Xiao Wang, who was always careless, also showed a shy expression.",S002454_P0000_T00,"(419, 419)","[406, 1124]",74.25884914398193,35.99928855895996
+"At this time, Xiao Wang, who was always careless, also showed a shy expression.",S002454_P0007_T00,"(420, 420)","[186, 344]",74.25884914398193,40.838725090026855
+"Because I only stayed for one night, I just found a hotel nearby.",S002461_P0007_T00,"(421, 421)","[550, 197]",65.72836685180664,31.701045989990234
+You'd better not leave your valuable items in the hotel.,S002470_P0007_T00,"(422, 422)","[1082, 371]",73.76386451721191,34.65288257598877
+The hospital for hospitalization can generally be stored for thirty years.,S002476_P0005_T00,"(423, 423)","[716, 763]",67.17175769805908,58.31897830963135
+The hospital for hospitalization can generally be stored for thirty years.,S002476_P0007_T00,"(424, 424)","[1026, 1157]",67.17175769805908,32.584083557128906
+The medical records are prohibited and modified.,S002479_P0005_T00,"(425, 425)","[978, 22]",70.44266033172607,38.088515281677246
+"This year, the government has strengthened subsidies for the poor.",S002486_P0000_T00,"(426, 426)","[176, 898]",74.15826606750488,31.05381488800049
+"This year, the government has strengthened subsidies for the poor.",S002486_P0005_T00,"(427, 427)","[305, 236]",74.15826606750488,43.89392852783203
+"When danger occurs, life is more important than property.",S002495_P0000_T00,"(428, 428)","[572, 247]",72.98291206359863,41.29153251647949
+He left his family and escaped with his family property.,S002500_P0005_T00,"(429, 429)","[718, 283]",70.33394622802734,32.623573780059814
+He left his family and escaped with his family property.,S002500_P0007_T00,"(430, 430)","[365, 435]",70.33394622802734,55.562867164611816
+Many napkins will be printed with beautiful patterns.,S002504_P0005_T00,"(431, 431)","[481, 396]",64.10519886016846,45.39416980743408
+Many napkins will be printed with beautiful patterns.,S002504_P0007_T00,"(432, 432)","[963, 944]",64.10519886016846,32.21978282928467
+"Have you forgotten the key again? No way, wait for me to go back.",S002520_P0005_T00,"(433, 433)","[988, 1147]",72.06226348876953,34.57982349395752
+"Have you forgotten the key again? No way, wait for me to go back.",S002520_P0007_T00,"(434, 434)","[758, 867]",72.06226348876953,41.51758575439453
+"If you have any way, just say, don't hide it.",S002529_P0000_T00,"(435, 435)","[99, 413]",52.98752784729004,37.486488819122314
+"In addition to doing this, what else can I do?",S002533_P0005_T00,"(436, 436)","[1164, 673]",60.04977226257324,41.72654914855957
+"In addition to doing this, what else can I do?",S002533_P0007_T00,"(437, 437)","[586, 720]",60.04977226257324,27.87852191925049
+This game is unfair!,S002550_P0000_T00,"(438, 438)","[691, 348]",66.50158882141113,47.245150089263916
+This game is unfair!,S002550_P0007_T00,"(439, 439)","[1018, 38]",66.50158882141113,42.397282123565674
+This form must be filled in before tonight.,S002562_P0005_T00,"(440, 440)","[357, 255]",75.10238647460938,32.22208595275879
+This glass workshop has a hundred years of history.,S002578_P0000_T00,"(441, 441)","[167, 570]",65.48786735534668,18.17364525794983
+This glass workshop has a hundred years of history.,S002578_P0005_T00,"(442, 442)","[125, 306]",65.48786735534668,47.12473678588867
+"When we were young, we loved to play glass beads.",S002580_P0000_T00,"(443, 443)","[316, 925]",76.87620544433594,24.13682746887207
+"Part of the part is not isolated, but is connected.",S002592_P0005_T00,"(444, 444)","[662, 584]",63.925214767456055,38.481388092041016
+We are used to the lottery.,S002595_P0000_T00,"(445, 445)","[476, 673]",66.6234073638916,42.807982444763184
+We are used to the lottery.,S002595_P0007_T00,"(446, 446)","[437, 345]",66.6234073638916,39.564510345458984
+Some writers have never written novels and never draft.,S002607_P0000_T00,"(447, 447)","[300, 194]",63.41110420227051,39.13024139404297
+Some writers have never written novels and never draft.,S002607_P0002_T00,"(448, 448)","[449, 697]",63.41110420227051,24.087390422821045
+This person is really lying without draft.,S002608_P0000_T00,"(449, 449)","[478, 246]",70.15764045715332,45.61544990539551
+This person is really lying without draft.,S002608_P0002_T00,"(450, 450)","[728, 768]",70.15764045715332,28.77132272720337
+Pay attention to your own words and deeds in public.,S002646_P0000_T00,"(451, 451)","[587, 401]",57.99660778045654,38.23475694656372
+He repeatedly checked it several times before submitting the answer.,S002656_P0002_T00,"(452, 452)","[301, 199]",76.50706481933594,31.893593788146973
+"For what life is, different people will have different answers.",S002660_P0002_T00,"(453, 453)","[620, 556]",79.8910140991211,38.19572067260742
+"The answer to this question is simple, but the truth behind it is deep.",S002668_P0002_T00,"(454, 454)","[446, 501]",78.98490524291992,36.61945629119873
+The heavy rain made my mood bad.,S002677_P0000_T00,"(455, 455)","[153, 824]",67.07026672363281,40.995511054992676
+"Too coincidentally, I live near this.",S002687_P0002_T00,"(456, 456)","[1109, 729]",65.74907493591309,33.27480697631836
+Didn't you find a tailor shop? It should be right nearby.,S002689_P0002_T00,"(457, 457)","[220, 791]",65.53063201904297,43.072214126586914
+I hope that every customer can enjoy our best service.,S002702_P0002_T00,"(458, 458)","[1052, 844]",65.87405776977539,33.41445302963257
+The new dishes we have recently launched are not welcomed by customers.,S002706_P0002_T00,"(459, 459)","[11, 921]",79.55125999450684,44.233208656311035
+There are various products in the supermarket for customers to choose from.,S002709_P0002_T00,"(460, 460)","[595, 151]",70.14080429077148,24.278279304504395
+The products launched by this store can always meet the needs of customers.,S002710_P0002_T00,"(461, 461)","[32, 510]",65.47061729431152,29.98527240753174
+"He has come into contact with various people, so he can create excellent works.",S002744_P0002_T00,"(462, 462)","[271, 397]",78.32132530212402,40.810139656066895
+His dream was to build a financial empire.,S002762_P0000_T00,"(463, 463)","[836, 16]",66.37910270690918,51.08893299102783
+He made a lot of wealth from the financial market.,S002763_P0002_T00,"(464, 464)","[304, 1099]",73.73676109313965,42.86465263366699
+"Everyone should be careful of financial fraud, and do not be fooled because of greed.",S002764_P0002_T00,"(465, 465)","[356, 771]",69.77748489379883,36.16301727294922
+This is really a wonderful final!,S002785_P0002_T00,"(466, 466)","[248, 498]",73.02048301696777,52.56544876098633
+He had a major mistake in the final.,S002790_P0002_T00,"(467, 467)","[69, 760]",76.5396957397461,35.4097957611084
+This KFC has been opened for ten years.,S002794_P0000_T00,"(468, 468)","[1089, 60]",72.58254909515381,34.344858169555664
+KFC business downstairs is particularly good.,S002804_P0000_T00,"(469, 469)","[274, 956]",43.28480911254883,44.57533931732178
+The teacher's teaching level is very high.,S002810_P0002_T00,"(470, 470)","[894, 624]",79.27043914794922,38.87602996826172
+Teachers like students who are studying seriously.,S002820_P0002_T00,"(471, 471)","[313, 661]",64.68897724151611,31.124871253967285
+Teachers meet every Friday afternoon.,S002824_P0002_T00,"(472, 472)","[1143, 1116]",66.94418907165527,47.0280556678772
+"You don't need to give me any gift, it is enough to have this heart.",S002828_P0000_T00,"(473, 473)","[985, 929]",66.87199783325195,44.38809871673584
+He published a lot of papers.,S002848_P0000_T00,"(474, 474)","[132, 190]",65.00781631469727,53.67862844467163
+This paper was highly praised by the teacher.,S002852_P0002_T00,"(475, 475)","[375, 253]",63.145503997802734,52.25214385986328
+He was discovered by the boss at work.,S002862_P0000_T00,"(476, 476)","[305, 176]",68.21131420135498,41.066524028778076
+"When he woke up, he found himself in the hospital.",S002864_P0002_T00,"(477, 477)","[200, 1145]",73.54386615753174,59.69693374633789
+my country's economy has been developing forward at a high speed.,S002878_P0002_T00,"(478, 478)","[866, 1092]",64.94270133972168,48.47890663146973
+"I don't oppose you to play games, but you must control the time.",S002886_P0002_T00,"(479, 479)","[762, 783]",70.46710014343262,45.84043836593628
+You should learn to listen to those opposition.,S002898_P0002_T00,"(480, 480)","[229, 815]",79.61795711517334,31.329482078552246
+My suggestion was denied.,S002899_P0002_T00,"(481, 481)","[893, 495]",57.454505920410156,35.59469985961914
+Self -denial need to pay great courage.,S002909_P0002_T00,"(482, 482)","[715, 216]",74.88507175445557,30.19182586669922
+It is normal for someone to sing anti -tuning. Everyone supports it.,S002937_P0000_T00,"(483, 483)","[1057, 1002]",53.93562698364258,29.499313354492188
+You only know that singing anti -tuning and never put forward any good opinions.,S002942_P0000_T00,"(484, 484)","[801, 189]",76.68477249145508,28.322704315185547
+This game has a anti -addiction system.,S002947_P0002_T00,"(485, 485)","[1058, 259]",74.53548431396484,32.00985813140869
+"Since he was obsessed with the game, his academic performance has plummeted.",S002951_P0002_T00,"(486, 486)","[643, 843]",62.61591911315918,27.507014751434326
+The beautiful scenery made me addicted.,S002958_P0002_T00,"(487, 487)","[1084, 851]",72.09139633178711,57.34565830230713
+The teacher finally admits that I am correct.,S002970_P0002_T00,"(488, 488)","[331, 780]",68.11362838745117,47.0616979598999
+"My hand was injured, and I couldn't eat anything for a while.",S002991_P0002_T00,"(489, 489)","[527, 566]",55.57577133178711,34.926947593688965
+"When you meet for the first time, you will be bad when you are late.",S002998_P0002_T00,"(490, 490)","[260, 941]",66.04699897766113,40.230366706848145
+"You are late for three minutes, so you have to make three cups of alcohol.",S003002_P0000_T00,"(491, 491)","[1142, 864]",69.8197021484375,43.6262788772583
+"After dressing up, he was like a person compared with before.",S003016_P0000_T00,"(492, 492)","[1121, 293]",55.541171073913574,48.46846580505371
+He hasn't realized that he has offended a lot of people.,S003026_P0000_T00,"(493, 493)","[123, 720]",73.60886764526367,29.76864194869995
+"In order to avoid heavy rain, he ran into the supermarket.",S003031_P0000_T00,"(494, 494)","[967, 587]",72.30886459350586,41.335275173187256
+"Since it is difficult to avoid difficulties, then solve it.",S003033_P0000_T00,"(495, 495)","[744, 1105]",77.59149551391602,42.2152419090271
+I lowered my head to avoid the dazzling sun.,S003036_P0000_T00,"(496, 496)","[1157, 959]",56.15011692047119,42.543503761291504
+"Don't worry me, be careful of me and you turn your face!",S003046_P0000_T00,"(497, 497)","[916, 516]",72.82651329040527,33.482428550720215
+"It turns out that you are his son, no wonder you look so familiar.",S003065_P0000_T00,"(498, 498)","[189, 716]",62.67458534240723,31.598587036132812
+This can of this can of eight treasure porridge has expired.,S003076_P0000_T00,"(499, 499)","[1067, 10]",75.66254615783691,32.87498474121094
+The two fire extinguishers in the corridor have expired.,S003078_P0002_T00,"(500, 500)","[1075, 222]",70.57388496398926,30.46479606628418
+Grandpa reads the newspaper every day to understand the major events in the world.,S003092_P0002_T00,"(501, 501)","[1035, 613]",73.29082298278809,31.8296537399292
+Long -term inhalation of this substance can easily cause abortion in pregnant women.,S003101_P0000_T00,"(502, 502)","[843, 129]",63.49239444732666,32.31033229827881
+I feel disgusting when I see you now!,S003131_P0001_T00,"(503, 503)","[1045, 110]",72.63735008239746,44.71334981918335
+I feel disgusting when I see you now!,S003131_P0002_T00,"(504, 504)","[390, 491]",72.63735008239746,57.33675956726074
+Get away your disgusting look.,S003140_P0000_T00,"(505, 505)","[1066, 1050]",47.354915618896484,30.674927711486816
+"Online payment is convenient and fast, and is loved by young people.",S003146_P0000_T00,"(506, 506)","[1103, 526]",56.3467903137207,33.597551345825195
+"Online payment is convenient and fast, and is loved by young people.",S003146_P0002_T00,"(507, 507)","[443, 102]",56.3467903137207,48.16262435913086
+The advantage of tablet computers is that it is easy to carry.,S003151_P0000_T00,"(508, 508)","[539, 883]",61.6541748046875,31.319528579711914
+The advantage of tablet computers is that it is easy to carry.,S003151_P0002_T00,"(509, 509)","[571, 538]",61.6541748046875,40.58508110046387
+He always gives convenience to others and leaves difficulties to himself.,S003154_P0000_T00,"(510, 510)","[51, 435]",71.60519027709961,44.53888988494873
+He always gives convenience to others and leaves difficulties to himself.,S003154_P0001_T00,"(511, 511)","[2, 954]",71.60519027709961,31.121192932128906
+The two of you won the first prize and second prize.,S003157_P0000_T00,"(512, 512)","[857, 983]",62.26331424713135,53.9428768157959
+The nature of these two things is different and treat them separately.,S003159_P0001_T00,"(513, 513)","[329, 1000]",60.187692642211914,35.37344312667847
+The nature of these two things is different and treat them separately.,S003159_P0002_T00,"(514, 514)","[1022, 475]",60.187692642211914,37.34396553039551
+What are the benefits and disadvantages of this matter?,S003162_P0000_T00,"(515, 515)","[12, 303]",49.9606294631958,33.44844913482666
+There is no difference between high and low and low and low.,S003170_P0001_T00,"(516, 516)","[438, 1122]",56.93628978729248,44.96197032928467
+I was ashamed to see my mother's expectation.,S003181_P0001_T00,"(517, 517)","[1105, 99]",65.29321670532227,36.892112731933594
+I was ashamed to see my mother's expectation.,S003181_P0002_T00,"(518, 518)","[302, 866]",65.29321670532227,41.815242767333984
+His efforts made us all ashamed.,S003186_P0001_T00,"(519, 519)","[1038, 748]",70.31066131591797,30.609118461608887
+"This time I failed, and I failed thoroughly.",S003192_P0000_T00,"(520, 520)","[831, 557]",73.8424243927002,40.55331802368164
+"I only have a rough plan, and the details have not been determined.",S003206_P0000_T00,"(521, 521)","[1133, 897]",71.63571166992188,46.73923063278198
+"I only have a rough plan, and the details have not been determined.",S003206_P0001_T00,"(522, 522)","[61, 268]",71.63571166992188,43.67108631134033
+He has little social experience and his thoughts are very simple.,S003219_P0000_T00,"(523, 523)","[580, 685]",61.99886894226074,42.66365337371826
+He has little social experience and his thoughts are very simple.,S003219_P0002_T00,"(524, 524)","[457, 1084]",61.99886894226074,45.63301706314087
+He wrote his mobile phone number on the napkin paper to me.,S003225_P0000_T00,"(525, 525)","[677, 186]",71.08141994476318,50.273316860198975
+"When I arrived at the station, I found out that I forgot the ticket at home.",S003237_P0002_T00,"(526, 526)","[953, 23]",82.6046142578125,37.40047883987427
+Excellent grades are the results of his accumulation.,S003244_P0000_T00,"(527, 527)","[223, 718]",63.9474983215332,46.301453590393066
+"If you don't work hard, how can you achieve good results?",S003246_P0002_T00,"(528, 528)","[1045, 723]",84.11271286010742,28.544935703277588
+"Looking at my transcript, my mother's expression suddenly became serious.",S003248_P0002_T00,"(529, 529)","[509, 1159]",66.75511264801025,43.63252067565918
+The leader fully affirmed his achievements in his work.,S003250_P0000_T00,"(530, 530)","[593, 614]",63.35468101501465,45.299588203430176
+You must work strictly in accordance with the production procedures.,S003256_P0002_T00,"(531, 531)","[210, 1164]",77.61058807373047,42.68360710144043
+Our company has a set of strict procedures.,S003258_P0002_T00,"(532, 532)","[542, 656]",81.28522491455078,44.138733863830566
+There are more and more foreign products exported to foreign countries.,S003267_P0002_T00,"(533, 533)","[638, 587]",59.086172103881836,43.28080701828003
+Where is the exit of the museum?,S003269_P0002_T00,"(534, 534)","[351, 67]",62.67321014404297,42.72136831283569
+There are many agricultural products in my country.,S003276_P0002_T00,"(535, 535)","[853, 696]",70.72022342681885,34.414692878723145
+Why can't I find the prescription given to me by the doctor?,S003289_P0002_T00,"(536, 536)","[12, 486]",47.506407737731934,38.89520597457886
+"Reading is to learn knowledge, and you cannot just start with interest.",S003294_P0002_T00,"(537, 537)","[49, 541]",63.04405975341797,43.68908071517944
+He is unwilling to live this monotonous life.,S003323_P0000_T00,"(538, 538)","[39, 1044]",63.2071008682251,46.68066453933716
+A person named Wang just called you.,S003338_P0000_T00,"(539, 539)","[227, 400]",59.97300148010254,45.02759265899658
+His words just now are contradictory and make people feel strange.,S003340_P0002_T00,"(540, 540)","[556, 954]",72.48813438415527,36.116153717041016
+You should learn to overcome your shy mood.,S003353_P0000_T00,"(541, 541)","[712, 58]",55.56990337371826,44.32374811172485
+He seized the opportunity in time and succeeded.,S003371_P0002_T00,"(542, 542)","[1056, 856]",48.57563781738281,27.6932156085968
+"Although he knew it was illegal, he was lucky and eventually made a big mistake.",S003381_P0000_T00,"(543, 543)","[432, 187]",63.051536560058594,31.2988338470459
+"Don't be humble, your success is not able to explain it with luck.",S003382_P0002_T00,"(544, 544)","[260, 146]",80.05356121063232,37.303951263427734
+There is no fluke before the huge gap.,S003385_P0000_T00,"(545, 545)","[1065, 208]",47.596309661865234,34.49314594268799
+"Seeing that everyone was blank, the teacher had to talk easier.",S003402_P0000_T00,"(546, 546)","[854, 1023]",73.53766441345215,52.42402362823486
+"I have been confused about this problem, but I suddenly figured it out just now.",S003406_P0002_T00,"(547, 547)","[421, 213]",57.335411071777344,37.315109729766846
+"I was fired by the boss, and my good friend comforted me.",S003410_P0002_T00,"(548, 548)","[632, 123]",57.98403739929199,37.691022872924805
+The teacher comforted for a long time before she stopped crying.,S003418_P0002_T00,"(549, 549)","[819, 732]",81.54820823669434,33.16154336929321
+"After the equipment is installed, it can be used.",S003424_P0000_T00,"(550, 550)","[998, 810]",71.77656936645508,31.572194576263428
+Only by understanding each other can we have a full grasp of success.,S003455_P0000_T00,"(551, 551)","[103, 185]",71.15636157989502,39.3975772857666
+They have quarreled many times for moving.,S003469_P0002_T00,"(552, 552)","[177, 356]",67.52847480773926,35.502344608306885
+"He was noisy, and his neighbors wanted him to move.",S003471_P0002_T00,"(553, 553)","[476, 366]",61.98016357421875,33.92657423019409
+We must help him with poor learning classmates.,S003491_P0002_T00,"(554, 554)","[1021, 404]",81.89135360717773,33.86405277252197
+my country's education system includes basic education and vocational education.,S003494_P0000_T00,"(555, 555)","[624, 1119]",76.04561233520508,37.8987512588501
+Who doesn't like to pack yourself these days?,S003500_P0002_T00,"(556, 556)","[356, 209]",55.68604755401611,36.647454261779785
+The registration form can be collected at each registration center of the college.,S003515_P0002_T00,"(557, 557)","[532, 670]",72.46594429016113,34.71485662460327
+We don't want to graduate.,S003518_P0002_T00,"(558, 558)","[323, 71]",87.55011463165283,44.104711055755615
+"After graduating from my sister, she went to the mountains to work in the mountains.",S003524_P0000_T00,"(559, 559)","[123, 954]",75.75564575195312,46.319217681884766
+Some people say that taking contraceptives for a long time will disrupt women's endocrine balance.,S003537_P0000_T00,"(560, 560)","[1172, 459]",70.8890323638916,32.743239402770996
+Some people say that taking contraceptives for a long time will disrupt women's endocrine balance.,S003537_P0001_T00,"(561, 561)","[433, 948]",70.8890323638916,34.44043779373169
+There have been tremendous changes in China in 50 years.,S003545_P0002_T00,"(562, 562)","[871, 221]",76.6456527709961,36.95073223114014
+"Personality is neither sturdy nor unchanged, but the activity changes.",S003551_P0000_T00,"(563, 563)","[948, 426]",58.59481239318848,41.745988845825195
+"Personality is neither sturdy nor unchanged, but the activity changes.",S003551_P0001_T00,"(564, 564)","[37, 63]",58.59481239318848,58.35706329345703
+"In the face of competition, we cannot avoid.",S003572_P0002_T00,"(565, 565)","[538, 574]",68.5907154083252,27.140270709991455
+We can't understand what he said.,S003579_P0002_T00,"(566, 566)","[701, 815]",72.06567478179932,47.29683017730713
+I don't like him to look at my eyes.,S003594_P0000_T00,"(567, 567)","[1109, 222]",76.77036190032959,39.99385595321655
+"This child is too late to travel all day long, it is really worrying.",S003605_P0000_T00,"(568, 568)","[230, 499]",73.06213283538818,43.707268714904785
+"This child is too late to travel all day long, it is really worrying.",S003605_P0001_T00,"(569, 569)","[175, 1053]",73.06213283538818,29.867516040802002
+Candidates can check the final admission results to the college office.,S003619_P0000_T00,"(570, 570)","[864, 789]",64.01184558868408,43.92123889923096
+The first player fell and was exceeded by the players behind.,S003621_P0001_T00,"(571, 571)","[145, 981]",53.27748775482178,38.90360736846924
+The first player fell and was exceeded by the players behind.,S003621_P0002_T00,"(572, 572)","[832, 719]",53.27748775482178,35.22456455230713
+Teachers and students unanimously praised Dongdong as a good student.,S003633_P0000_T00,"(573, 573)","[386, 483]",78.38304901123047,52.1664342880249
+Teachers and students unanimously praised Dongdong as a good student.,S003633_P0001_T00,"(574, 574)","[500, 532]",78.38304901123047,41.20416736602783
+"In the park, I have seen a lot of colorful flowers, which are praised.",S003637_P0001_T00,"(575, 575)","[1024, 914]",73.6509780883789,28.172133445739746
+Everyone praised her spirit of dedication to education.,S003645_P0000_T00,"(576, 576)","[393, 621]",61.14276123046875,43.19604539871216
+Everyone praised her spirit of dedication to education.,S003645_P0002_T00,"(577, 577)","[977, 948]",61.14276123046875,49.80108642578125
+We must coordinate and cooperate with contract contractors to ensure the smooth completion of maintenance work.,S003651_P0001_T00,"(578, 578)","[260, 231]",73.30500221252441,35.90006399154663
+He blindly worshiped and imitated.,S003669_P0000_T00,"(579, 579)","[657, 1049]",83.6870288848877,23.94878911972046
+He blindly worshiped and imitated.,S003669_P0001_T00,"(580, 580)","[747, 1027]",83.6870288848877,45.98971080780029
+"The patient went to the hospital on an empty stomach to draw blood, and took the report two days later.",S003679_P0000_T00,"(581, 581)","[81, 166]",73.16522598266602,40.05246543884277
+"I couldn't get blood at all, and I fainted as soon as I saw the blood.",S003680_P0000_T00,"(582, 582)","[145, 957]",68.70636558532715,29.418153285980225
+"I couldn't get blood at all, and I fainted as soon as I saw the blood.",S003680_P0002_T00,"(583, 583)","[776, 1043]",68.70636558532715,47.63268566131592
+"Moms were on a business trip, and we took care of my grandmother.",S003692_P0000_T00,"(584, 584)","[421, 977]",71.34059143066406,41.34723138809204
+"Moms were on a business trip, and we took care of my grandmother.",S003692_P0001_T00,"(585, 585)","[894, 178]",71.34059143066406,32.574063301086426
+The gains in the south of this business trip were a lot.,S003697_P0000_T00,"(586, 586)","[1085, 1041]",60.354719161987305,18.18844699859619
+There is no better way except to admit fate.,S003721_P0000_T00,"(587, 587)","[841, 909]",57.657033920288086,24.80344319343567
+There is no better way except to admit fate.,S003721_P0002_T00,"(588, 588)","[842, 4]",57.657033920288086,29.86855411529541
+"In summer, insect disease is most common.",S003731_P0000_T00,"(589, 589)","[1149, 985]",60.294076919555664,31.817577362060547
+"In summer, insect disease is most common.",S003731_P0001_T00,"(590, 590)","[757, 1033]",60.294076919555664,50.9041223526001
+Properly handling the opinions of the masses is conducive to social stability.,S003743_P0001_T00,"(591, 591)","[227, 1141]",60.414039611816406,33.5436315536499
+The problem of garbage treatment is about the lives of each of us.,S003747_P0000_T00,"(592, 592)","[318, 363]",69.75589561462402,50.94118595123291
+The problem of garbage treatment is about the lives of each of us.,S003747_P0001_T00,"(593, 593)","[903, 354]",69.75589561462402,40.19809627532959
+He couldn't afford the pressure and resigned.,S003753_P0001_T00,"(594, 594)","[347, 340]",72.07139587402344,53.681822776794434
+I'm considering whether to resign or continue to work.,S003758_P0000_T00,"(595, 595)","[1148, 433]",69.21019554138184,42.29125165939331
+I'm considering whether to resign or continue to work.,S003758_P0002_T00,"(596, 596)","[1147, 349]",69.21019554138184,51.236366271972656
+"I think it's time to leave, this is my resignation letter.",S003759_P0000_T00,"(597, 597)","[303, 683]",70.31649589538574,35.959588050842285
+Machine production gradually replaces bulky physical labor.,S003764_P0000_T00,"(598, 598)","[1039, 762]",59.288933753967285,46.17166090011597
+Machine production gradually replaces bulky physical labor.,S003764_P0001_T00,"(599, 599)","[700, 19]",59.288933753967285,29.801186084747314
+The homework of elementary school students cannot be replaced by parents.,S003765_P0000_T00,"(600, 600)","[778, 364]",71.83507537841797,25.029386281967163
+"Language cannot replace action, and action is the louder language.",S003776_P0001_T00,"(601, 601)","[878, 505]",87.50209617614746,49.25935173034668
+He contracted the deserted mountain from the national loan.,S003778_P0000_T00,"(602, 602)","[746, 977]",59.60291290283203,45.16663455963135
+He contracted the deserted mountain from the national loan.,S003778_P0001_T00,"(603, 603)","[283, 1004]",59.60291290283203,35.59331130981445
+The company provides interest -free loans for its staff.,S003786_P0001_T00,"(604, 604)","[976, 35]",63.25698184967041,46.51924228668213
+The teacher was worried that we would not walk safely and escorted us through the road every day.,S003792_P0000_T00,"(605, 605)","[638, 566]",71.91706657409668,34.19633674621582
+The teacher was worried that we would not walk safely and escorted us through the road every day.,S003792_P0001_T00,"(606, 606)","[137, 727]",71.91706657409668,30.372517585754395
+"When the ancients saw comets, they were worried that disaster would occur.",S003804_P0001_T00,"(607, 607)","[597, 615]",72.29384422302246,53.994670391082764
+It uses stars to navigate.,S003813_P0001_T00,"(608, 608)","[455, 808]",70.88151550292969,34.86958980560303
+It uses stars to navigate.,S003813_P0002_T00,"(609, 609)","[197, 754]",70.88151550292969,39.50916862487793
+Each meter account can only register five users at most.,S003821_P0001_T00,"(610, 610)","[857, 924]",68.81048011779785,54.835050106048584
+Registration must be filled in the registration form.,S003826_P0000_T00,"(611, 611)","[554, 33]",82.76897048950195,28.81758213043213
+Registration must be filled in the registration form.,S003826_P0001_T00,"(612, 612)","[10, 768]",82.76897048950195,33.76403045654297
+"The lives of early settlers were very difficult, and they often could not get what they could eat.",S003831_P0000_T00,"(613, 613)","[1067, 507]",66.1505126953125,50.40606689453125
+"The lives of early settlers were very difficult, and they often could not get what they could eat.",S003831_P0002_T00,"(614, 614)","[341, 731]",66.1505126953125,48.88515758514404
+What do you think is the best way to pass the traffic jam?,S003842_P0000_T00,"(615, 615)","[489, 144]",66.8967113494873,40.23666858673096
+Please keep quiet!,S003850_P0001_T00,"(616, 616)","[60, 30]",73.75623416900635,39.67810773849487
+"The road was very quiet, so that she could hear the breathing of the people around her.",S003860_P0000_T00,"(617, 617)","[787, 981]",73.94561767578125,31.773674488067627
+"The road was very quiet, so that she could hear the breathing of the people around her.",S003860_P0002_T00,"(618, 618)","[885, 848]",73.94561767578125,52.79763698577881
+"Sorry for this meal, I haven't made me full, can I give me another copy?",S003880_P0002_T00,"(619, 619)","[456, 986]",69.57197284698486,39.18294620513916
+Each age of age must be admitted to school on time and receive nine -year compulsory education.,S003886_P0000_T00,"(620, 620)","[358, 410]",78.95299530029297,42.74404239654541
+Each age of age must be admitted to school on time and receive nine -year compulsory education.,S003886_P0002_T00,"(621, 621)","[932, 607]",78.95299530029297,52.83368253707886
+The red light stops and the green light is moving. This is the rule that everyone must follow.,S003894_P0002_T00,"(622, 622)","[542, 1166]",60.24624538421631,63.25291633605957
+"Why didn't I take the exam this time? Is it not careful enough, or is it not serious enough before the exam?",S003896_P0001_T00,"(623, 623)","[696, 188]",68.95662498474121,55.03171682357788
+"Why didn't I take the exam this time? Is it not careful enough, or is it not serious enough before the exam?",S003896_P0002_T00,"(624, 624)","[63, 160]",68.95662498474121,39.4500150680542
+"Others make you angry, often because your own cultivation is not enough.",S003903_P0000_T00,"(625, 625)","[627, 127]",76.37874412536621,53.3499493598938
+"Others make you angry, often because your own cultivation is not enough.",S003903_P0002_T00,"(626, 626)","[536, 174]",76.37874412536621,43.005797386169434
+His height is almost one meter eight.,S003907_P0000_T00,"(627, 627)","[104, 95]",60.2095890045166,23.494449615478516
+His height is almost one meter eight.,S003907_P0001_T00,"(628, 628)","[343, 257]",60.2095890045166,53.98950672149658
+This building is almost a hundred meters high.,S003911_P0002_T00,"(629, 629)","[126, 497]",58.82929039001465,43.218265533447266
+"Although these two things look similar, the materials are different.",S003913_P0001_T00,"(630, 630)","[1063, 149]",81.80245971679688,40.6478796005249
+"Although these two things look similar, the materials are different.",S003913_P0002_T00,"(631, 631)","[308, 403]",81.80245971679688,30.782453536987305
+"He had an accident in the plane, and he almost died.",S003926_P0002_T00,"(632, 632)","[591, 12]",64.09939098358154,27.39468240737915
+He often recalls the past at night.,S003933_P0002_T00,"(633, 633)","[832, 425]",64.68979835510254,40.430758476257324
+"On the rest, Uncle Wang often went to my house to chat.",S003936_P0001_T00,"(634, 634)","[546, 422]",73.28392028808594,43.95954418182373
+"On the rest, Uncle Wang often went to my house to chat.",S003936_P0002_T00,"(635, 635)","[146, 453]",73.28392028808594,32.33399438858032
+"Give me the prescription list, I will help you get the medicine.",S003944_P0001_T00,"(636, 636)","[553, 493]",80.74752235412598,38.22911596298218
+Many hospitals now use electronic prescriptions.,S003947_P0000_T00,"(637, 637)","[274, 1019]",57.8259162902832,40.364441871643066
+Many hospitals now use electronic prescriptions.,S003947_P0001_T00,"(638, 638)","[1000, 236]",57.8259162902832,45.439517974853516
+"It doesn't matter if you make a mistake, just correct it in time.",S003950_P0000_T00,"(639, 639)","[99, 67]",73.15804290771484,26.563919067382812
+I hope you will not make the same mistakes in the future.,S003961_P0000_T00,"(640, 640)","[354, 782]",84.19573879241943,28.371099948883057
+I hope you will not make the same mistakes in the future.,S003961_P0002_T00,"(641, 641)","[581, 440]",84.19573879241943,42.287930488586426
+Everyone opposed this wrong point of view.,S003962_P0000_T00,"(642, 642)","[370, 320]",72.97990798950195,53.7185959815979
+"You know that the password of the passbook is not okay, you can also take the money.",S003976_P0001_T00,"(643, 643)","[1039, 907]",65.01242923736572,43.45617485046387
+"You know that the password of the passbook is not okay, you can also take the money.",S003976_P0002_T00,"(644, 644)","[333, 752]",65.01242923736572,39.076748847961426
+You have to make the worst plan.,S003985_P0000_T00,"(645, 645)","[801, 594]",63.4781551361084,39.02991199493408
+You have to make the worst plan.,S003985_P0002_T00,"(646, 646)","[440, 11]",63.4781551361084,36.8233528137207
+"Tomorrow is his birthday, what gift do you plan to give?",S003987_P0001_T00,"(647, 647)","[835, 309]",78.65601921081543,38.97051811218262
+My dad was almost admitted to college.,S003997_P0000_T00,"(648, 648)","[1077, 1140]",60.523841857910156,35.01832818984985
+My dad was almost admitted to college.,S003997_P0002_T00,"(649, 649)","[105, 1151]",60.523841857910156,61.927852630615234
+He graduated from a famous university.,S003998_P0000_T00,"(650, 650)","[398, 478]",69.04409694671631,39.46279239654541
+I saw someone rescued and then sent to the stretcher.,S004009_P0001_T00,"(651, 651)","[484, 479]",69.54861450195312,28.78926372528076
+The exercise of life makes this child mature.,S004018_P0000_T00,"(652, 652)","[527, 846]",74.54977035522461,41.394405364990234
+Adolescence is a period of maturity.,S004029_P0001_T00,"(653, 653)","[880, 1170]",68.9757308959961,29.003150463104248
+Adolescence is a period of maturity.,S004029_P0002_T00,"(654, 654)","[546, 60]",68.9757308959961,46.28927040100098
+The teacher repeatedly said.,S004032_P0001_T00,"(655, 655)","[488, 41]",68.06179809570312,38.31804656982422
+"I repeated the problem several times, and he finally understood.",S004036_P0001_T00,"(656, 656)","[865, 450]",70.35086917877197,32.66240978240967
+"I repeated the problem several times, and he finally understood.",S004036_P0002_T00,"(657, 657)","[955, 565]",70.35086917877197,48.338292598724365
+"He saw the expression I couldn't believe, and repeated it again.",S004037_P0000_T00,"(658, 658)","[357, 70]",57.221229553222656,23.581878185272217
+"He saw the expression I couldn't believe, and repeated it again.",S004037_P0002_T00,"(659, 659)","[897, 308]",57.221229553222656,43.42134761810303
+"If you want to write a good composition, it is best not to repeat words.",S004040_P0002_T00,"(660, 660)","[123, 151]",82.38383483886719,30.105515480041504
+Powerful people will find fun in repeated lives.,S004043_P0000_T00,"(661, 661)","[262, 1127]",70.53272914886475,41.79127025604248
+Powerful people will find fun in repeated lives.,S004043_P0001_T00,"(662, 662)","[681, 513]",70.53272914886475,49.00771379470825
+He pretended to be smart.,S004044_P0001_T00,"(663, 663)","[337, 864]",67.58441734313965,39.24769735336304
+"They said he was good, very smart and honest.",S004052_P0000_T00,"(664, 664)","[943, 1033]",64.6265926361084,27.310272932052612
+Many smart people fail in the stock market.,S004053_P0000_T00,"(665, 665)","[1091, 981]",76.45835876464844,43.24211120605469
+Many smart people fail in the stock market.,S004053_P0001_T00,"(666, 666)","[696, 297]",76.45835876464844,38.83680009841919
+They are probably polite to you?,S004060_P0000_T00,"(667, 667)","[344, 977]",67.89180755615234,31.872254848480225
+They are probably polite to you?,S004060_P0002_T00,"(668, 668)","[909, 524]",67.89180755615234,36.14664840698242
+I will probably come here next month.,S004062_P0001_T00,"(669, 669)","[209, 841]",72.58019256591797,29.47432279586792
+I will probably come here next month.,S004062_P0002_T00,"(670, 670)","[717, 665]",72.58019256591797,35.77181673049927
+"Although I knew he was lying to me, I forgive him.",S004079_P0002_T00,"(671, 671)","[33, 936]",70.68853378295898,40.79558992385864
+I rebuked him to lie.,S004089_P0000_T00,"(672, 672)","[194, 919]",56.24232864379883,28.16042423248291
+I must thank this kind person in person!,S004091_P0000_T00,"(673, 673)","[53, 64]",70.14762687683105,36.27480888366699
+I must thank this kind person in person!,S004091_P0002_T00,"(674, 674)","[475, 636]",70.14762687683105,38.41455411911011
+"If you have something to say in person, it is best not to talk behind.",S004097_P0000_T00,"(675, 675)","[111, 944]",52.264994621276855,36.85444164276123
+It's too unlucky to go out to forget to bring a mobile phone today.,S004098_P0000_T00,"(676, 676)","[801, 1047]",73.92934226989746,35.13401508331299
+It's too unlucky to go out to forget to bring a mobile phone today.,S004098_P0002_T00,"(677, 677)","[15, 1087]",73.92934226989746,32.06943225860596
+I'm really unlucky recently!,S004099_P0000_T00,"(678, 678)","[413, 738]",64.4819564819336,43.06687021255493
+Really unlucky! You are about to break the record.,S004103_P0001_T00,"(679, 679)","[960, 343]",59.18019962310791,49.946550369262695
+"In addition to communicating with deaf people, you can also communicate in body language.",S004133_P0001_T00,"(680, 680)","[12, 832]",83.36222171783447,41.350786209106445
+"In addition to communicating with deaf people, you can also communicate in body language.",S004133_P0002_T00,"(681, 681)","[427, 823]",83.36222171783447,40.23023319244385
+"If you don't eat, you will be hungry.",S004139_P0001_T00,"(682, 682)","[1075, 258]",70.1345624923706,45.61341714859009
+"If you don't eat, you will be hungry.",S004139_P0002_T00,"(683, 683)","[593, 78]",70.1345624923706,45.31685829162598
+You can apply for an affordable house with your conditions.,S004149_P0000_T00,"(684, 684)","[1031, 674]",77.90154933929443,45.28719139099121
+"Not only is she very greedy, she also complains that she is fat.",S004159_P0001_T00,"(685, 685)","[814, 16]",62.28021717071533,43.27006912231445
+Friends complained that her mother was very nagging.,S004161_P0000_T00,"(686, 686)","[664, 254]",74.86659336090088,38.758931159973145
+Friends complained that her mother was very nagging.,S004161_P0002_T00,"(687, 687)","[484, 539]",74.86659336090088,42.62516117095947
+I thought of the vast sea from a drop of water.,S004172_P0000_T00,"(688, 688)","[416, 580]",64.48334503173828,33.98336124420166
+I have associate a lot of future career development.,S004175_P0000_T00,"(689, 689)","[1100, 473]",76.48899364471436,48.06929111480713
+I have associate a lot of future career development.,S004175_P0002_T00,"(690, 690)","[524, 948]",76.48899364471436,33.2768030166626
+There is a computer brand called Lenovo.,S004176_P0001_T00,"(691, 691)","[481, 595]",55.13206958770752,25.85060167312622
+The cute doll makes people like.,S004178_P0001_T00,"(692, 692)","[486, 13]",83.7790937423706,29.76015043258667
+"It is a blessing to live well and live well, and you should cherish it.",S004191_P0000_T00,"(693, 693)","[1116, 439]",72.1733341217041,48.79442119598389
+"It is a blessing to live well and live well, and you should cherish it.",S004191_P0002_T00,"(694, 694)","[843, 1105]",72.1733341217041,42.5976939201355
+"Long beauty is luck, and long is not beautiful is blessing.",S004194_P0001_T00,"(695, 695)","[37, 282]",77.40911483764648,32.30669403076172
+"People who have no blessing are delicious, and those who do not have ideals sleep well.",S004197_P0000_T00,"(696, 696)","[488, 85]",76.85129165649414,24.75907802581787
+Driving is optimistic about driving ahead and driving carefully.,S004204_P0003_T00,"(697, 697)","[253, 147]",62.91039848327637,34.34704113006592
+Do you like to watch barrage?,S004216_P0000_T00,"(698, 698)","[1026, 887]",83.29148578643799,49.00920581817627
+"I am sick today, and the leader cares about me cordially and ask me if it is good.",S004228_P0000_T00,"(699, 699)","[636, 1066]",79.94076156616211,37.21010065078735
+"I am sick today, and the leader cares about me cordially and ask me if it is good.",S004228_P0007_T00,"(700, 700)","[30, 314]",79.94076156616211,49.89145565032959
+"Teacher Wang Teacher Wang carefully taught, very kind, let me always remember.",S004234_P0000_T00,"(701, 701)","[336, 733]",78.12621402740479,49.03756093978882
+"The owner is enthusiastic tonight, so that everyone has a kind of intimacy to return home.",S004235_P0003_T00,"(702, 702)","[789, 466]",65.4331865310669,46.75619697570801
+"During class, the teacher always looks at everyone with a gentle look, making us feel kind.",S004236_P0003_T00,"(703, 703)","[908, 982]",77.51532554626465,39.862454414367676
+"During class, the teacher always looks at everyone with a gentle look, making us feel kind.",S004236_P0007_T00,"(704, 704)","[647, 201]",77.51532554626465,16.247342824935913
+"His words were full of pleasure, gentleness, and kindness.",S004237_P0003_T00,"(705, 705)","[411, 575]",59.26828575134277,42.50068235397339
+"His words were full of pleasure, gentleness, and kindness.",S004237_P0007_T00,"(706, 706)","[631, 604]",59.26828575134277,50.59516000747681
+"Smile is a silent and kind language, a friend's attitude towards you.",S004238_P0003_T00,"(707, 707)","[1006, 208]",66.52258396148682,36.57089710235596
+I think this show is not suitable for me.,S004242_P0003_T00,"(708, 708)","[213, 949]",56.26195526123047,37.86562633514404
+I think this show is not suitable for me.,S004242_P0007_T00,"(709, 709)","[448, 258]",56.26195526123047,45.802767276763916
+"Where does human success come from? Knowledge or talent, or hard work.",S004263_P0000_T00,"(710, 710)","[1173, 708]",65.06542778015137,34.13101816177368
+"Where does human success come from? Knowledge or talent, or hard work.",S004263_P0003_T00,"(711, 711)","[217, 246]",65.06542778015137,24.72801923751831
+"Whether you are smart or not, don't satisfy, don't ignore your talent. With the development of talent, you will succeed.",S004264_P0003_T00,"(712, 712)","[967, 666]",67.1767578125,25.766889810562134
+"The fact is in front of you, not to deny you.",S004273_P0003_T00,"(713, 713)","[624, 352]",64.80757808685303,47.38173866271973
+"The fact is in front of you, not to deny you.",S004273_P0007_T00,"(714, 714)","[906, 35]",64.80757808685303,39.44009494781494
+"It has been proven that it is also based on it, and he is still firmly denied.",S004274_P0007_T00,"(715, 715)","[423, 73]",55.46466064453125,43.447089195251465
+"In today's China, the people are rich and strong, and even the enemy cannot deny this.",S004277_P0003_T00,"(716, 716)","[915, 838]",84.90325832366943,47.22236251831055
+The scaredness in the amusement park is full of scary ghosts everywhere.,S004284_P0003_T00,"(717, 717)","[177, 536]",47.79015922546387,51.83488130569458
+The scaredness in the amusement park is full of scary ghosts everywhere.,S004284_P0007_T00,"(718, 718)","[917, 514]",47.79015922546387,30.754629135131836
+Women are not cold when they understand.,S004305_P0000_T00,"(719, 719)","[175, 351]",52.4227819442749,36.11078643798828
+Women are not cold when they understand.,S004305_P0008_T00,"(720, 720)","[342, 194]",52.4227819442749,34.16676330566406
+"I'm hard to get along, so don't make me angry.",S004311_P0000_T00,"(721, 721)","[1137, 22]",71.66205406188965,32.51689910888672
+The relationship between friends is very convenient.,S004314_P0003_T00,"(722, 722)","[1042, 583]",72.50019073486328,53.93909502029419
+The relationship between friends is very convenient.,S004314_P0008_T00,"(723, 723)","[1090, 1151]",72.50019073486328,40.97930908203125
+Students should unite and love and live in harmony.,S004320_P0008_T00,"(724, 724)","[1092, 719]",68.34536266326904,36.05022096633911
+"The school is not a place to touch fish, and the school is a place for talents.",S004324_P0000_T00,"(725, 725)","[827, 1033]",75.58293151855469,41.746429443359375
+"The school is not a place to touch fish, and the school is a place for talents.",S004324_P0008_T00,"(726, 726)","[997, 1026]",75.58293151855469,43.10537910461426
+Who is your idol?,S004338_P0008_T00,"(727, 727)","[1141, 643]",78.9206314086914,36.20066833496094
+Guess who my idol is.,S004343_P0000_T00,"(728, 728)","[510, 1092]",60.35425853729248,53.75692796707153
+Guess who my idol is.,S004343_P0003_T00,"(729, 729)","[1046, 985]",60.35425853729248,50.83590316772461
+I admire him for this.,S004350_P0008_T00,"(730, 730)","[775, 958]",73.91466903686523,46.26875591278076
+"I can eat it does not mean that I am eating, I can only say that I can raise it.",S004366_P0003_T00,"(731, 731)","[78, 376]",68.59466743469238,48.054991722106934
+"What he did, he had this one.",S004372_P0000_T00,"(732, 732)","[36, 205]",57.06891632080078,38.49113130569458
+"What he did, he had this one.",S004372_P0003_T00,"(733, 733)","[1084, 604]",57.06891632080078,59.10662651062012
+"Too abandoning you, let's break up.",S004386_P0003_T00,"(734, 734)","[433, 516]",60.11981391906738,39.691649436950684
+"If the heart can accommodate dissatisfaction and grievances, there will be pain and harm.",S004389_P0003_T00,"(735, 735)","[903, 1175]",61.859506607055664,36.320003509521484
+"If the heart can accommodate dissatisfaction and grievances, there will be pain and harm.",S004389_P0008_T00,"(736, 736)","[1143, 888]",61.859506607055664,49.796586990356445
+"Forgotten people must forget grace, and those who remember grace must remember their revenge.",S004399_P0008_T00,"(737, 737)","[981, 973]",76.1646671295166,36.45876502990723
+Each occupation should be respected.,S004413_P0000_T00,"(738, 738)","[450, 1101]",72.6867036819458,58.31316375732422
+He respects everyone he meets.,S004414_P0000_T00,"(739, 739)","[61, 1163]",70.2718620300293,48.63068246841431
+He respects everyone he meets.,S004414_P0008_T00,"(740, 740)","[97, 1028]",70.2718620300293,41.71416234970093
+Respect objective laws.,S004419_P0003_T00,"(741, 741)","[1155, 315]",52.46054649353027,31.130842685699463
+Respect objective laws.,S004419_P0008_T00,"(742, 742)","[668, 693]",52.46054649353027,32.96598148345947
+"He cheated for the first time and was nervous, but was discovered by the teacher.",S004442_P0008_T00,"(743, 743)","[1044, 417]",74.66304397583008,40.53453254699707
+He made his efforts in this work.,S004449_P0003_T00,"(744, 744)","[972, 1140]",62.39260959625244,46.4958438873291
+Your work lacks creativity and cannot move people.,S004450_P0000_T00,"(745, 745)","[904, 615]",55.4474573135376,42.12163496017456
+Your work lacks creativity and cannot move people.,S004450_P0008_T00,"(746, 746)","[526, 671]",55.4474573135376,44.13502550125122
+"There are many works, but there are very few boutiques.",S004452_P0003_T00,"(747, 747)","[331, 827]",71.52618980407715,23.007412433624268
+He participated in the summer activities of the library.,S004459_P0003_T00,"(748, 748)","[912, 120]",86.28447151184082,36.44106101989746
+He participated in the summer activities of the library.,S004459_P0008_T00,"(749, 749)","[236, 7]",86.28447151184082,40.70788764953613
+These companies jointly became a large organization.,S004465_P0003_T00,"(750, 750)","[211, 307]",78.02862167358398,34.057762145996094
+These companies jointly became a large organization.,S004465_P0008_T00,"(751, 751)","[380, 779]",78.02862167358398,46.12695360183716
+A person's knowledge consists of many aspects.,S004478_P0008_T00,"(752, 752)","[979, 321]",79.12672424316406,43.0636625289917
+"Because of his persistence, his parents finally gave up blocking.",S004490_P0000_T00,"(753, 753)","[22, 324]",69.03533840179443,46.338483810424805
+"Because of his persistence, his parents finally gave up blocking.",S004490_P0003_T00,"(754, 754)","[611, 1126]",69.03533840179443,27.422096252441406
+"People have various ideas, don't stop him from starting a business.",S004491_P0000_T00,"(755, 755)","[474, 196]",69.31180000305176,28.800662517547607
+He summarized his previous speech.,S004504_P0000_T00,"(756, 756)","[475, 318]",71.85272598266602,33.436546325683594
+He summarized his previous speech.,S004504_P0008_T00,"(757, 757)","[266, 892]",71.85272598266602,39.2743034362793
+I rented a car when I went to Japan.,S004513_P0000_T00,"(758, 758)","[117, 693]",48.95194149017334,37.42103672027588
+It is more convenient to rent a portable wireless when traveling abroad.,S004514_P0003_T00,"(759, 759)","[365, 189]",73.79919910430908,40.14562177658081
+It is more convenient to rent a portable wireless when traveling abroad.,S004514_P0008_T00,"(760, 760)","[1080, 12]",73.79919910430908,21.605320930480957
+"This rent is high, so you can't rent it out.",S004517_P0003_T00,"(761, 761)","[784, 996]",69.75635623931885,47.29797840118408
+He has a high level of English and does not need to watch subtitles when watching movies.,S004522_P0000_T00,"(762, 762)","[928, 985]",72.45044326782227,37.776058197021484
+He has a high level of English and does not need to watch subtitles when watching movies.,S004522_P0008_T00,"(763, 763)","[229, 391]",72.45044326782227,44.94635581970215
+There are many subtitle groups that translate foreign videos on the Internet.,S004525_P0000_T00,"(764, 764)","[1172, 1065]",80.07343482971191,34.968650817871094
+His selfie is not like him.,S004549_P0000_T00,"(765, 765)","[69, 167]",65.14261245727539,40.08198547363281
+His selfie is not like him.,S004549_P0008_T00,"(766, 766)","[117, 508]",65.14261245727539,43.179569721221924
+He used a selfie to make WeChat avatars.,S004560_P0008_T00,"(767, 767)","[1052, 308]",65.11847305297852,33.78495216369629
+Teachers are proud of students like you.,S004571_P0000_T00,"(768, 768)","[869, 107]",79.3208875656128,42.44771385192871
+Teachers are proud of students like you.,S004571_P0008_T00,"(769, 769)","[23, 730]",79.3208875656128,46.820130348205566
+"Looking at the development of the motherland, I have a sense of national pride.",S004573_P0000_T00,"(770, 770)","[517, 281]",63.27335739135742,27.701425075531006
+Fans are inferior to the national football performance.,S004577_P0003_T00,"(771, 771)","[768, 659]",63.249351501464844,31.279187202453613
+Fans are inferior to the national football performance.,S004577_P0008_T00,"(772, 772)","[476, 148]",63.249351501464844,33.153215408325195
+He tried to defeat inferiority.,S004587_P0000_T00,"(773, 773)","[297, 261]",45.50783729553223,31.625203132629395
+He tried to defeat inferiority.,S004587_P0003_T00,"(774, 774)","[35, 260]",45.50783729553223,34.25704574584961
+Tell me about what preparations you have made for this interview?,S004603_P0003_T00,"(775, 775)","[126, 526]",70.93032836914062,52.00239181518555
+Tell me about what preparations you have made for this interview?,S004603_P0008_T00,"(776, 776)","[1067, 458]",70.93032836914062,28.007203102111816
+He strives to pursue the girl he likes.,S004605_P0008_T00,"(777, 777)","[78, 859]",79.63044738769531,37.62293720245361
+Your current health is very good.,S004633_P0003_T00,"(778, 778)","[382, 99]",78.96040534973145,33.739397048950195
+"All you do are small trading, and you don't make much money.",S004636_P0003_T00,"(779, 779)","[12, 617]",53.37851142883301,40.13766098022461
+"All you do are small trading, and you don't make much money.",S004636_P0008_T00,"(780, 780)","[93, 192]",53.37851142883301,30.269734859466553
+"I don't make much money, but it is enough.",S004640_P0003_T00,"(781, 781)","[333, 911]",79.86548614501953,45.839730739593506
+"I don't make much money, but it is enough.",S004640_P0008_T00,"(782, 782)","[621, 548]",79.86548614501953,42.823129653930664
+"Last month, our company made a net profit of one million.",S004643_P0000_T00,"(783, 783)","[933, 280]",70.76627922058105,54.03711128234863
+Large companies spent tens of thousands of buying a set of personnel management electronic systems.,S004652_P0000_T00,"(784, 784)","[1015, 460]",71.39336967468262,43.86418151855469
+Large companies spent tens of thousands of buying a set of personnel management electronic systems.,S004652_P0008_T00,"(785, 785)","[1158, 362]",71.39336967468262,43.699164390563965
+My biggest regret is that I did not accompany Grandpa.,S004664_P0000_T00,"(786, 786)","[777, 403]",57.03095817565918,34.413564682006836
+Mom said that life must always have a little regret to be perfect.,S004671_P0003_T00,"(787, 787)","[1162, 375]",77.17278099060059,42.492167472839355
+There is no regret medicine in the world.,S004677_P0000_T00,"(788, 788)","[712, 931]",69.55619812011719,40.48911094665527
+There is no regret medicine in the world.,S004677_P0008_T00,"(789, 789)","[255, 519]",69.55619812011719,34.64837312698364
+The long -term things that made my favorite suddenly got off the shelves. I regret why I didn't buy it yesterday?,S004681_P0003_T00,"(790, 790)","[142, 884]",65.42604351043701,37.0510950088501
+The long -term things that made my favorite suddenly got off the shelves. I regret why I didn't buy it yesterday?,S004681_P0008_T00,"(791, 791)","[1038, 1121]",65.42604351043701,45.30089998245239
+"Regret is useless, think about how to remedy?",S004686_P0008_T00,"(792, 792)","[105, 16]",75.67723274230957,34.51871728897095
+"I apologized, and I was blame.",S004692_P0003_T00,"(793, 793)","[826, 1022]",66.26610279083252,45.997955322265625
+"I apologized, and I was blame.",S004692_P0008_T00,"(794, 794)","[299, 526]",66.26610279083252,51.954556941986084
+"Active apology is not weak, but courage.",S004699_P0000_T00,"(795, 795)","[834, 306]",78.05832862854004,34.169103145599365
+"Active apology is not weak, but courage.",S004699_P0008_T00,"(796, 796)","[813, 795]",78.05832862854004,47.93010902404785
+It turns out that it is not your mistake. Why do you apologize to me?,S004701_P0003_T00,"(797, 797)","[50, 769]",69.78227806091309,20.102249145507812
+These things have its existence.,S004711_P0000_T00,"(798, 798)","[786, 12]",60.53868865966797,29.987628936767578
+These things have its existence.,S004711_P0007_T00,"(799, 799)","[376, 939]",60.53868865966797,40.079819202423096
+My mobile phone was stolen on the subway.,S004729_P0007_T00,"(800, 800)","[721, 652]",79.49586486816406,43.16722297668457
+The traditional map book has gradually been replaced by electronic maps.,S004743_P0000_T00,"(801, 801)","[122, 153]",78.07997131347656,41.77188062667847
+The traditional map book has gradually been replaced by electronic maps.,S004743_P0007_T00,"(802, 802)","[844, 811]",78.07997131347656,32.225844383239746
+Where can I buy the city map?,S004752_P0003_T00,"(803, 803)","[859, 238]",73.21243000030518,45.07588481903076
+"The cover is the skin of the book, the quality is good.",S004754_P0000_T00,"(804, 804)","[252, 12]",78.1286506652832,29.88308048248291
+"The cover is the skin of the book, the quality is good.",S004754_P0007_T00,"(805, 805)","[577, 479]",78.1286506652832,42.514150619506836
+The content of the book cover is rich.,S004755_P0007_T00,"(806, 806)","[856, 514]",63.37925434112549,47.3340539932251
+It is easy to cause a cold in winter and spring.,S004769_P0007_T00,"(807, 807)","[253, 928]",77.63116264343262,51.346559047698975
+Studying abroad is not necessarily the only choice question in life.,S004776_P0000_T00,"(808, 808)","[926, 104]",64.32326126098633,52.17356729507446
+"You are not easy to choose so many date, and choose your favorite number 7.",S004798_P0003_T00,"(809, 809)","[404, 120]",70.84991264343262,44.66609573364258
+"You are not easy to choose so many date, and choose your favorite number 7.",S004798_P0007_T00,"(810, 810)","[1062, 973]",70.84991264343262,38.72187089920044
+"This business card is not good -looking, you have to do it again.",S004804_P0007_T00,"(811, 811)","[700, 692]",76.94218826293945,48.51777267456055
+"During the conversation, the bosses on both sides swap their business cards.",S004808_P0000_T00,"(812, 812)","[565, 578]",77.13978958129883,42.99249267578125
+"During the conversation, the bosses on both sides swap their business cards.",S004808_P0007_T00,"(813, 813)","[242, 96]",77.13978958129883,30.155590057373047
+Learning is the key to opening the door of knowledge.,S004839_P0000_T00,"(814, 814)","[839, 58]",66.76950550079346,34.44480037689209
+Learning is the key to opening the door of knowledge.,S004839_P0003_T00,"(815, 815)","[137, 209]",66.76950550079346,49.479543685913086
+The factory closed down due to lack of funds.,S004849_P0000_T00,"(816, 816)","[864, 100]",70.03541469573975,30.145516395568848
+What are the distant relatives in your family?,S004858_P0000_T00,"(817, 817)","[1014, 578]",81.6520824432373,48.54328727722168
+"I have no allergies, so I do n’t know what the feeling of allergies is like?",S004878_P0007_T00,"(818, 818)","[478, 1006]",76.1081771850586,28.378419876098633
+"Animals are good friends of human beings, and we should take care of them.",S004885_P0000_T00,"(819, 819)","[899, 745]",86.36098194122314,33.163469314575195
+"Animals are good friends of human beings, and we should take care of them.",S004885_P0003_T00,"(820, 820)","[416, 427]",86.36098194122314,38.919405460357666
+"If we do not love the earth, the earth will punish us.",S004890_P0000_T00,"(821, 821)","[712, 225]",76.38738250732422,31.39771795272827
+His arrogant attitude makes it difficult to approach.,S004907_P0003_T00,"(822, 822)","[844, 1086]",60.056060791015625,30.330747604370117
+"The arrogance around you, no politeness, and friendship.",S004909_P0003_T00,"(823, 823)","[282, 429]",63.71738624572754,35.632798194885254
+"The arrogance around you, no politeness, and friendship.",S004909_P0007_T00,"(824, 824)","[1022, 815]",63.71738624572754,41.62719106674194
+The store is mainly open during the day.,S004924_P0003_T00,"(825, 825)","[973, 260]",75.46952438354492,36.14249610900879
+The store is mainly open during the day.,S004924_P0007_T00,"(826, 826)","[98, 534]",75.46952438354492,23.429720163345337
+Repeated thinking during the day.,S004936_P0007_T00,"(827, 827)","[1016, 417]",54.22457551956177,44.325674057006836
+The squad leader generally plays the positive role of the class.,S004946_P0000_T00,"(828, 828)","[42, 407]",70.94484806060791,34.67958211898804
+The squad leader generally plays the positive role of the class.,S004946_P0003_T00,"(829, 829)","[651, 10]",70.94484806060791,35.88347816467285
+"The squad leader has certain rights, but must also bear certain responsibilities.",S004952_P0003_T00,"(830, 830)","[488, 635]",78.36128616333008,43.93743085861206
+"He wants to watch a movie, I can check and download on this website.",S004959_P0007_T00,"(831, 831)","[734, 466]",77.60176277160645,52.580108642578125
+He used the software to check his train number.,S004962_P0000_T00,"(832, 832)","[322, 1158]",62.525943756103516,38.92755317687988
+He used the software to check his train number.,S004962_P0007_T00,"(833, 833)","[203, 374]",62.525943756103516,34.85786056518555
+The teacher encourages everyone to take the initiative to inquire about some information.,S004965_P0007_T00,"(834, 834)","[225, 54]",68.4095230102539,49.448808670043945
+This supermarket promises that the items of the supermarket are cheaper than other supermarkets.,S004977_P0000_T00,"(835, 835)","[341, 1155]",75.65412139892578,31.153319835662842
+There are still differences in supermarkets and convenience stores.,S004983_P0003_T00,"(836, 836)","[65, 1172]",63.92660999298096,33.85454988479614
+"We should be helping, not ridicule for the shortcomings of classmates.",S004988_P0000_T00,"(837, 837)","[4, 740]",89.88272476196289,28.67438793182373
+"We should be helping, not ridicule for the shortcomings of classmates.",S004988_P0007_T00,"(838, 838)","[809, 166]",89.88272476196289,46.29673719406128
+"We should not laugh at the shortcomings of others, but we should see the advantages of others.",S004990_P0003_T00,"(839, 839)","[420, 1159]",77.50579261779785,45.20423221588135
+"We should not laugh at the shortcomings of others, but we should see the advantages of others.",S004990_P0007_T00,"(840, 840)","[98, 189]",77.50579261779785,41.6130952835083
+"The people around him were laughing, and he cried.",S004992_P0000_T00,"(841, 841)","[1130, 1004]",78.03774070739746,30.234370231628418
+He stood up in a lapse.,S004997_P0000_T00,"(842, 842)","[230, 120]",39.49038314819336,44.861467361450195
+He stood up in a lapse.,S004997_P0007_T00,"(843, 843)","[1030, 1031]",39.49038314819336,68.06589698791504
+The teacher punished the student to clean.,S005002_P0000_T00,"(844, 844)","[516, 982]",72.7997636795044,44.42279577255249
+Everyone doesn't like to be punished.,S005004_P0000_T00,"(845, 845)","[1008, 13]",78.85593032836914,30.787940979003906
+His punishment is too heavy for women.,S005008_P0006_T00,"(846, 846)","[1092, 1080]",56.10796642303467,53.9982852935791
+"During the war, the person who shaken the army must be punished.",S005011_P0000_T00,"(847, 847)","[1119, 647]",65.22645282745361,27.362855911254883
+"During the war, the person who shaken the army must be punished.",S005011_P0003_T00,"(848, 848)","[473, 1152]",65.22645282745361,40.79682159423828
+There must be punishment and rewards.,S005015_P0006_T00,"(849, 849)","[1049, 198]",67.89622020721436,38.85508489608765
+This school is famous for punishing students.,S005017_P0003_T00,"(850, 850)","[515, 255]",65.73898124694824,34.519601821899414
+This school is famous for punishing students.,S005017_P0006_T00,"(851, 851)","[460, 206]",65.73898124694824,42.3910436630249
+The desserts made by this chef are all popular.,S005022_P0000_T00,"(852, 852)","[985, 1057]",60.968631744384766,36.97855997085571
+The desserts made by this chef are all popular.,S005022_P0006_T00,"(853, 853)","[827, 576]",60.968631744384766,39.7891149520874
+Chef's salary has gradually increased with the development of the catering industry.,S005024_P0003_T00,"(854, 854)","[1154, 458]",63.16548442840576,31.35837459564209
+The film reflects the process of cooking food for chefs.,S005025_P0003_T00,"(855, 855)","[429, 605]",62.328556060791016,43.56386756896973
+The film reflects the process of cooking food for chefs.,S005025_P0006_T00,"(856, 856)","[663, 788]",62.328556060791016,28.53782606124878
+Stimulate the brain through this method.,S005034_P0000_T00,"(857, 857)","[220, 956]",76.26559066772461,42.58892202377319
+"Facing the stimulus of the outside world, the spirit will respond.",S005040_P0003_T00,"(858, 858)","[882, 796]",53.451951026916504,31.353591442108154
+"Facing the stimulus of the outside world, the spirit will respond.",S005040_P0006_T00,"(859, 859)","[132, 34]",53.451951026916504,40.84419250488281
+"He is a smart, lively, and cute rural child.",S005053_P0006_T00,"(860, 860)","[287, 999]",77.382004737854,43.83338642120361
+They always thought they felt the answer to all questions.,S005064_P0006_T00,"(861, 861)","[122, 670]",77.55064678192139,44.460877418518066
+He was anxious to know the answer.,S005065_P0003_T00,"(862, 862)","[651, 1088]",80.86422061920166,48.60740089416504
+The answer to plagiarism is illegal.,S005069_P0003_T00,"(863, 863)","[231, 390]",53.44013166427612,38.45001220703125
+The answer to plagiarism is illegal.,S005069_P0006_T00,"(864, 864)","[733, 1064]",53.44013166427612,45.35999011993408
+The cover of this book was destroyed.,S005075_P0006_T00,"(865, 865)","[630, 435]",74.26359558105469,48.24775314331055
+Mobile phones can study the software of the cover.,S005080_P0000_T00,"(866, 866)","[1077, 37]",73.75565338134766,40.607351303100586
+Mobile phones can study the software of the cover.,S005080_P0003_T00,"(867, 867)","[862, 784]",73.75565338134766,30.974854469299316
+"Want to be healthy, don't smoke.",S005096_P0006_T00,"(868, 868)","[922, 36]",87.2698278427124,23.66322350502014
+"If you do not lose weight in winter, it will be fat in summer.",S005110_P0000_T00,"(869, 869)","[1007, 755]",88.60100650787354,46.12806510925293
+"If you do not lose weight in winter, it will be fat in summer.",S005110_P0003_T00,"(870, 870)","[1123, 940]",88.60100650787354,35.056817054748535
+"In a bad mood, there is no hot pot that cannot be solved. If it is still not good, then another hot pot.",S005112_P0000_T00,"(871, 871)","[361, 525]",77.25025939941406,41.35717487335205
+"In a bad mood, there is no hot pot that cannot be solved. If it is still not good, then another hot pot.",S005112_P0006_T00,"(872, 872)","[4, 183]",77.25025939941406,48.23996925354004
+Finding a girlfriend is my biggest goal now.,S005113_P0003_T00,"(873, 873)","[667, 1024]",80.46329689025879,30.359009265899658
+Finding a girlfriend is my biggest goal now.,S005113_P0009_T00,"(874, 874)","[643, 484]",80.46329689025879,68.85351848602295
+Talking about friends spending time and spending money may not have results.,S005114_P0003_T00,"(875, 875)","[1163, 1074]",53.53998374938965,37.28121376037598
+Talking about friends spending time and spending money may not have results.,S005114_P0006_T00,"(876, 876)","[269, 348]",53.53998374938965,39.78004264831543
+Drug treatment can relieve cold symptoms.,S005118_P0000_T00,"(877, 877)","[139, 317]",48.462998390197754,41.14431285858154
+Drug treatment can relieve cold symptoms.,S005118_P0003_T00,"(878, 878)","[1111, 1137]",48.462998390197754,41.67895460128784
+Cold fever refers to the fever caused by a cold.,S005120_P0003_T00,"(879, 879)","[883, 124]",77.01243019104004,39.61400747299194
+Cold fever refers to the fever caused by a cold.,S005120_P0006_T00,"(880, 880)","[1011, 571]",77.01243019104004,52.34791374206543
+I felt strange abroad for the first time.,S005131_P0003_T00,"(881, 881)","[239, 8]",79.000412940979,39.40446329116821
+I felt strange abroad for the first time.,S005131_P0009_T00,"(882, 882)","[741, 93]",79.000412940979,25.11364221572876
+The expression of children is their most real feeling.,S005145_P0003_T00,"(883, 883)","[1119, 713]",78.43038654327393,35.93850612640381
+The expression of children is their most real feeling.,S005145_P0006_T00,"(884, 884)","[1046, 588]",78.43038654327393,54.861355781555176
+Appropriate wages can attract workers and give workers to encourage them.,S005162_P0000_T00,"(885, 885)","[873, 1078]",71.65337562561035,35.68305969238281
+Appropriate wages can attract workers and give workers to encourage them.,S005162_P0006_T00,"(886, 886)","[974, 53]",71.65337562561035,40.42329502105713
+We have various coping methods for this failure.,S005184_P0003_T00,"(887, 887)","[44, 751]",76.53750610351562,35.85819721221924
+We have various coping methods for this failure.,S005184_P0006_T00,"(888, 888)","[31, 776]",76.53750610351562,33.98856496810913
+"Master Wang's technology is very high, and everything can be repaired.",S005186_P0000_T00,"(889, 889)","[877, 728]",71.58141136169434,31.2029972076416
+"Master Wang's technology is very high, and everything can be repaired.",S005186_P0003_T00,"(890, 890)","[1072, 297]",71.58141136169434,31.191207885742188
+The finger joints of the human body are generally fragile.,S005197_P0006_T00,"(891, 891)","[932, 978]",70.20023155212402,21.10331678390503
+The finger joints of the human body are generally fragile.,S005197_P0009_T00,"(892, 892)","[375, 664]",70.20023155212402,42.575233459472656
+Most of the current commercial advertisements are required to pay customers online.,S005211_P0003_T00,"(893, 893)","[776, 714]",70.67569637298584,55.14545440673828
+Most of the current commercial advertisements are required to pay customers online.,S005211_P0009_T00,"(894, 894)","[659, 848]",70.67569637298584,33.45944404602051
+Advertising must be propagated internally.,S005213_P0000_T00,"(895, 895)","[605, 978]",75.68738651275635,37.263930320739746
+Advertising must be propagated internally.,S005213_P0003_T00,"(896, 896)","[224, 432]",75.68738651275635,37.54602289199829
+"There are many commonly used nuclear magnetic resonance methods, such as electrical magnetic resonance.",S005226_P0003_T00,"(897, 897)","[134, 836]",70.48640632629395,35.75682306289673
+"There are many commonly used nuclear magnetic resonance methods, such as electrical magnetic resonance.",S005226_P0009_T00,"(898, 898)","[15, 959]",70.48640632629395,42.31340503692627
+The center uses advanced MRI to check what is in the food.,S005231_P0000_T00,"(899, 899)","[533, 744]",67.29473781585693,33.618032455444336
+The center uses advanced MRI to check what is in the food.,S005231_P0006_T00,"(900, 900)","[422, 124]",67.29473781585693,41.75277805328369
+"In the traditional sense, red envelopes are also called New Year's money.",S005233_P0000_T00,"(901, 901)","[1041, 749]",73.82091522216797,30.65538787841797
+"In the traditional sense, red envelopes are also called New Year's money.",S005233_P0009_T00,"(902, 902)","[412, 254]",73.82091522216797,51.72104358673096
+There are a variety of red envelopes on the Internet.,S005248_P0003_T00,"(903, 903)","[623, 584]",71.25685119628906,40.0915150642395
+There are a variety of red envelopes on the Internet.,S005248_P0009_T00,"(904, 904)","[1101, 804]",71.25685119628906,44.47214603424072
+We need to understand technology and managed cadres.,S005274_P0000_T00,"(905, 905)","[99, 1031]",72.42404747009277,30.871834754943848
+We need to understand technology and managed cadres.,S005274_P0003_T00,"(906, 906)","[405, 1061]",72.42404747009277,39.267066955566406
+"Due to the use of new technologies, it greatly reduces money expenses.",S005276_P0000_T00,"(907, 907)","[541, 62]",60.86581230163574,48.93091297149658
+"Due to the use of new technologies, it greatly reduces money expenses.",S005276_P0009_T00,"(908, 908)","[863, 529]",60.86581230163574,37.07975387573242
+We must strive to develop science and technology and shorten the gap with developed countries.,S005281_P0003_T00,"(909, 909)","[61, 34]",80.20544719696045,45.322439193725586
+We must strive to develop science and technology and shorten the gap with developed countries.,S005281_P0006_T00,"(910, 910)","[1116, 506]",80.20544719696045,56.69649791717529
+"Every festival, family members come to troops to visit relatives.",S005288_P0006_T00,"(911, 911)","[689, 936]",67.06973266601562,27.858938694000244
+"Every festival, family members come to troops to visit relatives.",S005288_P0009_T00,"(912, 912)","[242, 171]",67.06973266601562,34.934818267822266
+My brother resigned himself and opened a company that belonged to him.,S005294_P0003_T00,"(913, 913)","[492, 934]",77.3167495727539,35.487060546875
+My brother resigned himself and opened a company that belonged to him.,S005294_P0009_T00,"(914, 914)","[121, 767]",77.3167495727539,45.50599813461304
+The families of those who were killed were sad.,S005295_P0000_T00,"(915, 915)","[1087, 791]",54.25455284118652,44.88608407974243
+The families of those who were killed were sad.,S005295_P0006_T00,"(916, 916)","[572, 1100]",54.25455284118652,44.722412109375
+Part -time workman work is a bit difficult for me.,S005306_P0009_T00,"(917, 917)","[964, 610]",75.4188756942749,48.61384963989258
+There are many part -time websites on the website.,S005319_P0009_T00,"(918, 918)","[145, 459]",65.70108318328857,39.86174011230469
+We should ensure that the calculation results are accurate.,S005323_P0000_T00,"(919, 919)","[342, 1042]",60.885398864746094,48.471736907958984
+We should ensure that the calculation results are accurate.,S005323_P0006_T00,"(920, 920)","[827, 473]",60.885398864746094,36.73406171798706
+He made an excuse for the incident.,S005344_P0000_T00,"(921, 921)","[344, 314]",67.57959079742432,43.825472354888916
+I will not be perfunctory by that excuse.,S005346_P0006_T00,"(922, 922)","[852, 178]",64.02637195587158,22.139209985733032
+I will not be perfunctory by that excuse.,S005346_P0009_T00,"(923, 923)","[622, 1146]",64.02637195587158,55.02169322967529
+I want to make excuses.,S005347_P0000_T00,"(924, 924)","[945, 11]",68.81125450134277,29.821897506713867
+I want to make excuses.,S005347_P0009_T00,"(925, 925)","[49, 85]",68.81125450134277,40.917027950286865
+Li Qiang's successful learning experience is worthy of our reference.,S005354_P0006_T00,"(926, 926)","[757, 829]",74.08648872375488,46.846699714660645
+"Simply copying the experience of others, will not help themselves.",S005357_P0006_T00,"(927, 927)","[565, 960]",81.04151439666748,40.425397872924805
+"Simply copying the experience of others, will not help themselves.",S005357_P0009_T00,"(928, 928)","[390, 716]",81.04151439666748,47.50583362579346
+"""When did you report the grievances?"" This is the experience and lesson left by the ancients to us.",S005360_P0009_T00,"(929, 929)","[986, 1087]",69.86981678009033,31.539296627044678
+The teacher organized a class to let the students exchange their learning experience.,S005365_P0000_T00,"(930, 930)","[850, 327]",85.53986835479736,43.64145278930664
+The teacher organized a class to let the students exchange their learning experience.,S005365_P0009_T00,"(931, 931)","[1135, 612]",85.53986835479736,18.84273600578308
+"We must be difficult to look at, but we must never despise them.",S005368_P0000_T00,"(932, 932)","[1094, 221]",77.27877807617188,36.53258180618286
+Your decision shows that your analysis is correct.,S005380_P0006_T00,"(933, 933)","[1013, 292]",62.87760066986084,43.38722801208496
+Your decision shows that your analysis is correct.,S005380_P0009_T00,"(934, 934)","[559, 275]",62.87760066986084,47.77505874633789
+"In childhood, he learned how to ignore difficulties.",S005394_P0000_T00,"(935, 935)","[150, 593]",70.93947410583496,38.758206844329834
+The work of the courier is very hard.,S005405_P0000_T00,"(936, 936)","[853, 919]",73.75034618377686,46.773033142089844
+The work of the courier is very hard.,S005405_P0006_T00,"(937, 937)","[320, 30]",73.75034618377686,38.48334741592407
+There are differences between express delivery and express delivery.,S005406_P0000_T00,"(938, 938)","[449, 1051]",79.60410499572754,27.415183544158936
+"At the party, we couldn't help laughing when we saw Xiao Wang imitating the celebrities.",S005418_P0000_T00,"(939, 939)","[88, 1124]",66.3980484008789,43.12757921218872
+"At the party, we couldn't help laughing when we saw Xiao Wang imitating the celebrities.",S005418_P0009_T00,"(940, 940)","[544, 369]",66.3980484008789,33.22555685043335
+There are various things in the doctor's first aid box.,S005419_P0006_T00,"(941, 941)","[807, 842]",54.041250228881836,22.194551706314087
+"At present, the contraceptive rate of Chinese women is one percent.",S005470_P0000_T00,"(942, 942)","[514, 1129]",76.13905906677246,53.83799457550049
+"At present, the contraceptive rate of Chinese women is one percent.",S005470_P0009_T00,"(943, 943)","[767, 1150]",76.13905906677246,36.77992391586304
+"Spring began, and farmers rushed to work.",S005496_P0006_T00,"(944, 944)","[658, 1156]",91.74885559082031,45.90114402770996
+"Spring began, and farmers rushed to work.",S005496_P0009_T00,"(945, 945)","[833, 1018]",91.74885559082031,36.51695728302002
+Powerful leaders should not be arrogant.,S005502_P0006_T00,"(946, 946)","[1131, 403]",64.22515487670898,38.717281341552734
+Powerful leaders should not be arrogant.,S005502_P0009_T00,"(947, 947)","[708, 31]",64.22515487670898,30.156187534332275
+Soak your feet in winter.,S005504_P0009_T00,"(948, 948)","[853, 663]",70.0282850265503,36.28226566314697
+I love the Communist Party of China.,S005530_P0000_T00,"(949, 949)","[782, 790]",85.48962020874023,44.23146295547485
+I love the Communist Party of China.,S005530_P0006_T00,"(950, 950)","[619, 689]",85.48962020874023,41.41741323471069
+I am the Kuomintang.,S005532_P0000_T00,"(951, 951)","[1053, 758]",70.09096336364746,34.84951591491699
+I am the Kuomintang.,S005532_P0009_T00,"(952, 952)","[931, 585]",70.09096336364746,41.50016212463379
+"Looking at your disappointment, isn't it the failure of the college entrance examination?",S005540_P0006_T00,"(953, 953)","[1174, 159]",64.99620056152344,47.27974033355713
+"My credit card has expired, can I re -apply it to me?",S005545_P0006_T00,"(954, 954)","[681, 1166]",62.806884765625,27.957008361816406
+"My credit card has expired, can I re -apply it to me?",S005545_P0009_T00,"(955, 955)","[538, 249]",62.806884765625,34.7519268989563
+"According to statistics, there are about 13 million people in my country a year of abortion each year.",S005546_P0000_T00,"(956, 956)","[398, 1169]",74.47944831848145,40.07490587234497
+A contract with a amount of 75 million yuan has been bid by an American company.,S005552_P0000_T00,"(957, 957)","[107, 634]",62.644057273864746,53.38257694244385
+A contract with a amount of 75 million yuan has been bid by an American company.,S005552_P0009_T00,"(958, 958)","[187, 48]",62.644057273864746,33.98658561706543
+"You can't see it, what to avoid obstacles?",S005572_P0009_T00,"(959, 959)","[1081, 787]",61.69569110870361,39.535314083099365
+It is dangerous not to wear condoms when having sex.,S005583_P0006_T00,"(960, 960)","[900, 758]",73.68637943267822,37.70916414260864
+It is dangerous not to wear condoms when having sex.,S005583_P0009_T00,"(961, 961)","[80, 113]",73.68637943267822,43.60380172729492
+"I know he has a girlfriend, I don't, jealous of him to say bad things about him.",S005594_P0000_T00,"(962, 962)","[38, 653]",79.1575927734375,38.14680099487305
+Doctors will check you diagnosis of appendicitis.,S005607_P0006_T00,"(963, 963)","[1028, 997]",67.57982444763184,32.36605453491211
+Doctors will check you diagnosis of appendicitis.,S005607_P0009_T00,"(964, 964)","[595, 17]",67.57982444763184,35.52625370025635
+We cannot be selfish.,S005613_P0000_T00,"(965, 965)","[705, 410]",76.92989158630371,32.40815830230713
+We cannot be selfish.,S005613_P0006_T00,"(966, 966)","[782, 492]",76.92989158630371,29.987064838409424
+"Because of something at home, Miss Li politely rejected Miss Wang's invitation.",S005630_P0009_T00,"(967, 967)","[592, 320]",64.52695083618164,49.67647743225098
+"The enemy is unwilling to fail, don't want to come again.",S005648_P0000_T00,"(968, 968)","[1049, 1108]",61.098087310791016,33.48003530502319
+"The enemy is unwilling to fail, don't want to come again.",S005648_P0006_T00,"(969, 969)","[1053, 324]",61.098087310791016,32.463703632354736
+There is a problem with the overall and local situation of this problem.,S005664_P0009_T00,"(970, 970)","[134, 14]",80.166748046875,37.280686378479004
+Visa is not casually done.,S005670_P0000_T00,"(971, 971)","[951, 958]",65.6264419555664,29.205201148986816
+Visa is not casually done.,S005670_P0009_T00,"(972, 972)","[539, 672]",65.6264419555664,36.710843563079834
+We call the kind of disgusting food as dark dishes.,S005680_P0009_T00,"(973, 973)","[538, 937]",55.630568981170654,41.42313766479492
+"Packaging and postage, the price is five yuan.",S005694_P0009_T00,"(974, 974)","[1152, 432]",62.76703071594238,34.720614433288574
+"The truth can often fill the lack of knowledge, but knowledge can never fill the flaws of the truth.",S005731_P0006_T00,"(975, 975)","[465, 81]",78.5471248626709,42.083680152893066
+"The truth can often fill the lack of knowledge, but knowledge can never fill the flaws of the truth.",S005731_P0009_T00,"(976, 976)","[794, 284]",78.5471248626709,33.13999080657959
+The mascot logo of the Beijing Games was Fuwa.,S005762_P0006_T00,"(977, 977)","[924, 1064]",61.833364486694336,44.50328493118286
+She loves to protect her home.,S005764_P0006_T00,"(978, 978)","[133, 1044]",57.60232639312744,36.39794921875
+"You install the schoolbag in advance, so as not to complete it.",S005797_P0000_T00,"(979, 979)","[489, 152]",58.47091770172119,36.711915016174316
+"You install the schoolbag in advance, so as not to complete it.",S005797_P0009_T00,"(980, 980)","[508, 1156]",58.47091770172119,42.73758029937744
+"After a program is compiled, it must be repeatedly debugged.",S005808_P0000_T00,"(981, 981)","[401, 104]",74.55283451080322,28.439292430877686
+The Yangtze River Bridge communicated with the north and south of the river.,S005842_P0000_T00,"(982, 982)","[708, 1174]",79.36408615112305,26.323172569274902
+The Yangtze River Bridge communicated with the north and south of the river.,S005842_P0009_T00,"(983, 983)","[282, 784]",79.36408615112305,36.54001522064209
+He was very angry and denied the basis of saying this and where to pursue.,S005861_P0009_T00,"(984, 984)","[967, 321]",65.66721725463867,45.446030139923096
+The farmers loved the dog and were bitten by the dog.,S005874_P0006_T00,"(985, 985)","[663, 1077]",59.726667404174805,40.972312927246094
+What Geely is suitable for wedding banquets recently?,S005880_P0000_T00,"(986, 986)","[789, 136]",69.82675170898438,36.32358503341675
+What Geely is suitable for wedding banquets recently?,S005880_P0006_T00,"(987, 987)","[560, 747]",69.82675170898438,46.194047927856445
+Mom applied for this supermarket member card.,S005881_P0000_T00,"(988, 988)","[618, 669]",72.20822143554688,51.21213340759277
+There are multimedia systems in the conference room.,S005892_P0000_T00,"(989, 989)","[579, 119]",84.35967445373535,32.73549556732178
+There are multimedia systems in the conference room.,S005892_P0006_T00,"(990, 990)","[621, 73]",84.35967445373535,48.782798767089844
+We have to study the results after studying the disease.,S005893_P0000_T00,"(991, 991)","[392, 503]",59.88782596588135,41.61562538146973
+We have to study the results after studying the disease.,S005893_P0006_T00,"(992, 992)","[116, 683]",59.88782596588135,49.683340072631836
+"He thought he could reach the finals, but he failed from the beginning.",S005894_P0006_T00,"(993, 993)","[251, 862]",74.99550819396973,35.92452049255371
+"Last year, there were a lot of people who died of AIDS.",S005913_P0000_T00,"(994, 994)","[459, 872]",81.06647491455078,51.86729192733765
+"Last year, there were a lot of people who died of AIDS.",S005913_P0006_T00,"(995, 995)","[937, 907]",81.06647491455078,34.965386390686035
+"Everyone has its own characteristics, why not imitate it?",S005931_P0000_T00,"(996, 996)","[782, 933]",57.067861557006836,43.60159206390381
+"Everyone has its own characteristics, why not imitate it?",S005931_P0006_T00,"(997, 997)","[999, 898]",57.067861557006836,40.07877779006958
+It is a good habit of lining up in order.,S005933_P0000_T00,"(998, 998)","[1084, 673]",68.40828132629395,42.52161741256714
+It is a good habit of lining up in order.,S005933_P0009_T00,"(999, 999)","[238, 96]",68.40828132629395,28.432900428771973
+"The cheating person was arrested on the spot. He didn't feel bad, and he emphasized various reasons there.",S005936_P0000_T00,"(1000, 1000)","[1075, 261]",74.36409187316895,41.87029409408569
+This kind of thing only happens on specific occasions.,S005941_P0006_T00,"(1001, 1001)","[534, 409]",65.78575134277344,38.301881313323975
+This kind of thing only happens on specific occasions.,S005941_P0009_T00,"(1002, 1002)","[699, 408]",65.78575134277344,38.85729122161865
+"Because it is you, I am embarrassed to turn my face.",S005949_P0000_T00,"(1003, 1003)","[548, 7]",71.3178539276123,33.396912574768066
+"Because it is you, I am embarrassed to turn my face.",S005949_P0006_T00,"(1004, 1004)","[516, 742]",71.3178539276123,19.586931943893433
+"Although I was shy, I told him this sentence.",S005956_P0000_T00,"(1005, 1005)","[209, 577]",71.54798603057861,40.968661308288574
+"Although I was shy, I told him this sentence.",S005956_P0009_T00,"(1006, 1006)","[92, 1033]",71.54798603057861,44.71671772003174
+People like you are also shy!,S005957_P0000_T00,"(1007, 1007)","[648, 862]",60.29651355743408,41.900625228881836
+"This is delicious, but if you drink too much, you will get fat.",S005971_P0000_T00,"(1008, 1008)","[15, 50]",58.10789203643799,26.0852632522583
+"This is delicious, but if you drink too much, you will get fat.",S005971_P0006_T00,"(1009, 1009)","[56, 376]",58.10789203643799,43.994418144226074
+Some people always borrow wine when they are unlucky.,S005972_P0006_T00,"(1010, 1010)","[1125, 762]",69.75727081298828,54.59956741333008
+Some people always borrow wine when they are unlucky.,S005972_P0009_T00,"(1011, 1011)","[664, 453]",69.75727081298828,31.065377235412598
+"When he travels, he will send a selfie every place.",S005981_P0009_T00,"(1012, 1012)","[225, 505]",76.61943054199219,44.89680528640747
+"If you suspect that you are appendicitis, don't take medicine for your child, it will hurt.",S005996_P0000_T00,"(1013, 1013)","[1052, 975]",78.58601760864258,36.985018730163574
+"If you suspect that you are appendicitis, don't take medicine for your child, it will hurt.",S005996_P0006_T00,"(1014, 1014)","[285, 498]",78.58601760864258,40.171884059906006
+"Under the spring breeze of the Communist Party's reform and opening up, Vientiane is updated and the situation is good.",S006013_P0009_T00,"(1015, 1015)","[610, 613]",81.01185417175293,36.027740478515625
+"In the final analysis, verifying customer satisfaction and maintaining information with customers.",S006015_P0000_T00,"(1016, 1016)","[603, 440]",54.80715560913086,32.1370906829834
+You introduced the cooperation between me and his two universities this time.,S006017_P0000_T00,"(1017, 1017)","[87, 615]",69.97629451751709,32.92491912841797
+You introduced the cooperation between me and his two universities this time.,S006017_P0009_T00,"(1018, 1018)","[701, 652]",69.97629451751709,38.40796184539795
+The square QR code contains a lot of information.,S006035_P0000_T00,"(1019, 1019)","[11, 431]",70.50810241699219,35.427059173583984
+The square QR code contains a lot of information.,S006035_P0009_T00,"(1020, 1020)","[773, 885]",70.50810241699219,48.33343267440796
+This typhoon brought severe loss of property.,S006043_P0000_T00,"(1021, 1021)","[646, 237]",52.503644943237305,43.74953269958496
+The salesperson introduced the goods to the customer enthusiastically.,S006051_P0006_T00,"(1022, 1022)","[191, 1172]",71.35148620605469,18.75840997695923
+The salesperson introduced the goods to the customer enthusiastically.,S006051_P0009_T00,"(1023, 1023)","[319, 561]",71.35148620605469,54.15858602523804
+I don't understand this article several times.,S006071_P0009_T00,"(1024, 1024)","[128, 369]",66.8215160369873,41.75777816772461
+"After leaving the seat for more than an hour, someone will come over to collect your books.",S006072_P0000_T00,"(1025, 1025)","[319, 27]",65.79724025726318,31.941532135009766
+The positioning navigation system has brought convenience to our lives.,S006078_P0006_T00,"(1026, 1026)","[349, 456]",72.45893478393555,56.801780700683594
+The positioning navigation system has brought convenience to our lives.,S006078_P0009_T00,"(1027, 1027)","[545, 736]",72.45893478393555,52.67219352722168
+Bicycles can approach the road without being affected by traffic jams.,S006081_P0006_T00,"(1028, 1028)","[1084, 140]",66.36372184753418,34.047608375549316
+Bicycles can approach the road without being affected by traffic jams.,S006081_P0009_T00,"(1029, 1029)","[731, 646]",66.36372184753418,43.23489475250244
+He has thoughts and often communicates with people.,S006086_P0006_T00,"(1030, 1030)","[58, 609]",68.06589698791504,42.837822914123535
+He has thoughts and often communicates with people.,S006086_P0009_T00,"(1031, 1031)","[204, 774]",68.06589698791504,47.1810998916626
+I have 500 yuan in the passbook.,S006089_P0000_T00,"(1032, 1032)","[1040, 223]",58.84227466583252,32.5585355758667
+Excellent entrepreneurs continue to learn their successful experience from the strong.,S006115_P0000_T00,"(1033, 1033)","[257, 1030]",76.8263111114502,36.18002700805664
+Excellent entrepreneurs continue to learn their successful experience from the strong.,S006115_P0006_T00,"(1034, 1034)","[974, 1045]",76.8263111114502,48.69137477874756
+You have the mind of doing business.,S006127_P0006_T00,"(1035, 1035)","[793, 430]",77.54013252258301,31.763964653015137
+Sexual communication has become the main way to spread AIDS.,S006144_P0009_T00,"(1036, 1036)","[165, 838]",75.24692916870117,37.72705841064453
+There is a supermarket in front of the street.,S006160_P0000_T00,"(1037, 1037)","[1016, 316]",65.73070335388184,48.933756828308105
+There is a supermarket in front of the street.,S006160_P0009_T00,"(1038, 1038)","[257, 827]",65.73070335388184,33.2289981842041
+Love beating in every pulse.,S006180_P0009_T00,"(1039, 1039)","[419, 1064]",65.52498435974121,40.44445037841797
+My laptop is gone!,S006206_P0000_T00,"(1040, 1040)","[1151, 353]",83.94818305969238,40.48415756225586
+My laptop is gone!,S006206_P0006_T00,"(1041, 1041)","[979, 302]",83.94818305969238,51.137078285217285
+"The word itself does not have a fixed meaning, and it is used by people to express themselves.",S006241_P0006_T00,"(1042, 1042)","[342, 280]",71.80543518066406,30.678399085998535
+"The loan card loss will take effect the next day, that is, the next day will not deduct money.",S006244_P0000_T00,"(1043, 1043)","[1037, 631]",76.2411241531372,54.59893989562988
+"The loan card loss will take effect the next day, that is, the next day will not deduct money.",S006244_P0006_T00,"(1044, 1044)","[392, 649]",76.2411241531372,27.945601224899292
+"Because he was afraid of others, he kept his mind all day and couldn't eat.",S006258_P0009_T00,"(1045, 1045)","[85, 1122]",66.8561897277832,42.69176149368286
+"Maybe you feel that you have not succeeded, but don't doubt that you go further every day.",S006268_P0006_T00,"(1046, 1046)","[48, 908]",72.66067504882812,40.82662868499756
+"Maybe you feel that you have not succeeded, but don't doubt that you go further every day.",S006268_P0009_T00,"(1047, 1047)","[402, 609]",72.66067504882812,43.60099124908447
+It is a surprising opportunity to go to the bank. Can I refuse?,S006300_P0006_T00,"(1048, 1048)","[1007, 57]",54.947142124176025,54.712453842163086
+"After all the students were seated, the Gala party officially started.",S006312_P0000_T00,"(1049, 1049)","[719, 960]",72.27748203277588,45.38188314437866
+"After all the students were seated, the Gala party officially started.",S006312_P0009_T00,"(1050, 1050)","[906, 409]",72.27748203277588,52.43486166000366
+It ’s a pity that others have good taste and strong ability. It’ s a pity.,S006344_P0009_T00,"(1051, 1051)","[40, 433]",58.56084632873535,39.37203931808472
+"Facing the knife gangster, Uncle Wang was not afraid of the slightest.",S006352_P0000_T00,"(1052, 1052)","[149, 396]",57.71013259887695,41.72258377075195
+The actress of this movie is very beautiful.,S006416_P0009_T00,"(1053, 1053)","[170, 3]",80.19270324707031,43.04705333709717
+There are fewer and fewer people who are still using text messages.,S006423_P0000_T00,"(1054, 1054)","[516, 75]",58.84804916381836,44.79518413543701
+She lied that she had already had the object of communication.,S006430_P0000_T00,"(1055, 1055)","[184, 1146]",62.115427017211914,52.80421590805054
+"For us, every minute is precious.",S006452_P0000_T00,"(1056, 1056)","[171, 898]",82.51335716247559,31.217610359191895
+"You calm down, I will help you.",S006453_P0009_T00,"(1057, 1057)","[880, 31]",79.51677322387695,42.54180145263672
+"Before putting your clothes into the washing machine, check whether there are napkins and other items in your mouth.",S006477_P0000_T00,"(1058, 1058)","[712, 654]",76.02515125274658,35.90531778335571
+There are many different companies takeaway.,S006480_P0009_T00,"(1059, 1059)","[120, 1084]",67.94831085205078,27.359437942504883
+Flying people can't surpass.,S006484_P0009_T00,"(1060, 1060)","[679, 784]",66.54401969909668,32.077229499816895
+The school's annual singing competition is about to begin.,S006490_P0000_T00,"(1061, 1061)","[593, 105]",70.82199478149414,53.67929267883301
+Today you copy three tablet paper.,S006493_P0009_T00,"(1062, 1062)","[1139, 732]",69.40364456176758,35.26513957977295
+The glass production bowl is old.,S006499_P0009_T00,"(1063, 1063)","[508, 763]",49.90776777267456,39.723289012908936
+The minimum of two dollars of the lottery ticket.,S006505_P0009_T00,"(1064, 1064)","[909, 257]",68.80689525604248,55.063072681427
+"With his strength, it is easy to win the championship.",S006532_P0009_T00,"(1065, 1065)","[889, 592]",61.94117736816406,46.74086618423462
+"The more contact, the more I feel the good personality of others.",S006537_P0009_T00,"(1066, 1066)","[533, 1108]",67.95359802246094,36.68882703781128
+Shanghai can be said to be China's financial center.,S006540_P0009_T00,"(1067, 1067)","[650, 80]",69.53202533721924,24.89582347869873
+I have always felt mysterious people who are doing finance.,S006542_P0000_T00,"(1068, 1068)","[735, 792]",66.97515773773193,56.95353317260742
+We found a dirty river here.,S006564_P0009_T00,"(1069, 1069)","[709, 791]",54.24467945098877,45.3002290725708
+"The more I learn, the more I find my cleverness.",S006565_P0009_T00,"(1070, 1070)","[474, 606]",65.01825714111328,28.925822257995605
+The old people believe in superstition.,S006575_P0000_T00,"(1071, 1071)","[55, 203]",44.95624256134033,22.52778196334839
+Insert the power supply.,S006584_P0009_T00,"(1072, 1072)","[967, 178]",37.56019878387451,39.6164608001709
+"Are there any other symptoms, such as nausea, vomiting, diarrhea?",S006640_P0009_T00,"(1073, 1073)","[874, 6]",62.46948051452637,34.18194055557251
+The classmates achieved the first place at the sports meeting.,S006667_P0009_T00,"(1074, 1074)","[800, 735]",76.14693641662598,33.03416061401367
+"The applet does not need to be downloaded, it can be used directly, which is very convenient.",S006674_P0009_T00,"(1075, 1075)","[541, 840]",72.38619613647461,29.306718826293945
+The prescription that the doctor prescribed me was specially cured for colds.,S006677_P0000_T00,"(1076, 1076)","[503, 712]",66.17036628723145,36.97640037536621
+I can't stand this tedious life.,S006686_P0009_T00,"(1077, 1077)","[26, 751]",80.36273384094238,31.818184852600098
+"Fortunately, I found it in time, otherwise it would be unlucky.",S006694_P0000_T00,"(1078, 1078)","[135, 698]",73.97232055664062,52.95909595489502
+"He wandered on the street, his face showed a blank look.",S006699_P0000_T00,"(1079, 1079)","[42, 969]",81.06714248657227,44.111870765686035
+"He would only brag, and once he really wanted to do things, he looked at him with a blank face.",S006700_P0000_T00,"(1080, 1080)","[829, 351]",72.26334285736084,51.433743953704834
+"According to state regulations, students must pay miscellaneous fees every semester.",S006715_P0009_T00,"(1081, 1081)","[46, 1047]",60.08285713195801,38.28913402557373
+"When I grow up, I must sign up for the army and go to the front line to be a nurse.",S006748_P0009_T00,"(1082, 1082)","[28, 803]",68.38732624053955,28.62627935409546
+We should teach the way of not being injured in physical education classes.,S006754_P0000_T00,"(1083, 1083)","[632, 1054]",81.21888160705566,38.85964107513428
+Our teacher is very careful and always pays attention to the subtle changes in the students.,S006761_P0009_T00,"(1084, 1084)","[940, 780]",79.7096815109253,45.17946529388428
+The bank card is limited to my use and shall not be rented or borrowed.,S006770_P0009_T00,"(1085, 1085)","[1165, 27]",60.431236267089844,30.31291675567627
+Are you willing to sign a common property for buying or renting?,S006772_P0000_T00,"(1086, 1086)","[317, 805]",69.96727561950684,50.5459566116333
+"This infectious disease is spread through air, you should pay attention to prevention.",S006779_P0000_T00,"(1087, 1087)","[317, 1031]",85.66103935241699,52.41628646850586
+"Twenty years later, he finally settled with the help of the government.",S006813_P0000_T00,"(1088, 1088)","[904, 687]",75.76935768127441,25.324543237686157
+Medical staff are wearing snow -white clothes.,S006819_P0007_T00,"(1089, 1089)","[663, 605]",65.9286584854126,31.279240608215332
+"Maintaining the status quo is still not enough, and it must be made breakthrough.",S006835_P0000_T00,"(1090, 1090)","[1040, 1057]",46.08049392700195,35.39789962768555
+"Maintaining the status quo is still not enough, and it must be made breakthrough.",S006835_P0003_T00,"(1091, 1091)","[244, 537]",46.08049392700195,33.86556816101074
+"If you lose the passbook, go to the bank to make up.",S006854_P0007_T00,"(1092, 1092)","[34, 168]",65.99455451965332,37.92222309112549
+"When he was lifted into the stretcher, he was in a coma.",S006868_P0000_T00,"(1093, 1093)","[667, 49]",56.65510845184326,38.46274280548096
+"When he was lifted into the stretcher, he was in a coma.",S006868_P0007_T00,"(1094, 1094)","[111, 912]",56.65510845184326,37.70024871826172
+Workers improve their skills in their work.,S006873_P0003_T00,"(1095, 1095)","[187, 616]",84.43437576293945,36.249935150146484
+"He only knew the idea of repeating others, and he didn't have his own claim at all.",S006875_P0007_T00,"(1096, 1096)","[292, 295]",72.82664680480957,42.97581672668457
+He wants to be a scientist in the future.,S006883_P0003_T00,"(1097, 1097)","[648, 774]",66.9671401977539,42.25695180892944
+Our campus is neat and beautiful.,S006904_P0000_T00,"(1098, 1098)","[216, 400]",66.22979354858398,34.129446029663086
+Our campus is neat and beautiful.,S006904_P0003_T00,"(1099, 1099)","[169, 863]",66.22979354858398,30.594985961914062
+The cat was frightened by the bird behind.,S006946_P0007_T00,"(1100, 1100)","[1040, 571]",73.66616535186768,30.888153553009033
+"You see that she has not said such a big grievance, what else do you have?",S006967_P0000_T00,"(1101, 1101)","[1159, 628]",82.6582670211792,45.0275993347168
+"After the teacher criticized Xiaoming, Xiaoming felt aggrieved and immediately talked to someone.",S006968_P0003_T00,"(1102, 1102)","[1029, 558]",75.34460830688477,27.07720184326172
+"After the teacher criticized Xiaoming, Xiaoming felt aggrieved and immediately talked to someone.",S006968_P0007_T00,"(1103, 1103)","[923, 159]",75.34460830688477,24.643876791000366
+"There was still a shop for rent, but now I can't find it.",S006990_P0000_T00,"(1104, 1104)","[112, 1145]",65.18567752838135,38.072350025177
+"There was still a shop for rent, but now I can't find it.",S006990_P0007_T00,"(1105, 1105)","[820, 64]",65.18567752838135,16.927493572235107
+I voluntarily join the organization.,S006995_P0007_T00,"(1106, 1106)","[1047, 1173]",88.25911617279053,18.124743938446045
+Many subway stations are specially decorated.,S007039_P0007_T00,"(1107, 1107)","[218, 872]",60.592514991760254,39.922555923461914
+The cover design is an artistic design.,S007042_P0000_T00,"(1108, 1108)","[1104, 17]",78.80827903747559,24.3738956451416
+The cover design is an artistic design.,S007042_P0003_T00,"(1109, 1109)","[762, 8]",78.80827903747559,29.231483459472656
+Write the date when signing the contract to avoid invalid.,S007053_P0000_T00,"(1110, 1110)","[939, 139]",70.05649662017822,43.471495628356934
+Write the date when signing the contract to avoid invalid.,S007053_P0007_T00,"(1111, 1111)","[33, 1023]",70.05649662017822,44.38372611999512
+What is Beijing's business card? It is the Great Hall of the People.,S007055_P0000_T00,"(1112, 1112)","[742, 151]",74.9248456954956,27.65556788444519
+What is Beijing's business card? It is the Great Hall of the People.,S007055_P0003_T00,"(1113, 1113)","[286, 60]",74.9248456954956,47.49271583557129
+Two couples went to the United States to travel together.,S007057_P0003_T00,"(1114, 1114)","[165, 65]",80.52654266357422,39.0216007232666
+Two couples went to the United States to travel together.,S007057_P0007_T00,"(1115, 1115)","[1157, 656]",80.52654266357422,41.4683723449707
+The factory urgently recruited several skilled workers.,S007065_P0003_T00,"(1116, 1116)","[716, 688]",76.83241271972656,41.3986177444458
+"In order to entertain the elder brother of Yuanyuan, his mother made a table.",S007067_P0003_T00,"(1117, 1117)","[785, 661]",76.31767463684082,49.338318824768066
+"In order to entertain the elder brother of Yuanyuan, his mother made a table.",S007067_P0007_T00,"(1118, 1118)","[603, 446]",76.31767463684082,33.13673973083496
+He is always a good example for us to learn.,S007072_P0007_T00,"(1119, 1119)","[448, 609]",69.4793472290039,31.411152839660645
+"After the child was injected, he became quiet.",S007080_P0000_T00,"(1120, 1120)","[1169, 114]",70.1855583190918,33.47755193710327
+"After the child was injected, he became quiet.",S007080_P0003_T00,"(1121, 1121)","[1099, 300]",70.1855583190918,52.052653312683105
+"If you press the inquiry, the result will appear.",S007088_P0007_T00,"(1122, 1122)","[476, 365]",52.608306884765625,40.82770347595215
+I found you chasing me when I dream.,S007118_P0003_T00,"(1123, 1123)","[660, 680]",66.46642112731934,50.566664695739746
+"I do n’t have a man, do n’t talk nonsense.",S007120_P0000_T00,"(1124, 1124)","[1064, 952]",68.74109268188477,44.97645664215088
+"You like to eat oil, why don't you eat fat?",S007121_P0000_T00,"(1125, 1125)","[770, 47]",70.01573467254639,56.789310455322266
+"You like to eat oil, why don't you eat fat?",S007121_P0007_T00,"(1126, 1126)","[311, 38]",70.01573467254639,29.800922393798828
+You should seek medical treatment in time when you have a cold.,S007123_P0000_T00,"(1127, 1127)","[36, 39]",59.09677314758301,41.002346992492676
+"With the development of China's economy, wages have increased.",S007126_P0000_T00,"(1128, 1128)","[864, 337]",80.22911930084229,42.53359031677246
+"With the development of China's economy, wages have increased.",S007126_P0003_T00,"(1129, 1129)","[123, 359]",80.22911930084229,46.6935453414917
+His knee operation was very successful.,S007133_P0003_T00,"(1130, 1130)","[1131, 409]",65.26115989685059,50.88507318496704
+His knee operation was very successful.,S007133_P0007_T00,"(1131, 1131)","[636, 699]",65.26115989685059,46.313146114349365
+Advertising companies can give full play to their technology in painting and art decoration.,S007137_P0003_T00,"(1132, 1132)","[827, 917]",73.74634742736816,29.54721164703369
+Determine the surface of the machine by MRI.,S007140_P0000_T00,"(1133, 1133)","[138, 404]",63.634286880493164,38.2400541305542
+Determine the surface of the machine by MRI.,S007140_P0003_T00,"(1134, 1134)","[1154, 673]",63.634286880493164,27.47604274749756
+There are many people who do not have hospital insurance without hospital insurance.,S007148_P0000_T00,"(1135, 1135)","[372, 615]",63.43239974975586,33.0770788192749
+People across the country deeply mourned the families of the victims in the accident.,S007154_P0003_T00,"(1136, 1136)","[189, 619]",58.72910118103027,39.75672435760498
+People across the country deeply mourned the families of the victims in the accident.,S007154_P0007_T00,"(1137, 1137)","[968, 889]",58.72910118103027,38.85550880432129
+Some students are obsessed with the Internet. Always find excuses to deceive parents' money to surf the Internet cafe.,S007160_P0003_T00,"(1138, 1138)","[43, 839]",64.87339401245117,24.393316984176636
+Teachers have made rich experience in teaching work for many years.,S007161_P0000_T00,"(1139, 1139)","[1049, 195]",84.65486812591553,30.26630687713623
+The courier actively works today.,S007167_P0007_T00,"(1140, 1140)","[1172, 345]",80.77889823913574,49.91293811798096
+"Your daughter's room is beautiful, all pink.",S007175_P0003_T00,"(1141, 1141)","[756, 647]",82.64947509765625,41.38353729248047
+"Your daughter's room is beautiful, all pink.",S007175_P0007_T00,"(1142, 1142)","[310, 209]",82.64947509765625,44.601080894470215
+Increasing fare is a way to limit customer traffic.,S007192_P0007_T00,"(1143, 1143)","[354, 982]",62.69400501251221,40.4883131980896
+"It's dark, I'm scared.",S007211_P0000_T00,"(1144, 1144)","[599, 473]",80.29692459106445,48.4104437828064
+"It's dark, I'm scared.",S007211_P0007_T00,"(1145, 1145)","[100, 318]",80.29692459106445,37.791218757629395
+It is not a long time that can not be banned.,S007218_P0007_T00,"(1146, 1146)","[151, 128]",63.485084533691406,41.72691297531128
+"Art is innovation. If it is just imitation, what else does art have?",S007229_P0003_T00,"(1147, 1147)","[235, 96]",74.97473335266113,26.38447070121765
+"Art is innovation. If it is just imitation, what else does art have?",S007229_P0007_T00,"(1148, 1148)","[53, 522]",74.97473335266113,54.11951303482056
+"There is no salary in the place where I internship, only bus subsidies.",S007256_P0003_T00,"(1149, 1149)","[714, 85]",65.16559028625488,24.887590646743774
+The eight treasure porridge has expired.,S007259_P0000_T00,"(1150, 1150)","[140, 261]",79.74173164367676,40.44254779815674
+"The more we reach the final stage, the more we can't relax.",S007278_P0000_T00,"(1151, 1151)","[806, 518]",64.8860445022583,29.355154514312744
+"The more we reach the final stage, the more we can't relax.",S007278_P0007_T00,"(1152, 1152)","[704, 573]",64.8860445022583,48.68220901489258
+"The leader was late for thirty minutes, and the meeting began.",S007293_P0000_T00,"(1153, 1153)","[1006, 993]",78.65560531616211,31.699617385864258
+"The leader was late for thirty minutes, and the meeting began.",S007293_P0003_T00,"(1154, 1154)","[79, 992]",78.65560531616211,38.689537048339844
+I will introduce these colleagues separately.,S007300_P0000_T00,"(1155, 1155)","[48, 510]",75.45087242126465,47.56332492828369
+I will introduce these colleagues separately.,S007300_P0003_T00,"(1156, 1156)","[301, 294]",75.45087242126465,46.316914558410645
+Twenty thousand.,S007307_P0003_T00,"(1157, 1157)","[752, 475]",56.559438705444336,32.29238796234131
+Some people use dead cows instead of live cows.,S007321_P0007_T00,"(1158, 1158)","[225, 990]",66.20263671875,29.08894681930542
+"Due to serious traffic jams, Dad had to divert.",S007325_P0000_T00,"(1159, 1159)","[549, 1055]",67.57553195953369,50.282225608825684
+"Due to serious traffic jams, Dad had to divert.",S007325_P0003_T00,"(1160, 1160)","[239, 700]",67.57553195953369,35.32135581970215
+This stone is formed naturally.,S007336_P0000_T00,"(1161, 1161)","[460, 614]",46.78401470184326,28.971227169036865
+My boyfriend bought a large doll for me as a birthday gift.,S007337_P0003_T00,"(1162, 1162)","[184, 654]",69.25995635986328,47.723291873931885
+My boyfriend bought a large doll for me as a birthday gift.,S007337_P0007_T00,"(1163, 1163)","[1059, 581]",69.25995635986328,33.91089630126953
+I have some colleagues who like to touch fish in muddy water at work.,S007350_P0000_T00,"(1164, 1164)","[169, 180]",57.81650352478027,44.224416732788086
+"Life is too short, it is not interesting to use it all to remembers.",S007361_P0003_T00,"(1165, 1165)","[535, 680]",59.68060493469238,38.62213897705078
+This video took your cheating behavior.,S007362_P0000_T00,"(1166, 1166)","[320, 182]",85.49309158325195,39.913597106933594
+"This money is reserved, and we will refund you after the rent.",S007372_P0000_T00,"(1167, 1167)","[440, 72]",69.66976547241211,51.73404121398926
+"This money is reserved, and we will refund you after the rent.",S007372_P0007_T00,"(1168, 1168)","[769, 1132]",69.66976547241211,30.532240867614746
+The key was broken and could not be taken out.,S007384_P0003_T00,"(1169, 1169)","[376, 857]",56.90011405944824,35.834471702575684
+Workers carefully care for flowers and trees.,S007387_P0000_T00,"(1170, 1170)","[887, 793]",66.79872512817383,36.42242908477783
+Shanghai's most international building logo is a beautiful old house.,S007390_P0003_T00,"(1171, 1171)","[659, 563]",63.31010055541992,38.87392044067383
+Kitten sleeps.,S007396_P0000_T00,"(1172, 1172)","[1043, 529]",77.58858489990234,36.56571006774902
+Kitten sleeps.,S007396_P0003_T00,"(1173, 1173)","[630, 432]",77.58858489990234,46.5980658531189
+The chef found that there was a mouse in the place where dinner.,S007397_P0000_T00,"(1174, 1174)","[909, 342]",67.78073692321777,38.165926933288574
+The chef found that there was a mouse in the place where dinner.,S007397_P0007_T00,"(1175, 1175)","[331, 217]",67.78073692321777,37.88102722167969

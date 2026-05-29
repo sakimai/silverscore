@@ -37,6 +37,9 @@ class SiLVERScore:
         i3d_checkpoint: Path to a pretrained I3D checkpoint for
             video feature extraction. If None and a video path is
             passed to :meth:`score`, the I3D model uses random weights.
+        score_scale: Multiplicative factor applied to the final score.
+            Default is ``3.5`` to match the scaling convention used in
+            the SignScore paper analysis files.
 
     Example::
 
@@ -51,6 +54,7 @@ class SiLVERScore:
         device: Optional[str] = None,
         alpha: Optional[float] = None,
         i3d_checkpoint: Optional[str] = None,
+        score_scale: float = 3.5,
     ):
         self.variant = variant
         self.task_config = get_task_config(variant)
@@ -68,6 +72,11 @@ class SiLVERScore:
 
         self._i3d_checkpoint = i3d_checkpoint
         self._i3d_extractor = None
+        self.score_scale = float(score_scale)
+        if not np.isfinite(self.score_scale) or self.score_scale <= 0:
+            raise ValueError(
+                f"score_scale must be a positive finite number, got {score_scale}"
+            )
 
         self.tokenizer = SimpleTokenizer()
         self.model = self._load_model(model_path)
@@ -81,14 +90,15 @@ class SiLVERScore:
         elif model_path is not None:
             state_dict = torch.load(model_path, map_location="cpu")
         else:
-            try:
-                hub_path = self._download_from_hub()
-                state_dict = torch.load(hub_path, map_location="cpu")
-            except Exception as e:
-                logger.warning(
-                    "Could not download finetuned weights (%s); "
-                    "using CLIP base weights only.", e
-                )
+            raise ValueError(
+                "No model_path provided. SiLVERScore requires CLCL checkpoints "
+                "trained by Cheng et al. (CiCo, CVPR 2023). Download them from "
+                "https://github.com/FangyunWei/SLRT/tree/main/CiCo and pass the "
+                "path via model_path=, e.g.:\n\n"
+                f"  SiLVERScore(variant='{self.variant}', "
+                f"model_path='/path/to/{VARIANT_CONFIGS[self.variant]['checkpoint_filename']}')\n\n"
+                "Pass model_path='none' to use base CLIP weights only (for testing)."
+            )
 
         cross_model_dir = os.path.join(
             os.path.dirname(os.path.abspath(__file__)), "cross-base"
@@ -101,20 +111,6 @@ class SiLVERScore:
         )
         model.to(self.device)
         return model
-
-    def _download_from_hub(self) -> str:
-        try:
-            from huggingface_hub import hf_hub_download
-        except ImportError:
-            raise ImportError(
-                "huggingface_hub is required to download models. "
-                "Install it with: pip install huggingface-hub"
-            )
-        cfg = VARIANT_CONFIGS[self.variant]
-        return hf_hub_download(
-            repo_id=cfg["hub_model_id"],
-            filename=cfg["checkpoint_filename"],
-        )
 
     def _tokenize_text(
         self, text: Union[str, List[str]], max_words: int = 32
@@ -243,6 +239,8 @@ class SiLVERScore:
         Returns:
             A scalar score (single video + single text) or
             a numpy array of shape ``(num_videos, num_texts)``.
+            Scores are scaled by ``score_scale`` (default: ``3.5``)
+            to align with the paper-style 0-100 range convention.
         """
         if isinstance(video, str):
             video_features = self._extract_features(video)
@@ -287,7 +285,7 @@ class SiLVERScore:
             + (1 - self.task_config.dual_mix) * T2I
         )
 
-        scores = combined.cpu().numpy()
+        scores = combined.cpu().numpy() * self.score_scale
 
         if scores.shape[0] == 1 and single_text:
             return float(scores[0, 0])
@@ -312,5 +310,6 @@ class SiLVERScore:
         return (
             f"SiLVERScore(variant='{self.variant}', "
             f"device={self.device}, "
-            f"alpha={self.task_config.alpha})"
+            f"alpha={self.task_config.alpha}, "
+            f"score_scale={self.score_scale})"
         )

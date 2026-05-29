@@ -30,7 +30,7 @@ def test_get_task_config_override():
 
 def test_all_variants_have_required_keys():
     required = {
-        "hub_model_id", "checkpoint_filename", "alpha",
+        "checkpoint_filename", "alpha",
         "feature_len", "sim_header", "pretrained_clip_name",
     }
     for name, cfg in VARIANT_CONFIGS.items():
