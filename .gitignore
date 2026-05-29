@@ -12,6 +12,7 @@ build/
 *.pth
 *.pth.tar
 *.pkl
+!repro/artifacts/pkl/*.pkl
 .env
 .ipynb_checkpoints/
 notebooks/figures/

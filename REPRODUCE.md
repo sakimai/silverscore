@@ -57,6 +57,9 @@ If you are distributing only `silverscore/`, include the following artifacts whe
   - `ph_test_openai_reorder_results.npy`
   - `csl_test_openai_reorder_results.npy`
 - Reordered GPT JSON inputs in `repro/artifacts/openai_reorder_json/`
+- Reordered PKL inputs in `repro/artifacts/pkl/`:
+  - `ph_test_openai_reorder.pkl`
+  - `csl_test_openai_reorder.pkl`
 - Random-pair index files in `repro/artifacts/random_indices/`:
   - `random_indices.npy`
   - `csl-random_indices.npy`
@@ -112,6 +115,8 @@ Apply patch from the CiCo `CLCL/` directory:
 ```bash
 git apply /path/to/silverscore/repro/cico_patch/cico_test_openai_reorder.patch
 ```
+
+The patch covers both reordered dataloader wiring and retrieval export hooks used in this release (`*_results.npy` and ID JSON dumps).
 
 Optional verification from `silverscore/`:
 
@@ -183,6 +188,8 @@ Pipeline summary for reordered experiments:
 1. GPT-reordered text JSON (and/or generated `test_openai_reorder.pkl`)
 2. CiCo retrieval output `.npy` (`*_test_openai_reorder_results.npy`)
 3. Derived analysis CSVs used by plotting/statistical notebooks
+
+In this release, reordered PKL inputs are already included under `repro/artifacts/pkl/`.
 
 To reproduce reordered SignScore CSV exports inside this repository, run:
 

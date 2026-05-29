@@ -12,6 +12,10 @@ CHECKS: Dict[str, List[str]] = {
     "main_task_retrieval.py": [
         "test_openai_reorder",
         'elif args.dataloader_type == "test_openai_reorder"',
+        "original_text_dic = test_dataloader.dataset.sentences_dict",
+        "original_video_dic = test_dataloader.dataset.video_dict",
+        "json.dump(data_to_save, json_file, indent=4)",
+        'np.save(os.path.join(args.output_dir, f"{args.datatype}_{args.dataloader_type}_results.npy"), similarity_results)',
     ],
     "dataloaders/dataloader_ph_retrieval.py": [
         "test_openai_reorder.pkl",

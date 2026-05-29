@@ -8,7 +8,45 @@ index 0000000..0000000 100644
 -    parser.add_argument("--dataloader_type", type=str, default="test", choices=["test", "test_neg", "test_openai_neg", "test_nouns", "test_verbs"],
 +    parser.add_argument("--dataloader_type", type=str, default="test", choices=["test", "test_neg", "test_openai_neg", "test_nouns", "test_verbs", "test_openai_reorder"],
                          help="Specify the type of dataloader to use.")
-@@ -870,6 +870,8 @@ def main():
+@@ -603,6 +603,16 @@ def eval_epoch(args, model, test_dataloader, device, n_gpu,istrain):
+         batch_sequence_output_list_cls, batch_visual_output_list_cls, = [], []
+ 
+         total_text_num = 0
++        original_text_dic = test_dataloader.dataset.sentences_dict
++        original_video_dic = test_dataloader.dataset.video_dict
++
++        data_to_save = {
++            "original_text_dic": original_text_dic,
++            "original_video_dic": original_video_dic
++        }
++
++        with open(f'csl_{args.dataloader_type}.json', 'w') as json_file:
++            json.dump(data_to_save, json_file, indent=4)
+ 
+         # ----------------------------
+         # 1. cache the features
+@@ -673,6 +683,18 @@ def eval_epoch(args, model, test_dataloader, device, n_gpu,istrain):
+         sim_matrix_i2t = np.stack(tuple(sim_matrix_new_i2t), axis=0)
+         sim_matrix_t2i = np.stack(tuple(sim_matrix_new_t2i), axis=0)
+ 
++        clip_score_i2t = calculate_clip_score(sim_matrix_i2t, weight=args.dual_mix)
++        clip_score_t2i = calculate_clip_score(sim_matrix_t2i, weight=args.dual_mix)
++
++        original_text_dic = np.array(original_text_dic)
++        original_video_dic = np.array(original_video_dic)
++
++        similarity_results = {
++            "text_ids": original_text_dic,
++            "video_ids": original_video_dic,
++            "clip_score_i2t": clip_score_i2t,
++            "clip_score_t2i": clip_score_t2i
++        }
++        np.save(os.path.join(args.output_dir, f"{args.datatype}_{args.dataloader_type}_results.npy"), similarity_results)
++
+         logger.info("after reshape, sim matrix size: {} x {} x {}".
+                     format(sim_matrix_i2t.shape[0], sim_matrix_i2t.shape[1], sim_matrix_i2t.shape[2]))
+ 
+@@ -870,6 +886,8 @@ def main():
          test_dataloader, test_length = DATALOADER_DICT[args.datatype]["test_nouns"](args, tokenizer)
      elif args.dataloader_type == "test_verbs":
          test_dataloader, test_length = DATALOADER_DICT[args.datatype]["test_verbs"](args, tokenizer)

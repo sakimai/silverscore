@@ -7,6 +7,10 @@ This folder contains the CiCo code edits needed to run:
 ```
 
 These edits are **reproduction-only** and are kept outside `src/silverscore`.
+They include both:
+
+- reordered dataloader support (`test_openai_reorder`)
+- reproducibility exports from retrieval runs (`*_results.npy` and dataset ID JSON dumps)
 
 ## Files affected in CiCo
 
