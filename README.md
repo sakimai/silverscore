@@ -139,22 +139,21 @@ If you use SiLVERScore in your research, please cite:
 }
 ```
 
-## Paper Reproducibility Notebook
+## Paper Figures Notebook
 
 To reproduce the paper-style analysis plots/tables, use:
 
-- `notebooks/reproduce_paper_figures.ipynb`
+- `notebooks/paper_figures.ipynb`
 
 It recreates:
 
-- Figure 2-style KDE (correct vs random, PHOENIX-14T)
-- Figure 3-style KDE (reordered hypotheses, PHOENIX-14T)
+- Figure 2 KDE (correct vs random, PHOENIX-14T)
+- Figure 3 KDE (reordered hypotheses, PHOENIX-14T)
 - Table 1 overlap/AUC values (PHOENIX-14T and CSL-Daily)
 
 Data location:
 
-- Paper CSVs are included in this repo under `notebooks/paper_data/` for out-of-the-box reproduction.
-- The notebook also supports `../signscore` if you run it in a monorepo setup.
+- Paper CSVs are included in this repo under `notebooks/paper_data/`.
 
 Run:
 
